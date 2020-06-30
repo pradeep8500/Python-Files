@@ -1,0 +1,1490 @@
+created_at,final_price,id,is_salable,name,price,qty,sku,status,visibility,website_ids,rating,reviews_count,views,sold,Discount,Percentages
+11/07/2017 18:34,210,4,TRUE,Coffee coco butter ylang ylang soap 125gm (Copy),210,0,SKU 9480,1,4,[1],0,0,0,0,0,0
+04/09/2017 16:55,0,5,TRUE,OW' Real Tulsi Green Tea + Saffron -25 bags,0,0,SKU 11067,1,4,[1],0,0,0,0,0,0
+08/06/2017 13:00,400,10,TRUE,Aum Fresh Sundarikalp Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Sundarikalp Tea 50 gm (25 Tea Bags),1,4,[1],60,3,85,1,0,1.176470588
+08/06/2017 13:29,495,11,TRUE,Baby natural laundry wash 1000 ml,495,0,Baby natural laundry wash 1000 ml,1,4,[1],0,0,0,0,0,0
+08/06/2017 13:42,95,12,TRUE,Kairali Amruthotharam Kashayam (200 ml),95,0,Kairali Amruthotharam Kashayam (200 ml),1,4,[1],80,1,29,1,0,3.448275862
+08/06/2017 14:32,400,13,TRUE,Aum Fresh Nidrakar Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Nidrakar Tea 50 gm (25 Tea Bags),1,4,[1],80,1,50,0,0,0
+08/06/2017 14:34,400,14,TRUE,Aum Fresh Memory Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Memory Tea 50 gm (25 Tea Bags),1,4,[1],80,2,51,1,0,1.960784314
+08/06/2017 14:35,30,15,TRUE,Kairali Balaguluchyedi Kashayam (200 ml),100,0,Kairali Balaguluchyedi Kashayam (200 ml),1,4,[1],100,1,26,0,70,0
+08/06/2017 14:36,400,16,TRUE,Aum Fresh Gas Relief Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Gas Relief Tea 50 gm (25 Tea Bags),1,4,[1],70,2,41,0,0,0
+08/06/2017 14:39,400,17,TRUE,Aum Fresh Vajikaran Tea 50gm (25 Tea Bags),400,0,Aum Fresh Vajikaran Tea 50gm (25 Tea Bags),1,4,[1],80,2,45,0,0,0
+08/06/2017 14:39,170,18,TRUE,Kairali Cheriya Rasnadi Kashayam (200 ml),170,0,Kairali Cheriya Rasnadi Kashayam (200 ml),1,4,[1],60,1,26,0,0,0
+08/06/2017 14:41,400,19,TRUE,Aum Fresh Shwas Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Shwas Tea 50 gm (25 Tea Bags),1,4,[1],80,1,23,0,0,0
+08/06/2017 14:43,400,20,TRUE,Aum Fresh Stress Free Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Stress Free Tea 50 gm (25 Tea Bags),1,4,[1],80,2,27,0,0,0
+08/06/2017 14:47,140,21,TRUE,Kairali Chiruvilwadi Kashayam (200 ml),140,0,Kairali Chiruvilwadi Kashayam (200 ml),1,4,[1],100,1,36,0,0,0
+08/06/2017 14:48,400,22,TRUE,Aum Fresh Sandhivata Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Sandhivata Tea 50 gm (25 Tea Bags),1,4,[1],80,1,25,0,0,0
+08/06/2017 14:55,130,23,TRUE,Kairali Dasamooladi Kashayam (200 ml),130,0,Kairali Dasamooladi Kashayam (200 ml),1,4,[1],100,1,23,0,0,0
+08/06/2017 14:58,400,24,TRUE,Aum Fresh Medohar Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Medohar Tea 50 gm (25 Tea Bags),1,4,[1],100,1,37,0,0,0
+08/06/2017 15:00,400,25,TRUE,Aum Fresh Skin Glow Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Skin Glow Tea 50 gm (25 Tea Bags),1,4,[1],100,1,29,0,0,0
+08/06/2017 15:03,400,26,TRUE,Aum Fresh Pachak Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Pachak Tea 50 gm (25 Tea Bags),1,4,[1],60,1,13,0,0,0
+08/06/2017 15:07,400,27,TRUE,Aum Fresh Hridya Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Hridya Tea 50 gm (25 Tea Bags),1,4,[1],100,1,15,0,0,0
+08/06/2017 15:10,400,28,TRUE,Aum Fresh Cold Relief Tea 50 gm (25 Tea Bags),400,0,Aum Fresh Cold Relief Tea 50 gm (25 Tea Bags),1,4,[1],80,2,15,0,0,0
+08/06/2017 15:10,145,29,TRUE,Kairali Dhanwantharam Kashayam (200 ml),145,0,Kairali Dhanwantharam Kashayam (200 ml),1,4,[1],100,2,34,0,0,0
+08/06/2017 15:15,140,30,TRUE,Kairali Drakshadi Kashayam (200 ml),140,0,Kairali Drakshadi Kashayam (200 ml),1,4,[1],60,1,19,0,0,0
+08/06/2017 15:26,175,31,TRUE,Kairali Guggulu Thiktham Kashayam (200 ml),175,0,Kairali Guggulu Thiktham Kashayam (200 ml),1,4,[1],60,1,23,0,0,0
+08/06/2017 15:26,400,32,TRUE,Aum Fresh Masala Chai 50 gm (25 Tea Bags),400,0,Aum Fresh Masala Chai 50 gm (25 Tea Bags),1,4,[1],50,2,15,0,0,0
+08/06/2017 15:29,110,33,TRUE,Kairali Indukantham Kashayam (200 ml),110,0,Kairali Indukantham Kashayam (200 ml),1,4,[1],90,2,21,0,0,0
+08/06/2017 15:33,110,34,TRUE,Kairali Sahacharadi Kashayam (200 ml),110,0,Kairali Sahacharadi Kashayam (200 ml),1,4,[1],60,1,25,0,0,0
+08/06/2017 15:47,120,35,TRUE,Kairali Sukumaram Kashayam (200 ml),120,0,Kairali Sukumaram Kashayam (200 ml),1,4,[1],60,1,22,0,0,0
+08/06/2017 15:50,165,37,TRUE,Kairali Valiya Rasnadi Kashayam (200 ml),165,0,Kairali Valiya Rasnadi Kashayam (200 ml),1,4,[1],80,1,24,0,0,0
+08/06/2017 15:51,680,38,TRUE,Chamong Organic Darjeeling Regular Tea Bag Combo  ( 25 X 4 Box = 100 Tea Bags),680,0,38,1,4,[1],80,2,11,0,0,0
+08/06/2017 15:52,110,39,TRUE,Kairali Varanadi Kashayam (200 ml),110,0,Kairali Varanadi Kashayam (200 ml),1,4,[1],100,1,14,0,0,0
+08/06/2017 15:54,110,40,TRUE,Kairali Nishakathakadi Kashayam (200 ml),110,0,Kairali Nishakathakadi Kashayam (200 ml),1,4,[1],80,1,22,1,0,4.545454545
+08/06/2017 15:55,680,41,TRUE,Chamong Organic Lemon Green Regular Tea Bag Combo ( 25 X 4 Box = 100 Tea Bags),680,0,41,1,4,[1],80,1,7,0,0,0
+08/06/2017 15:59,170,42,TRUE,Chamong Organic Lemon Splash Envelope Tea Bag ( 25 X 1 Box = 25 Tea Bags ),170,0,42,1,4,[1],80,2,16,0,0,0
+08/06/2017 16:08,165,43,TRUE,Kairali Dadimadi gritham 150gms,165,0,Kairali Dadimadi gritham 150gms,1,4,[1],100,1,9,0,0,0
+08/06/2017 16:24,100,45,TRUE,Kairali Kalyana Gudam (250 grams),100,0,Kairali Kalyana Gudam (250 grams),1,4,[1],100,1,13,0,0,0
+08/06/2017 16:32,110,46,TRUE,Kairali Manibhadra Gudam (250 grams),110,0,Kairali Manibhadra Gudam (250 grams),1,4,[1],80,1,15,0,0,0
+08/06/2017 16:34,145,47,TRUE,Kairali Narasimha Rasayanam (250 grams),145,0,Kairali Narasimha Rasayanam (250 grams),1,4,[1],100,1,14,0,0,0
+08/06/2017 16:36,140,48,TRUE,Kairali Thrivrith Lehyam (250 grams),140,0,Kairali Thrivrith Lehyam (250 grams),1,4,[1],100,1,11,0,0,0
+08/06/2017 16:44,270,49,TRUE,Kairali Chandraprabha Gulika (100 Pills),270,0,Kairali Chandraprabha Gulika (100 Pills),1,4,[1],100,1,14,0,0,0
+08/06/2017 16:46,680,50,TRUE,Chamong Organic Darjeeling Green Envelope Tea Bag Combo ( 25 X 4 Box = 100 Tea Bags ),680,0,50,1,4,[1],60,1,12,0,0,0
+08/06/2017 16:47,200,51,TRUE,Kairali Dhanwantharam Gulika (100 Pills),200,0,Kairali Dhanwantharam Gulika (100 Pills),1,4,[1],100,1,13,0,0,0
+08/06/2017 16:53,340,52,TRUE,Kairali Kaisore Guggulu (100 Pills),340,0,Kairali Kaisore Guggulu (100 Pills),1,4,[1],100,1,9,0,0,0
+08/06/2017 16:53,170,53,TRUE,Chamong Organic Darjeeling Green Envelope Tea Bag ( 25 X 1 Box = 25 Tea Bags ),170,0,53,1,4,[1],80,1,21,0,0,0
+08/06/2017 16:56,1070,54,TRUE,Kairali Manasamitram Gulika (100 Pills),1070,0,Kairali Manasamitram Gulika (100 Pills),1,4,[1],60,1,29,0,0,0
+08/06/2017 16:57,180,55,TRUE,Chamong Organic Lemon Green Regular Tea Bag ( 25 X 2 Box = 50 Tea Bags ),180,0,55,1,4,[1],100,1,20,0,0,0
+08/06/2017 16:59,300,56,TRUE,Kairali Yograj Guggulu (100 Pills),300,0,Kairali Yograj Guggulu (100 Pills),1,4,[1],60,1,12,0,0,0
+08/06/2017 17:00,680,57,TRUE,Chamong Organic Tulsi Green Envelope Tea Bag Combo ( 25 X 4 Box = 100 Tea Bags ),680,0,57,1,4,[1],80,1,13,1,0,7.692307692
+08/06/2017 17:02,170,58,TRUE,Chamong Organic Tulsi Green Envelope Tea Bag ( 25 X 1 Box = 25 Tea Bags ),170,0,58,1,4,[1],80,1,13,0,0,0
+08/06/2017 17:10,65,59,TRUE,Kairali ashta choornam 50gms,65,0,Kairali ashta choornam 50gms,1,4,[1],80,1,11,0,0,0
+08/06/2017 17:18,50,60,TRUE,Kairali avipathy choornam 50gms,50,0,Kairali avipathy choornam 50gms,1,4,[1],60,1,10,0,0,0
+08/06/2017 17:42,85,61,TRUE,Kairali Dasanakanthi Choornam (50 grams),85,0,Kairali Dasanakanthi Choornam (50 grams),1,4,[1],80,1,14,0,0,0
+08/06/2017 17:45,80,62,TRUE,Kairali eladi choornam 50gms,80,0,Kairali eladi choornam 50gms,1,4,[1],60,1,8,0,0,0
+08/06/2017 18:00,380,63,TRUE,Amla & Ashwagandha powder 200gm,400,0,Amla & Ashwagandha powder 200gm,1,4,[1],100,1,14,0,5,0
+08/06/2017 18:03,300,64,TRUE,Aumfresh Amla powder 200gm,300,0,Aumfresh Amla powder 200gm,1,4,[1],80,1,13,0,0,0
+08/06/2017 18:05,65,65,TRUE,Kairali Gulgulupanchapalam Choornam (50 grams),65,0,Kairali Gulgulupanchapalam Choornam (50 grams),1,4,[1],100,1,12,0,0,0
+08/06/2017 18:05,200,66,TRUE,Aumfresh Chives flakes 50gm,200,0,Aumfresh Chives flakes 50gm,1,4,[1],80,1,13,0,0,0
+08/06/2017 18:07,200,67,TRUE,Aumfresh Garlic granules 50gm,200,0,Aumfresh Garlic granules 50gm,1,4,[1],70,2,21,0,0,0
+08/06/2017 18:08,200,68,TRUE,Aumfresh Ginger powder 200gm,200,0,Aumfresh Ginger powder 200gm,1,4,[1],60,1,23,0,0,0
+08/06/2017 18:08,45,69,TRUE,Kairali Hinguvachadi Choornam (50 grams),45,0,Kairali Hinguvachadi Choornam (50 grams),1,4,[1],100,1,10,0,0,0
+08/06/2017 18:11,150,70,TRUE,Aumfresh Lemon grass powder 50gm,150,0,Aumfresh Lemon grass powder 50gm,1,4,[1],80,1,22,0,0,0
+08/06/2017 18:15,200,71,TRUE,Aumfresh Moringa leaf powder 150gm,200,0,Aumfresh Moringa leaf powder 150gm,1,4,[1],80,1,16,0,0,0
+08/06/2017 18:15,55,72,TRUE,Kairali Kachoradi Choornam (10 grams),55,0,Kairali Kachoradi Choornam (10 grams),1,4,[1],60,1,11,0,0,0
+08/06/2017 18:19,300,73,TRUE,Aumfresh Wheat grass powder 100gm,300,0,Aumfresh Wheat grass powder 100gm,1,4,[1],100,1,19,0,0,0
+08/06/2017 18:20,260,74,TRUE,Kairali Kachoradi Choornam (50 grams),260,0,Kairali Kachoradi Choornam (50 grams),1,4,[1],80,1,14,0,0,0
+08/06/2017 18:22,300,75,TRUE,Aumfresh Barley grass powder 100gm,330,0,Aumfresh Barley grass powder 100gm,1,4,[1],60,1,32,0,9.090909091,0
+08/06/2017 18:25,200,76,TRUE,Aumfresh Spinach powder 150gm,200,0,Aumfresh Spinach powder 150gm,1,4,[1],80,1,24,0,0,0
+08/06/2017 18:26,150,77,TRUE,Aumfresh Spring Onion Flakes 50 gm,150,0,Aumfresh Spring Onion Flakes 50 gm,1,4,[1],100,1,23,0,0,0
+08/06/2017 18:27,200,78,TRUE,Aumfresh Triphala powder 200gm,200,0,Aumfresh Triphala powder 200gm,1,4,[1],80,1,13,0,0,0
+08/06/2017 18:29,280,79,TRUE,Aumfresh Tulsi flakes 100gm,300,0,Aumfresh Tulsi flakes 100gm,1,4,[1],80,1,18,0,6.666666667,0
+08/06/2017 18:31,200,80,TRUE,Aumfresh Turmeric Powder 200 gm,200,0,Aumfresh Turmeric Powder 200 gm,1,4,[1],90,2,17,0,0,0
+08/06/2017 18:33,75,81,TRUE,Kairali Kottamchukkadi Choornam (100 grams),75,0,Kairali Kottamchukkadi Choornam (100 grams),1,4,[1],100,1,10,1,0,10
+08/06/2017 18:56,50,82,TRUE,Kairali Nimbadi Choornam (50 grams),50,0,Kairali Nimbadi Choornam (50 grams),1,4,[1],60,1,10,0,0,0
+08/06/2017 18:58,15,83,TRUE,Kairali Rasanadi Choornam (10 grams),15,0,Kairali Rasanadi Choornam (10 grams),1,4,[1],75,4,14,0,0,0
+08/06/2017 19:01,70,84,TRUE,Kairali Rasanadi Choornam (50 grams),70,0,Kairali Rasanadi Choornam (50 grams),1,4,[1],80,1,10,0,0,0
+08/06/2017 19:06,95,85,TRUE,Kairali Shaddharana Choornam (50 grams),95,0,Kairali Shaddharana Choornam (50 grams),1,4,[1],80,1,11,0,0,0
+08/06/2017 19:11,50,86,TRUE,Kairali Thaleespatradi Choornam (50 grams),50,0,Kairali Thaleespatradi Choornam (50 grams),1,4,[1],80,1,19,0,0,0
+08/06/2017 19:35,50,87,TRUE,Kairali Vaiswanara Choornam (50 grams),50,0,Kairali Vaiswanara Choornam (50 grams),1,4,[1],100,1,14,0,0,0
+08/06/2017 19:38,65,88,TRUE,Kairali Valiya Karpooradi Choornam (50 grams),65,0,Kairali Valiya Karpooradi Choornam (50 grams),1,4,[1],100,1,16,0,0,0
+08/06/2017 19:49,70,89,TRUE,Kairali Anu Thailam (10 ml),70,0,Kairali Anu Thailam (10 ml),1,4,[1],60,1,10,0,0,0
+08/06/2017 19:51,130,90,TRUE,Kairali Balaguluchyadi Kera Thailam (200 ml),130,0,Kairali Balaguluchyadi Kera Thailam (200 ml),1,4,[1],80,1,19,0,0,0
+08/06/2017 19:53,170,91,TRUE,Kairali Balaswagandhadi Thailam (200 ml),170,0,Kairali Balaswagandhadi Thailam (200 ml),1,4,[1],100,1,11,0,0,0
+08/06/2017 19:56,75,92,TRUE,Kairali Bala Thailam (10 ml),75,0,Kairali Bala Thailam (10 ml),1,4,[1],90,2,15,0,0,0
+08/06/2017 20:03,120,93,TRUE,Kairali Cheriya Chandhanadi Thailam (200 ml),120,0,Kairali Cheriya Chandhanadi Thailam (200 ml),1,4,[1],80,1,10,0,0,0
+08/06/2017 20:11,150,94,TRUE,Kairali Dhanwantharam Thailam (200 ml),150,0,Kairali Dhanwantharam Thailam (200 ml),1,4,[1],100,1,8,0,0,0
+08/06/2017 20:14,160,95,TRUE,Kairali Dhoordhoorapathradi Kera Thailam (200 ml),160,0,Kairali Dhoordhoorapathradi Kera Thailam (200 ml),1,4,[1],80,1,39,0,0,0
+08/06/2017 20:15,160,96,TRUE,Kairali Eladi Kera Thailam (200 ml),160,0,Kairali Eladi Kera Thailam (200 ml),1,4,[1],60,1,7,0,0,0
+08/06/2017 20:16,85,97,TRUE,Kairali Gandha Thailam (10 ml),85,0,Kairali Gandha Thailam (10 ml),1,4,[1],80,1,4,0,0,0
+09/06/2017 10:56,140,98,TRUE,Kairali Karpasasthyadi Thailam (200 ml),140,0,Kairali Karpasasthyadi Thailam (200 ml),1,4,[1],60,1,4,0,0,0
+09/06/2017 11:02,210,99,TRUE,Coffee coco butter ylang ylang soap 125gm,210,0,Coffee coco butter ylang ylang soap 125gm,1,4,[1],100,1,13,0,0,0
+09/06/2017 11:16,125,100,TRUE,Kairali Karpooradi Thailam (200 ml),125,0,Kairali Karpooradi Thailam (200 ml),1,4,[1],80,1,6,0,0,0
+09/06/2017 11:19,210,101,TRUE,Wheat Germ Orange vit E Soap 125gm,210,0,Wheat Germ Orange vit E Soap 125gm,1,4,[1],100,1,16,0,0,0
+09/06/2017 11:22,140,102,TRUE,Kairali Kayyanyadi Kera Thailam (200 ml),140,0,Kairali Kayyanyadi Kera Thailam (200 ml),1,4,[1],80,1,4,0,0,0
+09/06/2017 11:24,210,103,TRUE,Moisturizing Aloe Vera Jasmine 125gm,210,0,Moisturizing Aloe Vera Jasmine 125gm,1,4,[1],100,1,36,0,0,0
+09/06/2017 11:27,210,104,TRUE,Almond Rose Jojoba soap 125gm,210,0,Almond Rose Jojoba soap 125gm,1,4,[1],60,1,16,0,0,0
+09/06/2017 11:28,140,105,TRUE,Kairali Kayyanyadi Thailam (200 ml),140,0,Kairali Kayyanyadi Thailam (200 ml),1,4,[1],60,1,4,0,0,0
+09/06/2017 11:32,135,106,TRUE,Kairali Kottamchukkadi Thailam (200 ml),135,0,Kairali Kottamchukkadi Thailam (200 ml),1,4,[1],100,1,7,0,0,0
+09/06/2017 11:33,210,107,TRUE,Cinnamon Honey Lavendar 125gm,210,0,Cinnamon Honey Lavendar 125gm,1,4,[1],60,1,14,0,0,0
+09/06/2017 11:38,210,108,TRUE,Aromatic Lemongrass Shea Butter Clove 125gm,210,0,Aromatic Lemongrass Shea Butter Clove 125gm,1,4,[1],80,1,22,1,0,4.545454545
+09/06/2017 11:41,90,109,TRUE,Kairali Ksheerabala(101) (10 ml),90,0,Kairali Ksheerabala(101) (10 ml),1,4,[1],60,1,7,0,0,0
+09/06/2017 11:44,210,110,TRUE,Apple Cider  Bergamot Soap 125gm,210,0,Apple Cider  Bergamot Soap 125gm,1,4,[1],100,1,28,0,0,0
+09/06/2017 12:02,165,111,TRUE,Kairali Lakshadi Kuzhambu (200 ml),165,0,Kairali Lakshadi Kuzhambu (200 ml),1,4,[1],60,1,7,0,0,0
+09/06/2017 12:05,85,112,TRUE,Kairali Maharajaprasarani Thailam (10 ml),85,0,Kairali Maharajaprasarani Thailam (10 ml),1,4,[1],60,1,8,0,0,0
+09/06/2017 12:06,210,113,TRUE,Goat Milk Lavendar Soap 125gm,210,0,Goat Milk Lavendar Soap 125gm,1,4,[1],60,1,22,0,0,0
+09/06/2017 12:10,130,114,TRUE,Kairali Nalpamaradi Thailam (200 ml),130,0,Kairali Nalpamaradi Thailam (200 ml),1,4,[1],60,1,6,0,0,0
+09/06/2017 12:11,210,115,TRUE,Walnut Cinnamon Scrub Soap 125gm,210,0,Walnut Cinnamon Scrub Soap 125gm,1,4,[1],100,1,16,0,0,0
+09/06/2017 12:15,210,116,TRUE,Oatmeal Lemongrass Soap 125gm,210,0,Oatmeal Lemongrass Soap 125gm,1,4,[1],100,1,29,0,0,0
+09/06/2017 12:15,180,117,TRUE,Kairali Neelibringadi Kera Thailam (200 ml),180,0,Kairali Neelibringadi Kera Thailam (200 ml),1,4,[1],100,1,3,0,0,0
+09/06/2017 12:17,210,118,TRUE,Fuller Earth Papaya Extract 125gm,210,0,Fuller Earth Papaya Extract 125gm,1,4,[1],80,1,11,0,0,0
+09/06/2017 12:18,180,119,TRUE,Kairali Neelibringadi Thailam (200 ml),180,0,Kairali Neelibringadi Thailam (200 ml),1,4,[1],100,1,7,0,0,0
+09/06/2017 12:20,210,120,TRUE,Creamy Orange Mustard Seeds 125gm,210,0,Creamy Orange Mustard Seeds 125gm,1,4,[1],100,2,21,0,0,0
+09/06/2017 12:21,100,121,TRUE,Kairali Pinda Thailam (200 ml),120,0,Kairali Pinda Thailam (200 ml),1,4,[1],80,1,5,0,16.66666667,0
+09/06/2017 12:24,145,122,TRUE,Kairali Prabhanjanavimardanam Thailam (200 ml),145,0,Kairali Prabhanjanavimardanam Thailam (200 ml),1,4,[1],80,1,6,0,0,0
+09/06/2017 12:25,210,123,TRUE,Pumpkin seed Ylang Ylang 125gm,210,0,Pumpkin seed Ylang Ylang 125gm,1,4,[1],100,1,12,0,0,0
+09/06/2017 12:28,135,124,TRUE,Kairali Sudhabala Thailam (200 ml),135,0,Kairali Sudhabala Thailam (200 ml),1,4,[1],80,1,5,0,0,0
+09/06/2017 12:30,145,125,TRUE,Kairali Thriphaladi Kera Thailam (200 ml),145,0,Kairali Thriphaladi Kera Thailam (200 ml),1,4,[1],80,1,5,0,0,0
+09/06/2017 12:31,210,126,TRUE,Mocha  Calendula Cedar 125gm,210,0,Mocha  Calendula Cedar 125gm,1,4,[1],60,1,18,0,0,0
+09/06/2017 12:32,140,127,TRUE,Kairali Valiya Chinchadi Thailam (200 ml),140,0,Kairali Valiya Chinchadi Thailam (200 ml),1,4,[1],80,1,6,0,0,0
+09/06/2017 12:34,210,128,TRUE,Calendula  Rosemary Shea Butter 125gm,210,0,Calendula  Rosemary Shea Butter 125gm,1,4,[1],80,1,22,0,0,0
+09/06/2017 12:34,165,129,TRUE,Kairali Valiya Narayana Thailam (200 ml),165,0,Kairali Valiya Narayana Thailam (200 ml),1,4,[1],100,1,6,0,0,0
+09/06/2017 12:36,150,130,TRUE,Kairali Valiya Sahacharadi Thailam (200 ml),150,0,Kairali Valiya Sahacharadi Thailam (200 ml),1,4,[1],60,1,10,0,0,0
+09/06/2017 12:36,210,131,TRUE,Avocado Peppermint Tea Tree Vit E 125gm,210,0,Avocado Peppermint Tea Tree Vit E 125gm,1,4,[1],87,3,22,0,0,0
+09/06/2017 12:40,210,132,TRUE,Tulsi Rosemary Shea Butter Vit E Soap 125gm,210,0,Tulsi Rosemary Shea Butter Vit E Soap 125gm,1,4,[1],93,3,12,0,0,0
+09/06/2017 12:43,210,133,TRUE,Charcoal Cedar Soap 125gm,210,0,Charcoal Cedar Soap 125gm,1,4,[1],100,1,12,1,0,8.333333333
+09/06/2017 12:46,210,134,TRUE,Neem Oil Tea Tree Clove 125gm,210,0,Neem Oil Tea Tree Clove 125gm,1,4,[1],60,1,16,0,0,0
+09/06/2017 12:52,210,135,TRUE,Calamine Rosemary Soap 125gm,210,0,Calamine Rosemary Soap 125gm,1,4,[1],100,1,10,0,0,0
+09/06/2017 12:55,210,136,TRUE,Mulethi Turmeric Sandal Soap 125gm,210,0,Mulethi Turmeric Sandal Soap 125gm,1,4,[1],100,1,23,0,0,0
+09/06/2017 13:47,210,137,TRUE,Honey Rose Vit E 125gm,210,0,Honey Rose Vit E 125gm,1,4,[1],60,1,10,0,0,0
+09/06/2017 13:49,210,138,TRUE,Anti-aging Argan Aloe Cucumber 125gm,210,0,Anti-aging Argan Aloe Cucumber 125gm,1,4,[1],80,1,19,0,0,0
+09/06/2017 13:58,210,139,TRUE,Turmeric Lemon Clarifying 125gm,210,0,Turmeric Lemon Clarifying 125gm,1,4,[1],60,1,18,0,0,0
+09/06/2017 14:04,210,140,TRUE,Green Tea Lemongrass 125gm,210,0,Green Tea Lemongrass 125gm,1,4,[1],80,1,18,0,0,0
+09/06/2017 14:09,210,141,TRUE,Tulsi Aloe Honey Geranium 125gm,210,0,Tulsi Aloe Honey Geranium 125gm,1,4,[1],80,1,16,0,0,0
+09/06/2017 14:12,210,142,TRUE,Neem Basil Sandalwood 125gm,210,0,Neem Basil Sandalwood 125gm,1,4,[1],100,1,22,0,0,0
+09/06/2017 14:16,210,143,TRUE,Sandalwood Almond  Vit E Avocado Neem  125 gm,210,0,Sandalwood Almond  Vit E Avocado Neem  125 gm,1,4,[1],80,1,12,0,0,0
+09/06/2017 14:46,650,144,TRUE,Refreshing Bath Oil 150ml,650,0,Refreshing Bath Oil 150ml,1,4,[1],80,1,16,0,0,0
+09/06/2017 14:58,950,145,TRUE,Toning 5 Element Massage  Oil 150ml,950,0,Toning 5 Element Massage  Oil 150ml,1,4,[1],80,1,15,0,0,0
+09/06/2017 15:01,525,146,TRUE,Baby Soothing Massage Oil 150ml,525,0,Baby Soothing Massage Oil 150ml,1,4,[1],60,1,19,0,0,0
+09/06/2017 15:14,525,147,TRUE,Stress Relief Massage Oil 150ml,525,0,Stress Relief Massage Oil 150ml,1,4,[1],80,1,3,0,0,0
+09/06/2017 15:19,525,148,TRUE,Deep Sleep Relaxation Oil 150ml,525,0,Deep Sleep Relaxation Oil 150ml,1,4,[1],60,1,3,0,0,0
+09/06/2017 15:23,525,149,TRUE,Pain Relief Oil 150ml,525,0,Pain Relief Oil 150ml,1,4,[1],90,2,3,0,0,0
+09/06/2017 15:44,75,150,TRUE,Arogya Rahasya Amla juice 500ml,75,0,Arogya Rahasya Amla juice 500ml,1,4,[1],60,1,22,0,0,0
+09/06/2017 15:45,140,151,TRUE,Arogya Rahasya Karela juice 500ml,140,0,Arogya Rahasya Karela juice 500ml,1,4,[1],100,1,28,2,0,7.142857143
+09/06/2017 15:48,140,152,TRUE,Arogyarahasya Jamun juice 500ml,140,0,Arogyarahasya Jamun juice 500ml,1,4,[1],60,2,38,0,0,0
+09/06/2017 15:52,140,153,TRUE,Arogya Rahasya Karela jamun juice 500ml,140,0,Arogya Rahasya Karela jamun juice 500ml,1,4,[1],70,2,38,0,0,0
+09/06/2017 15:53,130,154,TRUE,Arogya Rahasya Neem juice 500ml,130,0,Arogya Rahasya Neem juice 500ml,1,4,[1],80,1,22,0,0,0
+09/06/2017 15:55,140,155,TRUE,Arogya Rahasya Giloy juice 500ml,140,0,Arogya Rahasya Giloy juice 500ml,1,4,[1],60,1,25,1,0,4
+09/06/2017 15:57,110,156,TRUE,Arogyarahasya Turmeric juice 200ml,110,0,Arogyarahasya Turmeric juice 200ml,1,4,[1],80,2,23,1,0,4.347826087
+09/06/2017 16:09,259,157,TRUE,Darjeeling Green tea with Rose Petals 10 tea bags,259,0,Darjeeling Green tea with Rose Petals 10 tea bags,1,4,[1],60,1,11,0,0,0
+09/06/2017 16:15,239,158,TRUE,Darjeeling Green Tea with Arjun Bark (Ayurvedic Herb) 50gms,239,0,Darjeeling Green Tea with Arjun Bark (Ayurvedic Herb) 50gms,1,4,[1],60,1,12,0,0,0
+09/06/2017 16:21,489,159,TRUE,Green tea with lemongrass-50gm,489,0,Green tea with lemongrass-50gm,1,4,[1],100,1,12,0,0,0
+09/06/2017 16:24,252,160,TRUE,Darjeeling Green tea with Ginger,252,0,Darjeeling Green tea with Ginger,1,4,[1],60,1,12,0,0,0
+09/06/2017 16:29,259,161,TRUE,Green Tea with Indian Masala,259,0,Green Tea with Indian Masala,1,4,[1],100,1,11,0,0,0
+09/06/2017 16:36,289,162,TRUE,Organic Moringa Powder ayurvedic shigru powder 100gms,289,0,Organic Moringa Powder ayurvedic shigru powder 100gms,1,4,[1],100,1,16,0,0,0
+09/06/2017 16:38,239,163,TRUE,Darjeeling  Black Tea FTGFOP 1 50gms,239,0,Darjeeling  Black Tea FTGFOP 1 50gms,1,4,[1],100,1,10,0,0,0
+09/06/2017 16:42,259,164,TRUE,Woods n petals Chamomile Tea -10 bags,259,0,Woods n petals Chamomile Tea -10 bags,1,4,[1],60,1,18,0,0,0
+09/06/2017 16:43,425,165,TRUE,Sweet Almond Cocoa Body Butter 100gm,425,0,Sweet Almond Cocoa Body Butter 100gm,1,4,[1],80,1,16,0,0,0
+09/06/2017 16:45,489,166,TRUE,Green Tea with Jasmine Flower -10 bags,489,0,Green Tea with Jasmine Flower -10 bags,1,4,[1],100,1,9,0,0,0
+09/06/2017 16:47,40,167,TRUE,Arogya rahasyamulu Telugu book,40,0,Arogya rahasyamulu Telugu book,1,4,[1],60,1,36,2,0,5.555555556
+09/06/2017 16:49,50,168,TRUE,Arogya Rahasya Godhan Telugu book,50,0,Arogya Rahasya Godhan Telugu book,1,4,[1],60,1,25,0,0,0
+09/06/2017 16:51,389,169,TRUE,White Tea -10 bags,389,0,White Tea -10 bags,1,4,[1],100,1,24,0,0,0
+09/06/2017 16:51,180,170,TRUE,Arogya Rahasya Idi swatantryama banisatwama Telugu book,180,0,Arogya Rahasya Idi swatantryama banisatwama Telugu book,1,4,[1],100,2,30,0,0,0
+09/06/2017 16:53,199,171,TRUE,Organic moringa mint tea  ( Ayurvedic shigru pudina chai ) -10 bags,199,0,171,1,4,[1],100,2,17,2,0,11.76470588
+09/06/2017 16:57,199,172,TRUE,Organic moringa ashwagandha tea  (Ayurvedic shigru ashwagandha chai ) -10 bags,199,0,172,1,4,[1],100,1,5,0,0,0
+09/06/2017 16:58,199,173,TRUE,Organic moringa ginger tea  ( Ayurvedic shigru adrak  chai ) -10 bags,199,0,173,1,4,[1],60,1,8,0,0,0
+09/06/2017 17:01,150,174,TRUE,Moringa Curry Leaves Hair Pack,150,0,Moringa Curry Leaves Hair Pack,1,4,[1],60,1,3,0,0,0
+09/06/2017 17:02,342,175,TRUE,Orange Peel Powder,342,0,Orange Peel Powder,1,4,[1],100,1,23,0,0,0
+09/06/2017 17:03,25,176,TRUE,Arogya rahasyamulu Telugu CD 1pc,25,0,Arogya rahasyamulu Telugu CD 1pc,1,4,[1],60,2,29,0,0,0
+09/06/2017 17:04,289,177,TRUE,Ayurvedic ubtan / kanti lepa ( face and body bath powder ) 75gms,289,0,Ayurvedic ubtan / kanti lepa ( face and body bath powder ) 75gms,1,4,[1],100,2,12,1,0,8.333333333
+09/06/2017 17:07,25,178,TRUE,Arogya Rahasya Godhan Telugu CD 1pc,25,0,Arogya Rahasya Godhan Telugu CD 1pc,1,4,[1],53,3,21,0,0,0
+09/06/2017 17:09,25,179,TRUE,Arogya Rahasya Godhan Hindi CD 1pc,25,0,Arogya Rahasya Godhan Hindi CD 1pc,1,4,[1],60,1,24,0,0,0
+09/06/2017 17:22,289,180,TRUE,Organic Moringa Powder ayurvedic shigru powder 100gms,289,0,Organic Moringa Powder ayurvedic shigru powder 100gms-1,1,4,[1],100,1,21,0,0,0
+09/06/2017 17:35,549,181,TRUE,Ayurvedic Ubtan Set of 2-75gm,549,0,Ayurvedic Ubtan Set of 2-75gm,1,4,[1],80,1,22,0,0,0
+09/06/2017 17:37,549,182,TRUE,Moringa Curry Leaves Hair Pack Set of 2-75gm,549,0,Moringa Curry Leaves Hair Pack Set of 2-75gm,1,4,[1],60,1,6,0,0,0
+09/06/2017 17:41,25,183,TRUE,Arogya Rahasya Idi swatantryama Baanisatvama Telugu CD,25,0,Arogya Rahasya Idi swatantryama Baanisatvama Telugu CD,1,4,[1],60,2,23,0,0,0
+09/06/2017 17:42,378,184,TRUE,Moringa Ginger Set of 2,378,0,Moringa Ginger Set of 2,1,4,[1],80,1,17,0,0,0
+09/06/2017 17:44,378,185,TRUE,Moringa Ashwagandha Set of 2,378,0,Moringa Ashwagandha Set of 2,1,4,[1],80,1,3,0,0,0
+09/06/2017 17:45,25,186,TRUE,Arogya Rahasya Kya yah aazadi hai ya ghulami Hindi CD 1pc,25,0,Arogya Rahasya Kya yah aazadi hai ya ghulami Hindi CD 1pc,1,4,[1],60,2,25,1,0,4
+09/06/2017 17:48,25,187,TRUE,Arogya Rahasya Ganapathi Utsavalu endhuku Telugu CD 1pc,25,0,Arogya Rahasya Ganapathi Utsavalu endhuku Telugu CD 1pc,1,4,[1],35,4,18,0,0,0
+09/06/2017 17:48,378,188,TRUE,Moringa Mint Set of 2,378,0,Moringa Mint Set of 2,1,4,[1],100,1,3,0,0,0
+09/06/2017 17:48,425,189,TRUE,Avocado Healing Shea Body Butter 100gm,425,0,Avocado Healing Shea Body Butter 100gm,1,4,[1],60,1,11,0,0,0
+09/06/2017 17:50,489,190,TRUE,Green Tea with Indian Masala Set of 2,489,0,Green Tea with Indian Masala Set of 2,1,4,[1],60,1,13,0,0,0
+09/06/2017 17:52,739,191,TRUE,White Tea Set of 2,739,0,White Tea Set of 2,1,4,[1],100,1,12,0,0,0
+09/06/2017 17:53,425,192,TRUE,Vit E Anti-Stretch Shea Body Butter 100gm,425,0,Vit E Anti-Stretch Shea Body Butter 100gm,1,4,[1],100,1,20,0,0,0
+09/06/2017 17:54,489,193,TRUE,Green Tea with Ginger Set of 2,489,0,Green Tea with Ginger Set of 2,1,4,[1],80,1,19,0,0,0
+09/06/2017 17:55,425,194,TRUE,Sandalwood Diaper Rash Baby Butter 100gm,425,0,Sandalwood Diaper Rash Baby Butter 100gm,1,4,[1],80,1,22,0,0,0
+09/06/2017 17:56,489,195,TRUE,Chamomile Tea set of 2,489,0,Chamomile Tea set of 2,1,4,[1],100,1,27,0,0,0
+09/06/2017 17:58,259,196,TRUE,Darjeeling Green tea with Lemongrass 50gms,259,0,Darjeeling Green tea with Lemongrass 50gms,1,4,[1],60,1,12,0,0,0
+09/06/2017 17:59,239,197,TRUE,Darjeeling Green Tea with Arjun Bark (Ayurvedic Herb) 50gms,239,0,Darjeeling Green Tea with Arjun Bark (Ayurvedic Herb) 50gms-1,1,4,[1],60,1,20,0,0,0
+09/06/2017 18:00,65,198,TRUE,Arogya Rahasya Trifala churn 200gms,65,0,Arogya Rahasya Trifala churn 200gms,1,4,[1],100,1,15,2,0,13.33333333
+09/06/2017 18:05,55,199,TRUE,Arogya Rahasya Baheda churn (Taanikaya) 200gms,55,0,Arogya Rahasya Baheda churn (Taanikaya) 200gms,1,4,[1],80,2,17,2,0,11.76470588
+09/06/2017 18:07,160,200,TRUE,Arogya Rahasya Ashwagandha churn 200gms,160,0,Arogya Rahasya Ashwagandha churn 200gms,1,4,[1],100,1,12,0,0,0
+09/06/2017 18:09,55,201,TRUE,Arogya Rahasya Arjuna churn  200gms,55,0,Arogya Rahasya Arjuna churn  200gms,1,4,[1],100,1,25,1,0,4
+09/06/2017 18:57,80,202,TRUE,Arogya Rahasya Gomutra ghanavati tablets with trifala-120 tab,80,0,Arogya Rahasya Gomutra ghanavati tablets with trifala-120 tab,1,4,[1],100,1,9,0,0,0
+09/06/2017 19:14,480,203,TRUE,Arogya Rahasya Desi cow ghee 400gms,480,0,Arogya Rahasya Desi cow ghee 400gms,1,4,[1],74,10,178,35,0,19.66292135
+10/06/2017 09:45,425,204,TRUE,Aloe Shea Rejuvenating Cream 100gm,425,0,Aloe Shea Rejuvenating Cream 100gm,1,4,[1],60,1,13,0,0,0
+10/06/2017 09:53,425,205,TRUE,Carrotseed Neroli Anti-Wrinkle Cream 100gm,425,0,Carrotseed Neroli Anti-Wrinkle Cream 100gm,1,4,[1],80,1,12,0,0,0
+10/06/2017 10:02,275,206,TRUE,Veda’s Rose Essence 120ml,275,0,Veda’s Rose Essence 120ml,1,4,[1],100,1,12,0,0,0
+10/06/2017 10:49,199,207,TRUE,Aumfresh Freeze Dried Strawberry 25gm,199,0,Aumfresh Freeze Dried Strawberry 25gm,1,4,[1],67,3,21,2,0,9.523809524
+10/06/2017 10:51,179,208,TRUE,Aumfresh Freeze Dried Kiwi 25gm,199,0,Aumfresh Freeze Dried Kiwi 25gm,1,4,[1],100,1,24,2,10.05025126,8.333333333
+10/06/2017 10:52,180,209,TRUE,Aumfresh Freeze Dried Mango 25gm,199,0,Aumfresh Freeze Dried Mango 25gm,1,4,[1],80,1,27,1,9.547738693,3.703703704
+10/06/2017 10:57,149,210,TRUE,Aumfresh Freeze Dried Sweet Corn 50gm,149,0,Aumfresh Freeze Dried Sweet Corn 50gm,1,4,[1],100,1,9,0,0,0
+10/06/2017 11:01,180,211,TRUE,Aumfresh Freeze Dried Pine Apple 25gm,199,0,Aumfresh Freeze Dried Pine Apple 25gm,1,4,[1],80,2,11,1,9.547738693,9.090909091
+10/06/2017 11:04,149,212,TRUE,Aumfresh Freeze Dried Green Peas 50gm,149,0,Aumfresh Freeze Dried Green Peas 50gm,1,4,[1],80,1,20,0,0,0
+10/06/2017 11:22,50,213,TRUE,Gow darbar blue agarbatti 75gms,50,0,Gow darbar blue agarbatti 75gms,1,4,[1],70,2,26,12,0,46.15384615
+10/06/2017 11:30,999,214,TRUE,Rocksalt lamp crstal,999,0,Rocksalt lamp crstal,1,4,[1],100,1,16,0,0,0
+10/06/2017 11:30,20,215,TRUE,Gow darbar blue agarbatti 25gms,20,0,Gow darbar blue agarbatti 25gms,1,4,[1],67,3,15,3,0,20
+10/06/2017 11:31,999,216,TRUE,Arogya Rahasya Himalayan Rock salt lamp for healing benefits and also decoration,999,0,216,1,4,[1],80,1,24,0,0,0
+10/06/2017 11:32,50,217,TRUE,Gow darbar gold agarbatti 75gms,50,0,Gow darbar gold agarbatti 75gms,1,4,[1],70,2,19,10,0,52.63157895
+10/06/2017 11:32,999,218,TRUE,Arogya Rahasya Himalayan Rock salt Globe Lamp,999,0,Arogya Rahasya Himalayan Rock salt Globe Lamp,1,4,[1],73,3,92,20,0,21.73913043
+10/06/2017 11:34,550,219,TRUE,Veda Essential oils Skin Cream and Soap Combo,550,0,Veda Essential oils Skin Cream and Soap Combo,1,4,[1],80,1,0,0,0,0
+10/06/2017 11:34,20,220,TRUE,Gow darbar gold agarbatti 25gms,20,0,Gow darbar gold agarbatti 25gms,1,4,[1],60,3,25,5,0,20
+10/06/2017 11:36,450,221,TRUE,Veda Carrotseed Skin Cream and Soap Combo,450,0,Veda Carrotseed Skin Cream and Soap Combo,1,4,[1],60,1,0,0,0,0
+10/06/2017 11:38,456,222,TRUE,Veda Herbal Natural Skin Cream and Soap Combo,456,0,Veda Herbal Natural Skin Cream and Soap Combo,1,4,[1],60,4,1,0,0,0
+10/06/2017 11:39,500,223,TRUE,Veda Combo (Soaps and Oil),500,0,Veda Combo (Soaps and Oil),1,4,[1],60,1,0,0,0,0
+10/06/2017 11:41,149,224,TRUE,AumfreshBarbeque Seasoning 30 gm,149,0,AumfreshBarbeque Seasoning 30 gm,1,4,[1],100,1,20,0,0,0
+10/06/2017 11:46,55,225,TRUE,Arogya rahasya Harad churn 200gms,55,0,Arogya rahasya Harad churn 200gms,1,4,[1],100,1,16,1,0,6.25
+10/06/2017 11:47,55,226,TRUE,Arogyarahasya Amla churn 200gms,55,0,Arogyarahasya Amla churn 200gms,1,4,[1],80,2,16,3,0,18.75
+10/06/2017 11:47,90,227,TRUE,Gomutra ark 500ml,90,0,Gomutra ark 500ml,1,4,[1],60,1,42,1,0,2.380952381
+10/06/2017 11:50,40,228,TRUE,Gomutra ark 200ml,40,0,Gomutra ark 200ml,1,4,[1],80,1,25,0,0,0
+10/06/2017 11:52,190,229,TRUE,Arogya Rahasya Aloe vera juice 1 lit,190,0,Arogya Rahasya Aloe vera juice 1 lit,1,4,[1],80,1,26,0,0,0
+10/06/2017 11:53,150,230,TRUE,Gomutra ark 1 lit,150,0,Gomutra ark 1 lit,1,4,[1],80,1,51,1,0,1.960784314
+10/06/2017 11:54,105,231,TRUE,Arogya Rahasya Aloe vera juice 500ml,105,0,Arogya Rahasya Aloe vera juice 500ml,1,4,[1],100,1,33,1,0,3.03030303
+10/06/2017 11:55,115,232,TRUE,Arogya Rahasya Aloe vera orange juice 500ml,115,0,Arogya Rahasya Aloe vera orange juice 500ml,1,4,[1],70,2,21,0,0,0
+10/06/2017 11:56,110,233,TRUE,Arogya Rahasya Yakritjeet juice 200ml,110,0,Arogya Rahasya Yakritjeet juice 200ml,1,4,[1],60,1,13,0,0,0
+10/06/2017 11:58,70,234,TRUE,Brahmi Amla hair oil-100ml,70,0,Brahmi Amla hair oil-100ml,1,4,[1],80,1,18,0,0,0
+10/06/2017 12:02,120,235,TRUE,Bhringraj Tel (Hair oil),120,0,Bhringraj Tel (Hair oil),1,4,[1],100,1,10,1,0,10
+10/06/2017 12:07,130,239,TRUE,Arogya Rahasya Neem swaras 500ml,130,0,Arogya Rahasya Neem swaras 500ml,1,4,[1],80,1,19,0,0,0
+10/06/2017 12:09,25,240,TRUE,Arogya Rahasya Visharahita Vyavasayam Telugu CD,25,0,Arogya Rahasya Visharahita Vyavasayam Telugu CD,1,4,[1],60,2,14,0,0,0
+10/06/2017 12:10,25,241,TRUE,Arogya Rahasya Swasya Katha Hindi CD,25,0,Arogya Rahasya Swasya Katha Hindi CD,1,4,[1],60,2,20,0,0,0
+10/06/2017 12:11,25,242,TRUE,Arogya Rahasya Go Adharitha Farming Telugu,25,0,Arogya Rahasya Go Adharitha Farming Telugu,1,4,[1],60,1,17,0,0,0
+10/06/2017 12:11,200,243,TRUE,Gita Ayurvedic shampoo Herbal 500ml,200,0,Gita Ayurvedic shampoo Herbal 500ml,1,4,[1],80,1,8,1,0,12.5
+10/06/2017 12:14,90,244,TRUE,Ayurvedic shampoo Herbal 200ml,90,0,Ayurvedic shampoo Herbal 200ml,1,4,[1],60,1,7,0,0,0
+10/06/2017 12:14,149,245,TRUE,AumfreshBarbeque Seasoning 25gm,149,0,AumfreshBarbeque Seasoning 25gm,1,4,[1],60,1,10,0,0,0
+10/06/2017 12:14,149,246,TRUE,Aumfresh Fish Fry Mix Seasoning 40 gm,149,0,Aumfresh Fish Fry Mix Seasoning 40 gm,1,4,[1],60,1,17,0,0,0
+10/06/2017 12:14,149,247,TRUE,Aumfresh Italian Seasoning 10 gm,149,0,Aumfresh Italian Seasoning 10 gm,1,4,[1],60,1,17,0,0,0
+10/06/2017 12:14,149,248,TRUE,Aumfresh Mexican Seasoning 35 gm,149,0,Aumfresh Mexican Seasoning 35 gm,1,4,[1],100,1,12,0,0,0
+10/06/2017 12:14,124,249,TRUE,Aumfresh Oregano 10 gm,124,0,Aumfresh Oregano 10 gm,1,4,[1],60,1,19,0,0,0
+10/06/2017 12:14,124,250,TRUE,Aumfresh Parsely 10 gm,124,0,Aumfresh Parsely 10 gm,1,4,[1],60,1,13,0,0,0
+10/06/2017 12:14,149,251,TRUE,Aumfresh Red Chilli Flakes 25 gm,149,0,Aumfresh Red Chilli Flakes 25 gm,1,4,[1],80,1,20,0,0,0
+10/06/2017 12:14,124,252,TRUE,Aumfresh Rosemary 10 gm,124,0,Aumfresh Rosemary 10 gm,1,4,[1],100,1,14,0,0,0
+10/06/2017 12:14,149,253,TRUE,Aumfresh Salad Seasoning 35gm,149,0,Aumfresh Salad Seasoning 35gm,1,4,[1],90,2,11,0,0,0
+10/06/2017 12:14,124,254,TRUE,Aumfresh Thyme  10 gm,124,0,Aumfresh Thyme  10 gm,1,4,[1],80,1,28,1,0,3.571428571
+10/06/2017 12:15,50,255,TRUE,Ayurvedic shampoo Herbal 100ml,50,0,Ayurvedic shampoo Herbal 100ml,1,4,[1],100,1,10,1,0,10
+10/06/2017 13:40,175,256,TRUE,Brahm Rasayan,175,0,Brahm Rasayan,1,4,[1],100,1,19,1,0,5.263157895
+10/06/2017 13:43,235,259,TRUE,Chyavanprash,235,0,Chyavanprash,1,4,[1],60,1,19,0,0,0
+10/06/2017 13:50,60,262,TRUE,Panch sakaar churna 100gms,60,0,Panch sakaar churna 100gms,1,4,[1],80,1,27,0,0,0
+10/06/2017 13:51,45,263,TRUE,Amlamrut  Amla pickle,45,0,Amlamrut  Amla pickle,1,4,[1],80,1,12,4,0,33.33333333
+10/06/2017 13:56,230,267,TRUE,Madhumehantak vati 50gms,230,0,Madhumehantak vati 50gms,1,4,[1],80,1,28,0,0,0
+10/06/2017 13:56,80,268,TRUE,Brahmi vati 20gms,80,0,Brahmi vati 20gms,1,4,[1],80,1,16,0,0,0
+10/06/2017 13:58,330,269,TRUE,Shudh shilajeet 50gms,330,0,Shudh shilajeet 50gms,1,4,[1],100,1,11,0,0,0
+10/06/2017 13:59,120,270,TRUE,Arshoghni vati 20gms,120,0,Arshoghni vati 20gms,1,4,[1],80,1,8,0,0,0
+10/06/2017 14:06,70,271,TRUE,Amlamrut Amla Jam 200gms,70,0,Amlamrut Amla Jam 200gms,1,4,[1],60,1,26,2,0,7.692307692
+10/06/2017 14:11,100,272,TRUE,Amlamrut  Amla bite 200gms,100,0,Amlamrut  Amla bite 200gms,1,4,[1],80,1,16,1,0,6.25
+10/06/2017 14:13,70,273,TRUE,Shankha pushpi syrup,70,0,Shankha pushpi syrup,1,4,[1],90,2,10,0,0,0
+10/06/2017 14:15,70,276,TRUE,Gita Amla Ras,70,0,Gita Amla Ras,1,4,[1],70,2,23,0,0,0
+10/06/2017 14:16,60,279,TRUE,Khadi Assorted Fruit Soap 125gms,60,0,Khadi Assorted Fruit Soap 125gms,1,4,[1],100,1,8,0,0,0
+10/06/2017 14:19,60,280,TRUE,Khadi  Haldi Chandan  Soap 125gms,60,0,Khadi  Haldi Chandan  Soap 125gms,1,4,[1],80,1,9,0,0,0
+10/06/2017 14:19,130,281,TRUE,Amlamrut  Amla ginger candy,130,0,Amlamrut  Amla ginger candy,1,4,[1],60,1,12,0,0,0
+10/06/2017 14:21,60,284,TRUE,Khadi Honey Almond Soap 125gms,60,0,Khadi Honey Almond Soap 125gms,1,4,[1],60,1,15,0,0,0
+10/06/2017 14:26,60,285,TRUE,Khadi Jasmine Soap 125gms,60,0,Khadi Jasmine Soap 125gms,1,4,[1],100,1,17,0,0,0
+10/06/2017 14:29,170,286,TRUE,Narayan tel-100ml,170,0,Narayan tel-100ml,1,4,[1],80,1,12,0,0,0
+10/06/2017 14:30,60,287,TRUE,Khadi Lemon fresh soap 125gms,60,0,Khadi Lemon fresh soap 125gms,1,4,[1],80,1,12,0,0,0
+10/06/2017 14:33,60,288,TRUE,Khadi Lemon grass soap 125gms,60,0,Khadi Lemon grass soap 125gms,1,4,[1],100,1,10,0,0,0
+10/06/2017 14:36,60,289,TRUE,Khadi Musk soap 125gms,60,0,Khadi Musk soap 125gms,1,4,[1],80,1,9,0,0,0
+10/06/2017 14:37,120,290,TRUE,Amlamrut  Amla candy,120,0,Amlamrut  Amla candy,1,4,[1],100,1,12,2,0,16.66666667
+10/06/2017 14:39,60,293,TRUE,Khadi Neem soap 125gms,60,0,Khadi Neem soap 125gms,1,4,[1],80,1,9,0,0,0
+10/06/2017 14:41,60,294,TRUE,Khadi Aloevera Neem soap 125gms,60,0,Khadi Aloevera Neem soap 125gms,1,4,[1],60,1,4,0,0,0
+10/06/2017 14:42,45,295,TRUE,Amrut pae (Tea powder) 100gms,45,0,Amrut pae (Tea powder) 100gms,1,4,[1],80,1,12,0,0,0
+10/06/2017 14:43,130,296,TRUE,Amlamrut Masala candy,130,0,Amlamrut Masala candy,1,4,[1],100,1,21,0,0,0
+10/06/2017 14:44,60,299,TRUE,Khadi Orange soap 125gms,60,0,Khadi Orange soap 125gms,1,4,[1],80,1,12,0,0,0
+10/06/2017 14:45,60,300,TRUE,Khadi Peach soap 125gms,60,0,Khadi Peach soap 125gms,1,4,[1],60,1,8,0,0,0
+10/06/2017 14:46,60,301,TRUE,Khadi Pineapple soap 125gms,60,0,Khadi Pineapple soap 125gms,1,4,[1],80,1,8,0,0,0
+10/06/2017 14:47,12,302,TRUE,Panchagavya dhoop sticks rose 15 sticks,12,0,Panchagavya dhoop sticks rose 15 sticks,1,4,[1],80,1,24,3,0,12.5
+10/06/2017 14:48,110,303,TRUE,Amlamrut Salted candy,110,0,Amlamrut Salted candy,1,4,[1],60,1,16,0,0,0
+10/06/2017 14:48,60,306,TRUE,Khadi Rain forest soap 125gms,60,0,Khadi Rain forest soap 125gms,1,4,[1],100,1,8,1,0,12.5
+10/06/2017 14:49,12,307,TRUE,Panchagavya dhoop sticks sandal 15 sticks,12,0,Panchagavya dhoop sticks sandal 15 sticks,1,4,[1],60,3,25,5,0,20
+10/06/2017 14:49,60,308,TRUE,Khadi Rose soap 125gms,60,0,Khadi Rose soap 125gms,1,4,[1],60,1,10,0,0,0
+10/06/2017 14:49,70,309,TRUE,Amlamrut salted amla 50gms,70,0,Amlamrut salted amla 50gms,1,4,[1],100,1,15,0,0,0
+10/06/2017 14:54,20,310,TRUE,Goseva Daani Falamu Book Telugu,20,0,Goseva Daani Falamu Book Telugu,1,4,[1],50,2,25,0,0,0
+10/06/2017 14:56,55,311,TRUE,Amlamrut Amla pachak,55,0,Amlamrut Amla pachak,1,4,[1],100,1,42,5,0,11.9047619
+10/06/2017 14:59,85,314,TRUE,Amlamrut  Amla murabba 500gm,85,0,Amlamrut  Amla murabba 500gm,1,4,[1],80,1,25,0,0,0
+10/06/2017 15:01,60,317,TRUE,Khadi Tea tree soap 125gms,60,0,Khadi Tea tree soap 125gms,1,4,[1],60,1,11,0,0,0
+10/06/2017 15:03,60,318,TRUE,Khadi Neem & Tulsi soap 125gms,60,0,Khadi Neem & Tulsi soap 125gms,1,4,[1],80,1,11,2,0,18.18181818
+10/06/2017 15:04,60,319,TRUE,Khadi White musk soap 125gms,60,0,Khadi White musk soap 125gms,1,4,[1],100,1,18,0,0,0
+10/06/2017 15:09,90,320,TRUE,Amlamrut Amla laddu 200gms,90,0,Amlamrut Amla laddu 200gms,1,4,[1],94,7,117,20,0,17.09401709
+10/06/2017 15:09,135,321,TRUE,Khadi Aloe vera face wash 200ml,135,0,Khadi Aloe vera face wash 200ml,1,4,[1],90,2,25,2,0,8
+10/06/2017 15:12,135,322,TRUE,Khadi Lemon & Honey face wash 200ml,135,0,Khadi Lemon & Honey face wash 200ml,1,4,[1],90,2,8,0,0,0
+10/06/2017 15:12,45,323,TRUE,Amruth Paya 100gms,45,0,Amruth Paya 100gms,1,4,[1],80,1,20,0,0,0
+10/06/2017 15:13,135,324,TRUE,Khadi Strawberry facewash 200ml,135,0,Khadi Strawberry facewash 200ml,1,4,[1],90,2,13,1,0,7.692307692
+10/06/2017 15:17,50,325,TRUE,Anardhana 100gms,50,0,Anardhana 100gms,1,4,[1],80,1,10,0,0,0
+10/06/2017 15:29,90,326,TRUE,Amlamrut  Amla squash 650ml,90,0,Amlamrut  Amla squash 650ml,1,4,[1],100,1,20,1,0,5
+10/06/2017 15:33,120,327,TRUE,Khadi Amla reetha shampoo 200ml,120,0,Khadi Amla reetha shampoo 200ml,1,4,[1],80,1,21,2,0,9.523809524
+10/06/2017 15:35,120,328,TRUE,Khadi Honey almond shampoo 200ml,120,0,Khadi Honey almond shampoo 200ml,1,4,[1],80,1,23,1,0,4.347826087
+10/06/2017 15:38,120,329,TRUE,Khadi Saffron reetha shampoo 200ml,120,0,Khadi Saffron reetha shampoo 200ml,1,4,[1],80,1,23,0,0,0
+10/06/2017 15:40,120,330,TRUE,Khadi Neem reetha shampoo 200ml,120,0,Khadi Neem reetha shampoo 200ml,1,4,[1],100,1,23,0,0,0
+10/06/2017 15:42,85,331,TRUE,Goratna medohari ark 500ml,85,0,Goratna medohari ark 500ml,1,4,[1],100,1,43,0,0,0
+10/06/2017 15:48,95,332,TRUE,Goratna Sanjivini ark 500ml,95,0,Goratna Sanjivini ark 500ml,1,4,[1],60,2,38,1,0,2.631578947
+10/06/2017 15:50,85,333,TRUE,Goratna Vataari ark 500ml,85,0,Goratna Vataari ark 500ml,1,4,[1],80,1,19,0,0,0
+10/06/2017 15:54,200,334,TRUE,Amlamrut  Honey murabba 500gms,200,0,Amlamrut  Honey murabba 500gms,1,4,[1],60,1,23,0,0,0
+10/06/2017 15:55,15,335,TRUE,Goratna Chandan dhoop sticks 20sticks,15,0,Goratna Chandan dhoop sticks 20sticks,1,4,[1],60,2,21,3,0,14.28571429
+10/06/2017 15:59,25,336,TRUE,Goratna Gopala dhoop 100gms,25,0,Goratna Gopala dhoop 100gms,1,4,[1],60,1,28,1,0,3.571428571
+10/06/2017 16:09,30,337,TRUE,Goratna Herbal kalyani mosquito coil,30,0,Goratna Herbal kalyani mosquito coil,1,4,[1],80,2,15,1,0,6.666666667
+10/06/2017 16:19,60,338,TRUE,Goratna Madhumeh churn 100gm,60,0,Goratna Madhumeh churn 100gm,1,4,[1],60,2,16,0,0,0
+10/06/2017 16:26,35,339,TRUE,Goratna Aloevera panchagavya soap 75gms,35,0,Goratna Aloevera panchagavya soap 75gms,1,4,[1],90,2,24,1,0,4.166666667
+10/06/2017 16:29,45,340,TRUE,Goratna Transparent panchagavya soap 75gms,45,0,Goratna Transparent panchagavya soap 75gms,1,4,[1],80,1,18,0,0,0
+10/06/2017 16:31,25,341,TRUE,Goratna Sandal with panchgavya soaps 75gms,25,0,Goratna Sandal with panchgavya soaps 75gms,1,4,[1],60,1,20,0,0,0
+10/06/2017 16:53,45,342,TRUE,Sampradayam bath powder 125gms,45,0,Sampradayam bath powder 125gms,1,4,[1],60,4,16,2,0,12.5
+10/06/2017 16:53,60,343,TRUE,Goratna Handwash 250ml,60,0,Goratna Handwash 250ml,1,4,[1],70,2,16,3,0,18.75
+10/06/2017 16:56,99,344,TRUE,Chilli powder-Natural farming 250gms,99,0,Chilli powder-Natural farming 250gms,1,4,[1],100,1,10,1,0,10
+10/06/2017 16:56,70,345,TRUE,Go-Ratna Amla shampoo 200ml,70,0,Go-Ratna Amla shampoo 200ml,1,4,[1],90,2,27,5,0,18.51851852
+10/06/2017 17:00,70,346,TRUE,Goratna Reetha shampoo 200ml,70,0,Goratna Reetha shampoo 200ml,1,4,[1],80,1,25,3,0,12
+10/06/2017 17:01,80,347,TRUE,Goratna Pearl shampoo 200ml,80,0,Goratna Pearl shampoo 200ml,1,4,[1],80,2,14,0,0,0
+10/06/2017 17:02,30,348,TRUE,Coriander spice powder 60gms,30,0,Coriander spice powder 60gms,1,4,[1],80,1,22,0,0,0
+10/06/2017 17:07,30,349,TRUE,Curry leafs spice powder 60gms,30,0,Curry leafs spice powder 60gms,1,4,[1],73,3,14,0,0,0
+10/06/2017 17:09,499,350,TRUE,"INLIFE Ashwagandha Extract (2.5% Withanolides) 500mg, 60 Veg Capsules, Stress Reliever",499,0,350,1,4,[1],80,1,11,0,0,0
+10/06/2017 17:11,60,351,TRUE,Goratna Kala thail 50ml,60,0,Goratna Kala thail 50ml,1,4,[1],100,1,34,2,0,5.882352941
+10/06/2017 17:16,1779,352,TRUE,INLIFE Noni Juice Concentrate with Garcinia Cambogia & Aloe Vera (1 Litre),1779,0,352,1,4,[1],80,1,12,0,0,0
+10/06/2017 17:28,40,353,TRUE,Flaxi masala papad 80gms,40,0,Flaxi masala papad 80gms,1,4,[1],90,2,14,3,0,21.42857143
+10/06/2017 17:32,300,354,TRUE,Flaxi Nutri Bar Chikki (12pkts),300,0,Flaxi Nutri Bar Chikki (12pkts),1,4,[1],60,1,17,0,0,0
+10/06/2017 17:34,60,355,TRUE,Flaxseeds spice powder 100gms,60,0,Flaxseeds spice powder 100gms,1,4,[1],80,1,21,0,0,0
+10/06/2017 17:36,50,356,TRUE,Horse gram spice powder 100gms,50,0,Horse gram spice powder 100gms,1,4,[1],100,1,29,0,0,0
+10/06/2017 17:39,50,357,TRUE,Goratna Javik Keet Rodhak neem 1lit,50,0,Goratna Javik Keet Rodhak neem 1lit,1,4,[1],100,1,25,0,0,0
+10/06/2017 17:39,30,358,TRUE,Mint spice powder 60gms,30,0,Mint spice powder 60gms,1,4,[1],80,2,14,0,0,0
+10/06/2017 17:39,180,359,TRUE,"INLIFE Natural Aloe Vera Face Gel 100 gm, Anti Ageing Moisturizer, Paraben Free",180,0,359,1,4,[1],100,1,9,0,0,0
+10/06/2017 17:43,339,360,TRUE,"INLIFE Natural Night Gold Cream, 50 gm, Skin Whitening, Anti aging for Men,Women",339,0,360,1,4,[1],90,2,21,0,0,0
+10/06/2017 17:43,30,361,TRUE,Moringa papad'z 80gms,30,0,Moringa papad'z 80gms,1,4,[1],80,1,12,5,0,41.66666667
+10/06/2017 17:44,60,362,TRUE,Goratna Ujjwala toilet cleaner 500ml,60,0,Goratna Ujjwala toilet cleaner 500ml,1,4,[1],60,1,16,1,0,6.25
+10/06/2017 17:45,60,363,TRUE,Moringa leaf powder 100gms,60,0,Moringa leaf powder 100gms,1,4,[1],100,1,12,0,0,0
+10/06/2017 17:47,60,364,TRUE,Niger seeds spice powder 100gms,60,0,Niger seeds spice powder 100gms,1,4,[1],80,1,8,0,0,0
+10/06/2017 17:50,30,365,TRUE,Pea nut spice powder 60gms,30,0,Pea nut spice powder 60gms,1,4,[1],80,1,17,0,0,0
+10/06/2017 17:51,300,366,TRUE,Pea nut moringa chikki (12pkts),300,0,Pea nut moringa chikki (12pkts),1,4,[1],100,1,14,6,0,42.85714286
+10/06/2017 17:52,799,367,TRUE,"INLIFE Grape Seed Extract (95% Polyphenols) 500mg, 60 Vegetarian Capsules, Potent Antioxidant",799,0,367,1,4,[1],100,1,11,0,0,0
+10/06/2017 17:55,660,368,TRUE,"INLIFE Antioxidants, 60 Tablets with Lycopene, Immune Booster Supplement",660,0,368,1,4,[1],100,1,8,0,0,0
+10/06/2017 17:56,35,369,TRUE,Goratna Nethra Jyothi 10ml,35,0,Goratna Nethra Jyothi 10ml,1,4,[1],67,3,26,3,0,11.53846154
+10/06/2017 18:07,50,370,TRUE,Goseva-Gokripa Gau amrit soap 75gms,50,0,Goseva-Gokripa Gau amrit soap 75gms,1,4,[1],60,1,12,1,0,8.333333333
+10/06/2017 18:10,449,371,TRUE,"INLIFE  Vitamin D3 (Cholecalciferol), 1000 IU, 60 Capsules For Bone Health ",449,0,371,1,4,[1],80,1,21,0,0,0
+10/06/2017 18:10,25,372,TRUE,Goseva-Gokripa Angrakshak soap 68gms,25,0,Goseva-Gokripa Angrakshak soap 68gms,1,4,[1],70,2,33,2,0,6.060606061
+10/06/2017 18:12,449,373,TRUE,"INLIFE Calcium Vitamin D3, 60 Tablets For Healthy Bone,Knee & Joint Health",449,0,373,1,4,[1],100,1,17,0,0,0
+10/06/2017 18:14,599,374,TRUE,"INLIFE  Vitamin D3 (Cholecalciferol), 2000 IU, 60 Capsules For Bone Health ",599,0,374,1,4,[1],80,1,11,0,0,0
+10/06/2017 18:15,900,375,TRUE,INLIFE Joint Support Supplement (60 Vegetarian Capsules),900,0,INLIFE Joint Support Supplement (60 Vegetarian Capsules),1,4,[1],60,1,12,0,0,0
+11/06/2017 09:37,30,376,TRUE,Face pack rose 20gms,30,0,Face pack rose 20gms,1,4,[1],80,1,16,6,0,37.5
+11/06/2017 09:40,50,377,TRUE,Shikakai soap (Hair) 75gms,50,0,Shikakai soap (Hair) 75gms,1,4,[1],60,1,13,0,0,0
+11/06/2017 09:43,30,378,TRUE,Face pack sandal 20gms,30,0,Face pack sandal 20gms,1,4,[1],60,1,15,2,0,13.33333333
+11/06/2017 09:46,75,379,TRUE,Kesar Goti soap (Face) 50gms,75,0,Kesar Goti soap (Face) 50gms,1,4,[1],60,1,11,0,0,0
+11/06/2017 09:53,23,380,TRUE,Ashtagandha powder 20gms,23,0,Ashtagandha powder 20gms,1,4,[1],60,2,16,0,0,0
+11/06/2017 10:01,15,381,TRUE,Camphor,15,0,Camphor,1,4,[1],40,3,15,1,0,6.666666667
+11/06/2017 10:11,25,386,TRUE,Attar chameli 5ml,25,0,Attar chameli 5ml,1,4,[1],50,2,22,1,0,4.545454545
+11/06/2017 10:13,40,387,TRUE,Attar sandalwood 5ml,40,0,Attar sandalwood 5ml,1,4,[1],60,1,35,3,0,8.571428571
+11/06/2017 10:14,25,388,TRUE,Attar kevada 5ml,25,0,Attar kevada 5ml,1,4,[1],60,2,16,2,0,12.5
+11/06/2017 10:15,25,389,TRUE,Attar mogra 5ml,25,0,Attar mogra 5ml,1,4,[1],60,1,15,1,0,6.666666667
+11/06/2017 10:18,10,390,TRUE,Chandan(Sandal) agarbatti 25gms,10,0,Chandan(Sandal) agarbatti 25gms,1,4,[1],50,2,28,6,0,21.42857143
+11/06/2017 10:23,65,393,TRUE,Jasmin (chameli) agarbatti 150gms,65,0,Jasmin (chameli) agarbatti 150gms,1,4,[1],100,1,25,2,0,8
+11/06/2017 10:41,10,397,TRUE,Kewda agarbatti 25gms,10,0,Kewda agarbatti 25gms,1,4,[1],60,2,31,1,0,3.225806452
+11/06/2017 10:44,649,400,TRUE,INLIFE Fish Oil (Omega 3) 500 mg 60 Capsules 180/120 EPA DHA For Brain Health,649,0,400,1,4,[1],60,1,16,1,0,6.25
+11/06/2017 10:45,10,401,TRUE,Rajinigandha agarbatti 25gms,10,0,Rajinigandha agarbatti 25gms,1,4,[1],50,2,23,2,0,8.695652174
+11/06/2017 10:46,639,404,TRUE,INLIFE Ginkgo Biloba Extract (Flavons Glycosides > 24%) 120mg (60 Vegetarian Capsules) for Healthy Brain Function,639,0,404,1,4,[1],60,1,6,0,0,0
+11/06/2017 10:48,449,405,TRUE,"INLIFE Natural Arjuna Extract (Tannins > 25%), 500mg 60 Veg Capsules For Cardiac & Brain Health",449,0,405,1,4,[1],100,1,9,0,0,0
+11/06/2017 10:54,579,406,TRUE,"INLIFE Natural Breast Firming Massage Cream,100g For Breast Shaping & Tightening",579,0,406,1,4,[1],80,1,7,1,0,14.28571429
+11/06/2017 10:56,579,407,TRUE,"INLIFE Natural Breast Enlargement Cream, 100 gm For Improvement in Breast Size",579,0,407,1,4,[1],100,1,7,0,0,0
+11/06/2017 10:56,15,408,TRUE,Ashtagandha soap 75gms,15,0,Ashtagandha soap 75gms,1,4,[1],40,3,18,0,0,0
+11/06/2017 10:58,15,409,TRUE,Jasmine soap 75gms,15,0,Jasmine soap 75gms,1,4,[1],47,3,21,0,0,0
+11/06/2017 10:59,15,410,TRUE,Neem soap 75gms,15,0,Neem soap 75gms,1,4,[1],50,2,39,1,0,2.564102564
+11/06/2017 11:00,900,411,TRUE,INLIFE Digestion Support Supplement (60 Vegetarian Capsules),900,0,INLIFE Digestion Support Supplement (60 Vegetarian Capsules),1,4,[1],100,1,10,0,0,0
+11/06/2017 11:01,22,412,TRUE,Panchamrut soap 75gms,22,0,Panchamrut soap 75gms,1,4,[1],67,3,22,1,0,4.545454545
+11/06/2017 11:03,22,413,TRUE,Sandalwood soap 75gms,22,0,Sandalwood soap 75gms,1,4,[1],60,4,21,1,0,4.761904762
+11/06/2017 11:04,399,414,TRUE,"INLIFE Moringa Oliefera Leaf Extract 500mg, 60 Vegetarian Capsules, Weight Loss & Digestion",399,0,414,1,4,[1],60,1,16,0,0,0
+11/06/2017 11:05,15,415,TRUE,Tulsi soap 75gms,15,0,Tulsi soap 75gms,1,4,[1],60,2,33,0,0,0
+11/06/2017 11:08,499,416,TRUE,"INLIFE Spirulina 500mg, 60 Vegetarian Capsules, Green Super Food For Digestion",499,0,416,1,4,[1],60,1,13,0,0,0
+11/06/2017 11:09,15,417,TRUE,Sanatan Ubtan -20gm,15,0,Sanatan Ubtan -20gm,1,4,[1],60,2,24,1,0,4.166666667
+11/06/2017 11:16,899,420,TRUE,"INLIFE Lycopene Wheat Germ Oil, 30 Veg Capsules For Prostate & Cardio Health",899,0,420,1,4,[1],60,1,9,0,0,0
+11/06/2017 11:19,1350,421,TRUE,"INLIFE Immune Care (300g) Immunity Booster/Support Supplement, Whey Protein Powder with Ayurvedic Herbs",1350,0,421,1,4,[1],80,1,9,0,0,0
+11/06/2017 11:21,900,422,TRUE,INLIFE Immunity Plus Supplement (60 Veg. Capsules),900,0,INLIFE Immunity Plus Supplement (60 Veg. Capsules),1,4,[1],100,1,8,0,0,0
+11/06/2017 11:22,260,423,TRUE,Being Desi Almond honey 300gms,260,0,Being Desi Almond honey 300gms,1,4,[1],60,1,27,0,0,0
+11/06/2017 11:22,60,424,TRUE,Goseva-Gokripa Angamardanam tailam 60ml,60,0,Goseva-Gokripa Angamardanam tailam 60ml,1,4,[1],80,1,18,0,0,0
+11/06/2017 11:23,225,425,TRUE,Being Desi Ginger honey 300gms,225,0,Being Desi Ginger honey 300gms,1,4,[1],80,1,23,1,0,4.347826087
+11/06/2017 11:24,180,426,TRUE,Being Desi Honey amla candy 250gms,180,0,Being Desi Honey amla candy 250gms,1,4,[1],90,2,27,4,0,14.81481481
+11/06/2017 11:26,225,427,TRUE,Being Desi Tulsi honey 300gms,225,0,Being Desi Tulsi honey 300gms,1,4,[1],60,1,28,1,0,3.571428571
+11/06/2017 11:28,260,428,TRUE,Being Desi Turmeric honey 300gms,260,0,Being Desi Turmeric honey 300gms,1,4,[1],100,1,20,0,0,0
+11/06/2017 11:28,30,429,TRUE,Goseva-Gokripa Saatvik dhoop -12pcs,30,0,Goseva-Gokripa Saatvik dhoop -12pcs,1,4,[1],80,2,17,3,0,17.64705882
+11/06/2017 11:29,300,430,TRUE,Being Desi Weight watcher & Detoxifier honey 300gms,300,0,Being Desi Weight watcher & Detoxifier honey 300gms,1,4,[1],80,1,16,0,0,0
+11/06/2017 11:34,60,431,TRUE,Goseva-Gokripa Cow kiddy bank,60,0,Goseva-Gokripa Cow kiddy bank,1,4,[1],100,2,31,10,0,32.25806452
+11/06/2017 11:36,1350,432,TRUE,"INLIFE Livstan (300g) Liver Cleanse/Care/Support Supplement, Whey Protein Powder with Ayurvedic Herbs",1350,0,432,1,4,[1],100,1,5,0,0,0
+11/06/2017 11:38,25,433,TRUE,Banjara's Black henna aloevera 20gm,25,0,01-Jan,1,4,[1],0,0,0,0,0,0
+11/06/2017 11:40,900,434,TRUE,INLIFE Milk Thistle (80% Silymarin) 400mg (60 Vegetarian Capsules) Liver Cleanse Detox Support Supplement,900,0,434,1,4,[1],100,1,8,0,0,0
+11/06/2017 11:42,35,435,TRUE,Goseva Gopika soap 75gms,35,0,Goseva Gopika soap 75gms,1,4,[1],60,1,29,0,0,0
+11/06/2017 11:43,25,436,TRUE,Banjara's Black henna amla,25,0,Banjara's Black henna amla,1,4,[1],80,2,24,0,0,0
+11/06/2017 11:45,2970,439,TRUE,"INLIFE  Mass Gainer Protein Powder 5 lbs, Chocolate Flavor, Muscle & Weight Gain-2.27kg ",2970,0,439,1,4,[1],60,1,8,0,0,0
+11/06/2017 11:47,16,440,TRUE,Banjara's Brazilian henna 9gm,16,0,Banjara's Brazilian henna 9gm,1,4,[1],64,5,11,2,0,18.18181818
+11/06/2017 11:48,20,441,TRUE,Goseva-Gokripa Goreal soap 68gms,20,0,Goseva-Gokripa Goreal soap 68gms,1,4,[1],60,1,13,0,0,0
+11/06/2017 11:48,1440,442,TRUE,"INLIFE Mass Gainer Powder 2 lbs, Chocolate Flavor For Muscle & Weight Gain-908gm",1440,0,442,1,4,[1],100,1,12,1,0,8.333333333
+11/06/2017 11:49,999,443,TRUE,"INLIFE Fish Oil (Omega 3) with Coenzyme Q10, 60 Capsules For Cardio & Sexual Health",999,0,443,1,4,[1],80,1,9,0,0,0
+11/06/2017 11:50,25,444,TRUE,Banjara's Black henna hibiscus,25,0,Banjara's Black henna hibiscus,1,4,[1],100,1,22,0,0,0
+11/06/2017 11:51,1299,446,TRUE,"INLIFE Vitality and Vigour, Libido Enhancement (60 Vegetarian Capsules)",1299,0,446,1,4,[1],60,1,17,0,0,0
+11/06/2017 11:52,225,447,TRUE,Banjara's Gold facial kit 60gms,225,0,Banjara's Gold facial kit 60gms,1,4,[1],100,1,30,1,0,3.333333333
+11/06/2017 11:52,45,448,TRUE,Goseva-Gokripa Carbon soap 75gms,45,0,Goseva-Gokripa Carbon soap 75gms,1,4,[1],80,2,25,0,0,0
+11/06/2017 11:53,900,449,TRUE,"INLIFE Diastan Supplement, Diabetic Care Sugar Balance (60 Vegetarian Capsules)",900,0,449,1,4,[1],60,1,10,0,0,0
+11/06/2017 11:54,50,450,TRUE,Goseva-Gokripa Aloevera soap 75gms,50,0,Goseva-Gokripa Aloevera soap 75gms,1,4,[1],80,1,32,0,0,0
+11/06/2017 11:54,1080,451,TRUE,INLIFE Diastan Plus Powder (300g) Diabetes Care Ayurvedic Herbal Powder,1080,0,451,1,4,[1],80,1,11,0,0,0
+11/06/2017 11:56,449,452,TRUE,"INLIFE Karela, Bitter melon, 500 mg 60 Vegetarian Capsules For Sugar Balance ",449,0,452,1,4,[1],60,1,14,0,0,0
+11/06/2017 11:57,200,453,TRUE,Banjara's Natural henna 500gms,200,0,Banjara's Natural henna 500gms,1,4,[1],100,1,19,3,0,15.78947368
+11/06/2017 11:58,40,454,TRUE,Goseva-Gokripa Chandan soap 75gms,40,0,Goseva-Gokripa Chandan soap 75gms,1,4,[1],60,1,22,3,0,13.63636364
+11/06/2017 11:58,399,455,TRUE,"INLIFE  Natural Garlic Oil, 60 Capsules For Heart,Cholesterol and Weight Loss",399,0,455,1,4,[1],100,1,18,0,0,0
+11/06/2017 11:59,200,456,TRUE,Banjara's Papaya facial kit 60gms,200,0,Banjara's Papaya facial kit 60gms,1,4,[1],100,2,20,5,0,25
+11/06/2017 12:00,40,457,TRUE,Goseva-Gokripa Jasmine soap 75gms,40,0,Goseva-Gokripa Jasmine soap 75gms,1,4,[1],60,1,26,0,0,0
+11/06/2017 12:01,200,458,TRUE,Banjara's Pearl facial kit 60gms,200,0,Banjara's Pearl facial kit 60gms,1,4,[1],60,1,14,2,0,14.28571429
+11/06/2017 12:01,720,459,TRUE,"INLIFE Coconut Extra Virgin Cold Pressed Deodorized Oil, 60 Veg Caps For FatLoss",720,0,459,1,4,[1],80,1,13,0,0,0
+11/06/2017 12:03,799,460,TRUE,"INLIFE Garcinia Cambogia Extract (60% HCA) 500mg 60 Vegetarian Capsules, For Weight Loss",799,0,460,1,4,[1],60,1,9,0,0,0
+11/06/2017 12:03,35,461,TRUE,Goseva Soap Gopika Panchagavya﻿ -75gms,35,0,Goseva Soap Gopika Panchagavya﻿ -75gms,1,4,[1],60,1,15,0,0,0
+11/06/2017 12:07,399,462,TRUE,"INLIFE Slimming Gel,100 gm With Garcinia Cambogia For Inch Loss & Fat Metabolism",399,0,462,1,4,[1],60,1,18,0,0,0
+11/06/2017 12:08,25,463,TRUE,Banjara's Premium rose water,25,0,Banjara's Premium rose water,1,4,[1],100,1,31,11,0,35.48387097
+11/06/2017 12:10,60,466,TRUE,Goseva-Gokripa Aloevera shampoo 100ml,60,0,Goseva-Gokripa Aloevera shampoo 100ml,1,4,[1],100,1,13,1,0,7.692307692
+11/06/2017 12:11,1199,467,TRUE,"INLIFE Natural Chitosan, 350 mg Supplement 90 Capsules For Weight & Fat Loss",1199,0,467,1,4,[1],60,1,12,0,0,0
+11/06/2017 12:15,700,468,TRUE,Deha organics Chamomile Green Tea -50gms jar,700,0,Deha organics Chamomile Green Tea -50gms jar,1,4,[1],100,1,12,0,0,0
+11/06/2017 12:15,65,469,TRUE,Goseva Tejaswini face pack -100gms,65,0,Goseva Tejaswini face pack -100gms,1,4,[1],90,2,60,4,0,6.666666667
+11/06/2017 12:19,700,470,TRUE,Deha organic Leamon Grass Green Tea -50gms jar,700,0,Deha organic Leamon Grass Green Tea -50gms jar,1,4,[1],80,1,14,0,0,0
+11/06/2017 12:23,549,471,TRUE,"INLIFE Bhringraja 500mg Extract (60 Vegetarian Capsules) for Hair, Skin and Nails",549,0,471,1,4,[1],60,1,8,0,0,0
+11/06/2017 12:25,900,472,TRUE,"INLIFE Hair Skin and Nails, 60 Tablets With 10,000 mcg Biotin, For Hair Fall ",900,0,472,1,4,[1],87,3,12,0,0,0
+11/06/2017 12:27,50,473,TRUE,Goseva-Gokripa Panchagavya & Fruit face wash 50ml,50,0,Goseva-Gokripa Panchagavya & Fruit face wash 50ml,1,4,[1],90,2,16,1,0,6.25
+11/06/2017 12:30,900,474,TRUE,INLIFE Hair Support Supplement (60 Vegetarian Capsules),900,0,INLIFE Hair Support Supplement (60 Vegetarian Capsules),1,4,[1],60,1,15,1,0,6.666666667
+11/06/2017 12:32,249,475,TRUE,INLIFE Natural Hibiscus Anti hair Fall Shampoo 200ml Soap Paraben Free  ,249,0,475,1,4,[1],100,1,23,0,0,0
+11/06/2017 12:33,90,476,TRUE,Goseva-Gokripa Brahmi oil 100ml,90,0,Goseva-Gokripa Brahmi oil 100ml,1,4,[1],100,1,14,0,0,0
+11/06/2017 12:39,720,477,TRUE,"INLIFE Vitamin E 400 IU Wheat Germ Oil, 60 Capsules For Hair Fall & Acne Marks  ",720,0,477,1,4,[1],80,1,13,0,0,0
+11/06/2017 12:41,339,478,TRUE,INLIFE Natural Day Gold Cream 50 gm With SPF 20 For Skin Whitening & Acne Scars,339,0,478,1,4,[1],100,1,16,0,0,0
+11/06/2017 12:47,299,479,TRUE,"INLIFE Vash - Ayurvedic Female Intimate Hygiene Wash - 200ml, Paraben Free",299,0,479,1,4,[1],100,1,11,0,0,0
+11/06/2017 12:51,65,480,TRUE,Goseva Neem Gojharan Handwash -200ml,65,0,Goseva Neem Gojharan Handwash -200ml,1,4,[1],60,1,18,3,0,16.66666667
+11/06/2017 12:54,35,481,TRUE,Goseva Hawan Samagri 200gm,35,0,Goseva Hawan Samagri 200gm,1,4,[1],60,1,24,0,0,0
+11/06/2017 13:05,199,482,TRUE,"INLIFE Natural Fruit Face Scrub,100gm,Paraben Free Best Exfoliator For Acne ",199,0,482,1,4,[1],80,1,4,0,0,0
+11/06/2017 13:08,70,483,TRUE,Goseva Easy Dishwash Gel,70,0,Goseva Easy Dishwash Gel,1,4,[1],90,2,21,2,0,9.523809524
+11/06/2017 13:08,270,486,TRUE,INLIFE Natural Aloe Vera Neem Moisturizing Face Lotion 200ml Paraben Free,270,0,486,1,4,[1],60,1,11,0,0,0
+11/06/2017 13:26,30,487,TRUE,Goseva Danth manjan,30,0,Goseva Danth manjan,1,4,[1],90,2,15,3,0,20
+11/06/2017 14:40,399,490,TRUE,"INLIFE Herbal Hair Oil, 200 ml For Deep Nourishment Of Hair Roots, Paraben Free",399,0,490,1,4,[1],60,1,8,0,0,0
+11/06/2017 14:43,90,491,TRUE,Gau Naturals Garam masala powder 100gms,90,0,Gau Naturals Garam masala powder 100gms,1,4,[1],70,2,19,0,0,0
+11/06/2017 14:44,199,492,TRUE,"INLIFE Natural Papaya Fairness Cream 100 gm, Moisturizer For Both Men and Women",199,0,492,1,4,[1],60,1,9,0,0,0
+11/06/2017 14:45,199,493,TRUE,INLIFE  Natural Saffron Fairness Cream 100 gm For Blemishes Dark Circles & Spots,199,0,493,1,4,[1],93,6,14,0,0,0
+11/06/2017 14:48,135,494,TRUE,Gau Naturals Dhaniya powder 200gms,135,0,Gau Naturals Dhaniya powder 200gms,1,4,[1],60,1,17,1,0,5.882352941
+11/06/2017 15:07,135,498,TRUE,Gau Naturals Toordal powder 200gms,135,0,Gau Naturals Toordal powder 200gms,1,4,[1],60,1,27,0,0,0
+11/06/2017 15:07,60,499,TRUE,Akshaya's Pancha gavya shampoo 100ml,60,0,Akshaya's Pancha gavya shampoo 100ml,1,4,[1],100,1,27,0,0,0
+11/06/2017 15:08,90,502,TRUE,Gau Naturals Sambar powder 100gms,90,0,Gau Naturals Sambar powder 100gms,1,4,[1],60,1,21,0,0,0
+11/06/2017 15:11,45,503,TRUE,Akshaya's Aloe vera soap 75gms,45,0,Akshaya's Aloe vera soap 75gms,1,4,[1],60,1,22,5,0,22.72727273
+11/06/2017 15:12,45,504,TRUE,Akshaya's Herbal soap 75gms,45,0,Akshaya's Herbal soap 75gms,1,4,[1],80,1,15,0,0,0
+11/06/2017 15:13,90,505,TRUE,Gau Naturals Aswagandha chutney powder 90gms,90,0,Gau Naturals Aswagandha chutney powder 90gms,1,4,[1],80,1,25,1,0,4
+11/06/2017 15:14,75,506,TRUE,Akshaya's Multani mitti premium soap 125gms,75,0,Akshaya's Multani mitti premium soap 125gms,1,4,[1],80,2,33,0,0,0
+11/06/2017 15:16,1620,507,TRUE,INLIFE Whey Protein Powder 1 lbs(Vanilla Flavour) Body Building Supplement-454gm,1620,0,507,1,4,[1],60,1,3,0,0,0
+11/06/2017 15:16,45,508,TRUE,Akshaya's Neem Tulasi soap 75gms,45,0,Akshaya's Neem Tulasi soap 75gms,1,4,[1],70,2,31,4,0,12.90322581
+11/06/2017 15:20,6300,509,TRUE,INLIFE Whey Protein Powder 5 lbs (Coffee Flavor) Body Building Supplement-2.27kg ,6300,0,509,1,4,[1],80,1,4,0,0,0
+11/06/2017 15:21,99,510,TRUE,Akshaya's Tulasi ark 500ml,99,0,Akshaya's Tulasi ark 500ml,1,4,[1],93,3,102,11,0,10.78431373
+11/06/2017 15:22,6300,512,TRUE,INLIFE Whey Protein Powder 5 lbs (Cookie and Cream Flavor) Body Building Supplement-2.27kg,6300,0,512,1,4,[1],100,1,4,0,0,0
+11/06/2017 15:22,45,513,TRUE,Gau Naturals Surabhi Hand made soap 100gms,45,0,Gau Naturals Surabhi Hand made soap 100gms,1,4,[1],60,1,7,0,0,0
+11/06/2017 15:25,3150,514,TRUE,INLIFE Whey Protein Powder 2 lbs  (Mango Flavour) Body Building Supplement-908gm,3150,0,514,1,4,[1],100,1,7,0,0,0
+11/06/2017 15:27,6300,515,TRUE,INLIFE Whey Protein Powder 5 lbs (Mango Flavor) Body Building Supplement -2.27kg,6300,0,515,1,4,[1],100,1,3,0,0,0
+11/06/2017 15:27,75,516,TRUE,Gau Naturals Netranajan kajal - 3gms,75,0,Gau Naturals Netranajan kajal - 3gms,1,4,[1],100,1,31,3,0,9.677419355
+11/06/2017 15:29,45,517,TRUE,Akshaya's Multan mitti soap 100gms,45,0,Akshaya's Multan mitti soap 100gms,1,4,[1],60,1,19,1,0,5.263157895
+11/06/2017 15:32,75,518,TRUE,Akshaya's Pancha gavya premium soap 125gms,75,0,Akshaya's Pancha gavya premium soap 125gms,1,4,[1],100,1,19,2,0,10.52631579
+11/06/2017 15:34,849,519,TRUE,"INLIFE Safed Musli Extract, 500mg (60 Vegetarian Capsules) For Strength and Stamina",849,0,519,1,4,[1],100,1,4,0,0,0
+11/06/2017 15:35,45,520,TRUE,Akshaya's Pancha gavya soap new 75gms,45,0,Akshaya's Pancha gavya soap new 75gms,1,4,[1],60,1,25,0,0,0
+11/06/2017 15:36,849,521,TRUE,INLIFE Shilajit Extract (Fulvic Acid > 3%) 500mg (60 Vegetarian Capsules) For Stamina and Vitality,849,0,521,1,4,[1],100,2,6,0,0,0
+11/06/2017 15:37,75,522,TRUE,Dhampure Bura Sugar 500 gm,75,0,Dhampure Bura Sugar 500 gm,1,4,[1],60,1,3,0,0,0
+11/06/2017 15:39,3150,523,TRUE,INLIFE Whey Protein Powder 2 lbs  (Strawberry Flavour) Body Building Supplement-908gm,3150,0,523,1,4,[1],60,1,5,0,0,0
+11/06/2017 15:42,6300,524,TRUE,INLIFE Whey Protein Powder 5 lbs (Strawberry Flavor) Body Building Supplement -2.27kg,6300,0,524,1,4,[1],100,1,5,0,0,0
+11/06/2017 15:43,130,525,TRUE,Dhampure Demerara Sugar 1000 gm,130,0,Dhampure Demerara Sugar 1000 gm,1,4,[1],90,2,13,0,0,0
+11/06/2017 15:46,70,526,TRUE,Dhampure Cinnamon Cubes 500 gm,70,0,Dhampure Cinnamon Cubes 500 gm,1,4,[1],100,1,18,0,0,0
+11/06/2017 15:47,499,527,TRUE,"INLIFE Tribulus Terrestris 40% Saponins, 500mg (Gokshura) 60 Vegetarian Capsules",499,0,527,1,4,[1],60,1,4,0,0,0
+11/06/2017 15:48,200,528,TRUE,Dhampure Golden Syrup 735 Ml,200,0,Dhampure Golden Syrup 735 Ml,1,4,[1],100,1,17,0,0,0
+11/06/2017 15:50,3150,529,TRUE,INLIFE Whey Protein Powder 2 lbs  (Vanilla Flavour) Body Building Supplement-908gm,3150,0,529,1,4,[1],100,1,5,0,0,0
+11/06/2017 15:54,110,531,TRUE,Dhampure Organic jaggery Powder 700 gm,110,0,Dhampure Organic jaggery Powder 700 gm,1,4,[1],80,1,20,0,0,0
+11/06/2017 15:55,1620,532,TRUE,INLIFE Whey Protein Powder 1 lbs(Cookie and Cream Flavour) Body Building Supplement-454gm,1620,0,532,1,4,[1],80,1,5,0,0,0
+11/06/2017 15:59,80,534,TRUE,Dhampure Organic Brown Sugar 500 gm,80,0,Dhampure Organic Brown Sugar 500 gm,1,4,[1],80,1,23,1,0,4.347826087
+11/06/2017 16:04,3150,535,TRUE,INLIFE Whey Protein Powder 2 lbs  (Cookie and Cream Flavour) Body Building Supplement-908gm,3150,0,535,1,4,[1],60,1,3,0,0,0
+11/06/2017 16:04,75,536,TRUE,Dhampure Organic White Sugar 500 gm,75,0,Dhampure Organic White Sugar 500 gm,1,4,[1],80,1,27,0,0,0
+11/06/2017 16:05,3150,537,TRUE,INLIFE Whey Protein Powder 2 lbs  (Coffee Flavour) Body Building Supplement-908gm,3150,0,537,1,4,[1],60,1,5,0,0,0
+11/06/2017 16:08,70,538,TRUE,Dhampure Demerara Sugar 500 gm,70,0,Dhampure Demerara Sugar 500 gm,1,4,[1],60,1,25,0,0,0
+11/06/2017 16:09,6300,539,TRUE,INLIFE Whey Protein Powder 5 lbs (Chocolate Flavor) Body Building Supplement-2.27kg,6300,0,539,1,4,[1],80,1,4,0,0,0
+11/06/2017 16:13,65,540,TRUE,Dhampure Candy Sugar 500 gm,65,0,Dhampure Candy Sugar 500 gm,1,4,[1],80,2,23,2,0,8.695652174
+11/06/2017 16:14,1620,541,TRUE,INLIFE Whey Protein Powder 1 lbs(Chocolate Flavour) Body Building Supplement-454gm,1620,0,541,1,4,[1],100,1,4,0,0,0
+11/06/2017 16:15,70,542,TRUE,Dhampure Coffee Crystal 500 gm,70,0,Dhampure Coffee Crystal 500 gm,1,4,[1],80,1,25,0,0,0
+11/06/2017 16:16,1620,543,TRUE,INLIFE Whey Protein Powder 1 lbs(Mango Flavour) Body Building Supplement-454gm,1620,0,543,1,4,[1],80,2,4,0,0,0
+11/06/2017 16:18,3150,544,TRUE,INLIFE Whey Protein Powder 2 lbs  (Chocolate Flavour) Body Building Supplement-908gm,3150,0,544,1,4,[1],60,1,5,0,0,0
+11/06/2017 16:18,30,545,TRUE,Gou Ganga Mosquito coils,30,0,Gou Ganga Mosquito coils,1,4,[1],60,1,18,0,0,0
+11/06/2017 16:19,180,546,TRUE,Dhampure Golden Syrup Straws 400 gm,180,0,Dhampure Golden Syrup Straws 400 gm,1,4,[1],60,1,19,0,0,0
+11/06/2017 16:21,50,547,TRUE,Gou Ganga Jumbo Mosquito coil -10pcs,50,0,Gou Ganga Jumbo Mosquito coil -10pcs,1,4,[1],80,2,23,1,0,4.347826087
+11/06/2017 16:23,1620,548,TRUE,INLIFE Whey Protein Powder 1 lbs(Strawberry Flavour) Body Building Supplement-454gm,1620,0,548,1,4,[1],60,1,3,0,0,0
+11/06/2017 16:29,300,549,TRUE,"INLIFE™ Flaxseed Oil Omega 369 fatty acids Supplement, 500mg (60 Capsules)",300,0,549,1,4,[1],80,1,14,1,0,7.142857143
+11/06/2017 16:30,70,550,TRUE,Dhampure Muscavado Sugar 500 gm,70,0,Dhampure Muscavado Sugar 500 gm,1,4,[1],100,1,26,0,0,0
+11/06/2017 16:31,540,551,TRUE,"INLIFE Iron Folic Acid, 60 Tablets For Prenatal Health Of Women",540,0,"INLIFE Iron Folic Acid, 60 Tablets For Prenatal Health Of Women",1,4,[1],40,4,18,0,0,0
+11/06/2017 16:32,50,552,TRUE,Green Farm Jaggery powder 400gms,50,0,Green Farm Jaggery powder 400gms,1,4,[1],100,1,26,2,0,7.692307692
+11/06/2017 16:33,160,553,TRUE,Dhampure Swizzle Stick 80 gm,160,0,Dhampure Swizzle Stick 80 gm,1,4,[1],60,1,26,0,0,0
+11/06/2017 16:35,840,554,TRUE,"INLIFE Coenzyme Q10, 100mg 30 Chewable Tablets Fertility Supplement For Male Female",840,0,554,1,4,[1],100,1,3,0,0,0
+11/06/2017 16:35,200,555,TRUE,Dhampure Liquid Jaggery 735 Ml,200,0,Dhampure Liquid Jaggery 735 Ml,1,4,[1],80,1,20,0,0,0
+11/06/2017 16:37,600,556,TRUE,"NLIFE Vitamin B12 Alpha lipoic acid (ALA),60 Tablets For Cognitive Memory Health",600,0,556,1,4,[1],80,1,6,0,0,0
+11/06/2017 16:45,720,557,TRUE,"INLIFE Sweet Almond Extra Virgin Cold Pressed Oil, 60 Veg. Caps For Pigmentation",720,0,557,1,4,[1],60,1,11,0,0,0
+11/06/2017 16:45,80,558,TRUE,Dhampure Sugar Sachets 500 gm,80,0,Dhampure Sugar Sachets 500 gm,1,4,[1],80,1,18,0,0,0
+11/06/2017 16:46,789,559,TRUE,INLIFE Alpha Lipoic Acid 300 mg (60 Vegetarian Capsules),789,0,INLIFE Alpha Lipoic Acid 300 mg (60 Vegetarian Capsules),1,4,[1],80,1,16,0,0,0
+11/06/2017 16:47,70,560,TRUE,Dhampure White Sugar Cubes 500 gm,70,0,Dhampure White Sugar Cubes 500 gm,1,4,[1],60,1,24,0,0,0
+11/06/2017 16:49,900,561,TRUE,"INLIFE Natural Black Seed Extra Virgin Cold Pressed Oil, 500 mg 60 Veg Capsules",900,0,561,1,4,[1],60,1,8,0,0,0
+11/06/2017 16:51,1080,562,TRUE,"INLIFE Cow Colostrum Supplement, 500mg (60 Vegetarian Capsules)",1080,0,"INLIFE Cow Colostrum Supplement, 500mg (60 Vegetarian Capsules)",1,4,[1],100,1,11,0,0,0
+11/06/2017 16:52,990,563,TRUE,INLIFE Fenugreek Seed Oil (60 Vegetarian Capsules) Sugar Balance and Womens Health,990,0,563,1,4,[1],60,1,12,0,0,0
+11/06/2017 16:55,999,564,TRUE,"INLIFE Green Coffee Bean Extract (50% Chlorogenic Acid) 800mg per Serving, 60 Vegetarian Capsules",999,0,564,1,4,[1],60,1,14,0,0,0
+11/06/2017 16:58,699,565,TRUE,"INLIFE Green Tea Extract (With 70% Polyphenols) 500mg, 60 Vegetarian Capsules",699,0,565,1,4,[1],80,1,18,0,0,0
+11/06/2017 16:59,7,566,TRUE,Health Sutra Jowar porridge tangy tomato 35gms,10,0,Health Sutra Jowar porridge tangy tomato 35gms,1,4,[1],60,2,20,1,30,5
+11/06/2017 17:00,100,567,TRUE,Dhampure Icing Sugar 1000 gm,100,0,Dhampure Icing Sugar 1000 gm,1,4,[1],60,1,15,0,0,0
+11/06/2017 17:01,690,568,TRUE,"INLIFE Gymnema Sylvestre (Gymnemic Acid > 25%) 500mg, 60 Vegetarian Capsules",690,0,568,1,4,[1],60,1,13,0,0,0
+11/06/2017 17:02,10,569,TRUE,Health Sutra Jowar porridge classic carrot,10,0,Health Sutra Jowar porridge classic carrot,1,4,[1],60,2,34,0,0,0
+11/06/2017 17:03,100,572,TRUE,Dhampure Caster Sugar 1000 gm,100,0,Dhampure Caster Sugar 1000 gm,1,4,[1],100,1,21,0,0,0
+11/06/2017 17:03,1500,573,TRUE,INLFIE Krill Oil Phospholipid Omega 3 with Astaxanthin 500mg - 30 Capsules,1500,0,573,1,4,[1],100,1,15,0,0,0
+11/06/2017 17:08,899,574,TRUE,"INLIFE L-Arginine 1000mg (60 Vegetarian Capsules) Per Serving, Nitric Oxide Precursor",899,0,574,1,4,[1],60,1,11,0,0,0
+11/06/2017 17:09,1199,575,TRUE,"INLIFE L-Carnitine L-Tartarate, 500mg (60 Vegetarian Capsules)",1199,0,"INLIFE L-Carnitine L-Tartarate, 500mg (60 Vegetarian Capsules)",1,4,[1],80,1,14,0,0,0
+11/06/2017 17:11,699,576,TRUE,"INLIFE Neem Seed Oil Supplement, 500mg (60 Vegetarian Capsules)",699,0,"INLIFE Neem Seed Oil Supplement, 500mg (60 Vegetarian Capsules)",1,4,[1],80,1,15,0,0,0
+11/06/2017 17:11,40,577,TRUE,Health Sutra Jowar rawa (upma/idli) 400gms,40,0,Health Sutra Jowar rawa (upma/idli) 400gms,1,4,[1],80,2,27,0,0,0
+11/06/2017 17:11,90,578,TRUE,Honest Enterprises Coconut Hair Oil 200ml,90,0,Honest Enterprises Coconut Hair Oil 200ml,1,4,[1],60,1,15,1,0,6.666666667
+11/06/2017 17:12,600,579,TRUE,"INLIFE Prebiotics & Probiotics,60 Capsules, Digestion Acidity Supplement",600,0,579,1,4,[1],80,1,12,0,0,0
+11/06/2017 17:13,255,580,TRUE,Being Desi Unrefined Sesame Oil 500ml,255,0,Being Desi Unrefined Sesame Oil 500ml,1,4,[1],80,1,21,1,0,4.761904762
+11/06/2017 17:15,1299,581,TRUE,"INLIFE Curcumin Advanced (95% Curcuminoids) 500mg, Turmeric Extract 60 Vegetarian Capsules",1299,0,581,1,4,[1],80,1,14,0,0,0
+11/06/2017 17:16,300,582,TRUE,Anamalaiyar's Ramana Sambrani DhupCone 12 pieces,300,0,Anamalaiyar's Ramana Sambrani DhupCone 12 pieces,1,4,[1],60,1,16,2,0,12.5
+11/06/2017 17:17,1260,583,TRUE,"INLIFE Seabuckthorn Seed Oil (500mg) Omega 3,6,7,9 - 30 Vegetarian Capsules Supplement",1260,0,583,1,4,[1],80,1,15,1,0,6.666666667
+11/06/2017 17:21,20,584,TRUE,Health Sutra Jowar pepper pops 35gms,20,0,Health Sutra Jowar pepper pops 35gms,1,4,[1],60,2,24,0,0,0
+11/06/2017 17:22,1800,585,TRUE,"INLIFE Tocotrienols & Wheat Germ Oil With Tocopehrols Vitamin E, 30 Capsules ",1800,0,585,1,4,[1],100,1,20,0,0,0
+11/06/2017 17:23,20,586,TRUE,Health Sutra Jowar salted pops 35gms,20,0,Health Sutra Jowar salted pops 35gms,1,4,[1],50,2,15,0,0,0
+11/06/2017 17:24,148,587,TRUE,Mosquito Repelent Spray 100ml,148,0,Mosquito Repelent Spray 100ml,1,4,[1],60,1,25,0,0,0
+11/06/2017 17:28,78,588,TRUE,Aloe Refreshing and Cleansing Face Wipes 30nos,78,0,Aloe Refreshing and Cleansing Face Wipes 30nos,1,4,[1],100,1,20,0,0,0
+11/06/2017 17:29,40,589,TRUE,Health Sutra Yellow jowar flakes 250gms,40,0,Health Sutra Yellow jowar flakes 250gms,1,4,[1],60,1,25,0,0,0
+11/06/2017 17:40,40,590,TRUE,Health Sutra Ragi flakes 250gms,40,0,Health Sutra Ragi flakes 250gms,1,4,[1],100,2,18,0,0,0
+11/06/2017 17:46,40,591,TRUE,Health Sutra Bajra flakes 250gms,40,0,Health Sutra Bajra flakes 250gms,1,4,[1],90,2,16,0,0,0
+11/06/2017 17:47,40,592,TRUE,Health Sutra Barley flakes 150gms,40,0,Health Sutra Barley flakes 150gms,1,4,[1],80,1,16,0,0,0
+11/06/2017 17:54,40,593,TRUE,Health Sutra Ragi biscuits 100gms,40,0,Health Sutra Ragi biscuits 100gms,1,4,[1],80,2,25,18,0,72
+11/06/2017 18:06,360,594,TRUE,Eco Remedies Anjaneya graviola fruit drink 500ml,360,0,Eco Remedies Anjaneya graviola fruit drink 500ml,1,4,[1],100,1,16,0,0,0
+12/06/2017 14:45,145,597,TRUE,Kairali Prabhanjanavimardanam kuzhampu -450 ml,145,0,Kairali Prabhanjanavimardanam kuzhampu -450 ml,1,4,[1],80,1,19,0,0,0
+12/06/2017 15:19,625,598,TRUE,Kairali Arogya Tea 100gms,625,0,Kairali Arogya Tea 100gms,1,4,[1],60,2,11,0,0,0
+12/06/2017 16:03,645,599,TRUE,Kairali Taahira Tea - 100% Caffeine free tea- For Strengthening & Rejuvenating (100 grams),645,0,599,1,4,[1],80,1,9,0,0,0
+12/06/2017 16:07,615,600,TRUE,Kairali Yuvan Tea - 100% Caffeine free tea- For Healing & Detoxifying (100 grams),615,0,600,1,4,[1],90,2,26,0,0,0
+12/06/2017 16:14,300,601,TRUE,"Tea Combo(Arogya,Yuvan,Taahira) -90gm",300,0,"Tea Combo(Arogya,Yuvan,Taahira) -90gm",1,4,[1],60,1,20,1,0,5
+12/06/2017 16:21,258,602,TRUE,Cardospa -60 capsules,258,0,Cardospa -60 capsules,1,4,[1],100,1,7,0,0,0
+12/06/2017 16:23,1000,603,TRUE,The Ayurvedic Cook Book,1000,0,The Ayurvedic Cook Book,1,4,[1],100,1,16,1,0,6.25
+12/06/2017 16:26,108,604,TRUE,Kairali Spazyme Capsule - A herbal product for gastric upsets and improving bowel function (60 capsules/ Box),108,0,604,1,4,[1],80,1,8,0,0,0
+12/06/2017 16:47,110,605,TRUE,Kairali Spazyme Syrup - A herbal product for gastric upsets and improving bowel function (200 ml),110,0,605,1,4,[1],60,1,8,0,0,0
+12/06/2017 16:53,180,606,TRUE,Kairali Durance (10 capsules/ Box),180,0,Kairali Durance (10 capsules/ Box),1,4,[1],100,1,10,1,0,10
+12/06/2017 17:05,330,607,TRUE,Kairali Spa Col - A herbal product for reducing Cholesterol and correcting Metabolism (60 capsules/ Box),330,0,607,1,4,[1],60,1,8,0,0,0
+12/06/2017 17:07,108,608,TRUE,Kairali Spaliv Capsule - A herbal product for all type of Liver disorders (60 capsules/ Box),108,0,608,1,4,[1],60,1,11,0,0,0
+12/06/2017 17:12,110,609,TRUE,Kairali Spaliv Tonic - A herbal product for all type of Liver disorders (200 ml),110,0,609,1,4,[1],100,1,11,1,0,9.090909091
+12/06/2017 17:15,35,610,TRUE,Kairali Spa Rub - A herbal product for all types of Muscular aches and pains (10 grams),35,0,610,1,4,[1],60,1,11,1,0,9.090909091
+12/06/2017 17:17,270,611,TRUE,Kairali Lipidex - A herbal product for correcting Obesity and Overweight (60 Capsules/ Box),270,0,611,1,4,[1],80,1,21,0,0,0
+12/06/2017 17:21,108,612,TRUE,Kairali Mulberine Capsule - A herbal product for good health (60 capsules/ Box),108,0,612,1,4,[1],60,1,9,0,0,0
+12/06/2017 17:23,105,613,TRUE,Kairali Mulberine Tonic - A herbal product for good health (200 ml),105,0,613,1,4,[1],60,1,13,0,0,0
+12/06/2017 17:34,270,614,TRUE,Kairali Rheuma Spa - A herbal product for reducing Rheumatism and Arthritis related issues (60 capsules/ Box),270,0,614,1,4,[1],100,1,14,0,0,0
+12/06/2017 18:13,280,615,TRUE,Kairali Kairtis Oil 55ml,280,0,Kairali Kairtis Oil 55ml,1,4,[1],60,1,17,0,0,0
+12/06/2017 18:14,350,616,TRUE,Kairali Kairtis - Ayurvedic oil for Rheumatism & Arthritis (55 ml),350,0,616,1,4,[1],80,1,18,0,0,0
+12/06/2017 18:16,999,617,TRUE,Kairali Massage Book,999,0,Kairali Massage Book,1,4,[1],100,1,19,1,0,5.263157895
+12/06/2017 18:20,300,618,TRUE,Kairali Kairheal - (200 ml),300,0,Kairali Kairheal - (200 ml),1,4,[1],80,1,15,0,0,0
+12/06/2017 18:25,360,619,TRUE,Kairali Kairoil - Ayurvedic hair oil (200 ml),360,0,Kairali Kairoil - Ayurvedic hair oil (200 ml),1,4,[1],100,1,15,0,0,0
+12/06/2017 18:30,450,620,TRUE,Kairali Kairbossom - Ayurvedic breast massage oil for enhancing beauty (200 ml),450,0,620,1,4,[1],100,1,17,0,0,0
+12/06/2017 19:35,700,621,TRUE,Kairali Kaircin -  (10 ml),700,0,Kairali Kaircin -  (10 ml),1,4,[1],60,1,20,0,0,0
+12/06/2017 19:37,1225,622,TRUE,Kairali Kaircin - (25 ml),1225,0,Kairali Kaircin - (25 ml),1,4,[1],80,1,26,0,0,0
+12/06/2017 19:50,275,623,TRUE,Kairali Kairpack - Ayurvedic organic face pack (25 grams),275,0,Kairali Kairpack - Ayurvedic organic face pack (25 grams),1,4,[1],100,1,19,1,0,5.263157895
+12/06/2017 20:04,200,624,TRUE,Kairali Kairwash Powder - Ayurvedic organic shampoo (25 grams),200,0,Kairali Kairwash Powder - Ayurvedic organic shampoo (25 grams),1,4,[1],70,2,26,0,0,0
+12/06/2017 20:08,295,625,TRUE,kairali Aloevera Shampoo 200ml,295,0,kairali Aloevera Shampoo 200ml,1,4,[1],90,2,24,1,0,4.166666667
+12/06/2017 20:12,270,626,TRUE,Kairali Amla Shikakai Shampoo 200ml,270,0,Kairali Amla Shikakai Shampoo 200ml,1,4,[1],90,2,18,1,0,5.555555556
+12/06/2017 20:15,305,627,TRUE,Kairali Henna Shampoo (200ml),305,0,Kairali Henna Shampoo (200ml),1,4,[1],60,1,31,0,0,0
+12/06/2017 20:18,284,628,TRUE,Kairali Lemon Shampoo (200ml),284,0,Kairali Lemon Shampoo (200ml),1,4,[1],60,1,28,0,0,0
+12/06/2017 20:20,240,629,TRUE,Kairali Orange Blossom Shampoo (200ml),240,0,Kairali Orange Blossom Shampoo (200ml),1,4,[1],80,1,29,0,0,0
+12/06/2017 20:33,110,630,TRUE,Kairali Handmade Neem Soap (100 grams),110,0,Kairali Handmade Neem Soap (100 grams),1,4,[1],80,2,24,1,0,4.166666667
+12/06/2017 20:35,115,631,TRUE,Kairali Handmade Sandal Soap (100 grams),115,0,Kairali Handmade Sandal Soap (100 grams),1,4,[1],60,1,27,0,0,0
+13/06/2017 15:03,100,632,TRUE,Amla Candy 300gm,100,0,Amla Candy 300gm,1,4,[1],80,1,13,1,0,7.692307692
+13/06/2017 15:07,30,633,TRUE,Amrit Balm 10gm,30,0,Amrit Balm 10gm,1,4,[1],60,1,17,0,0,0
+13/06/2017 15:08,49,634,TRUE,Amrit Balm 20gm,50,0,Amrit Balm 20gm,1,4,[1],80,2,24,1,2,4.166666667
+14/06/2017 12:54,20,635,TRUE,Adarsh Goseva Angarag soap 90gms,20,0,Adarsh Goseva Angarag soap 90gms,1,4,[1],73,3,129,15,0,11.62790698
+14/06/2017 12:58,55,636,TRUE,Adarsh Goseva Angarag Bath Powder,55,0,Adarsh Goseva Angarag Bath Powder,1,4,[1],90,2,43,4,0,9.302325581
+14/06/2017 13:08,333,639,TRUE,Aushadhi Bhavan Gulkand with prawal 1Kg,333,0,Aushadhi Bhavan Gulkand with prawal 1Kg,1,4,[1],100,1,20,0,0,0
+14/06/2017 14:04,100,640,TRUE,Gau Naturals Herbal Bath Powder(Sunni pindi) 200gms,100,0,Gau Naturals Herbal Bath Powder(Sunni pindi) 200gms,1,4,[1],90,2,28,0,0,0
+14/06/2017 14:07,90,641,TRUE,Gau Naturals Gavya Tea -100gms,90,0,Gau Naturals Gavya Tea -100gms,1,4,[1],60,1,29,1,0,3.448275862
+14/06/2017 14:08,50,642,TRUE,Gau Naturals Omu Water 200ml,50,0,Gau Naturals Omu Water 200ml,1,4,[1],80,1,34,0,0,0
+14/06/2017 14:17,555,643,TRUE,Hillarious Ayurveda Diactral 5gmx30,555,0,Hillarious Ayurveda Diactral 5gmx30,1,4,[1],80,1,21,0,0,0
+14/06/2017 14:22,400,644,TRUE,Wheat Grass Powder 100gms,400,0,Wheat Grass Powder 100gms,1,4,[1],100,1,7,0,0,0
+14/06/2017 14:31,30,645,TRUE,Fenugreek leaf Spice Powder 60gms,30,0,Fenugreek leaf Spice Powder 60gms,1,4,[1],100,1,12,3,0,25
+14/06/2017 14:38,70,646,TRUE,Palm Crystals 150gms,70,0,Palm Crystals 150gms,1,4,[1],80,1,15,0,0,0
+14/06/2017 14:47,35,647,TRUE,Roasted Flax Seeds 100gm,35,0,Roasted Flax Seeds 100gm,1,4,[1],60,1,17,5,0,29.41176471
+14/06/2017 16:42,340,648,TRUE,Kairali Herbal Hair Conditioner (200 ml),340,0,Kairali Herbal Hair Conditioner (200 ml),1,4,[1],60,1,27,0,0,0
+14/06/2017 16:48,305,649,TRUE,Kairali Herbal Moisturising Lotion (200ml),305,0,Kairali Herbal Moisturising Lotion (200ml),1,4,[1],60,1,32,0,0,0
+14/06/2017 16:50,270,650,TRUE,Kairali Strawberry Shower Gel (200ml),270,0,Kairali Strawberry Shower Gel (200ml),1,4,[1],100,1,21,0,0,0
+15/06/2017 15:09,60,651,TRUE,kadhi Aleovera Soap 125mg,60,0,kadhi Aleovera Soap 125mg,1,4,[1],60,2,39,1,0,2.564102564
+15/06/2017 15:13,60,652,TRUE,khadi Apricot Soap 125mg,60,0,khadi Apricot Soap 125mg,1,4,[1],100,1,16,0,0,0
+15/06/2017 15:23,60,653,TRUE,kadhi Sandal Soap 125mg,60,0,kadhi Sandal Soap 125mg,1,4,[1],100,1,14,3,0,21.42857143
+15/06/2017 15:39,145,654,TRUE,Khadi Bhringraj Herbal Oil 200ml,145,0,Khadi Bhringraj Herbal Oil 200ml,1,4,[1],80,1,24,0,0,0
+15/06/2017 15:50,145,655,TRUE,Khadi Herbal massage oil 200ml,145,0,Khadi Herbal massage oil 200ml,1,4,[1],100,1,31,0,0,0
+15/06/2017 16:10,140,656,TRUE,Khadi  Moisturazing lotion Aloevera 200ml,140,0,Khadi  Moisturazing lotion Aloevera 200ml,1,4,[1],60,1,23,2,0,8.695652174
+15/06/2017 16:14,140,657,TRUE,Khadi  Moisturazing lotion Cocoa Butter 200ml,140,0,Khadi  Moisturazing lotion Cocoa Butter 200ml,1,4,[1],100,1,16,1,0,6.25
+15/06/2017 16:15,140,658,TRUE,Khadi  Moisturazing lotion Jasmine -210 ml,140,0,Khadi  Moisturazing lotion Jasmine -210 ml,1,4,[1],80,1,16,0,0,0
+15/06/2017 16:17,140,659,TRUE,Khadi  Moisturazing lotion Sandal 200ml,140,0,Khadi  Moisturazing lotion Sandal 200ml,1,4,[1],80,1,27,1,0,3.703703704
+15/06/2017 16:28,86,660,TRUE,Khadi Rose Water 200ml,86,0,Khadi Rose Water 200ml,1,4,[1],80,1,14,1,0,7.142857143
+15/06/2017 17:05,345,661,TRUE,Neem wood combs ( set of 2),345,0,Neem wood combs ( set of 2),1,4,[1],100,1,9,0,0,0
+15/06/2017 17:19,850,662,TRUE,Zenith Nutrition Green Tea Plus 500 mg - 60  Veg Capsules,850,0,Zenith Nutrition Green Tea Plus 500 mg - 60  Veg Capsules,1,4,[1],100,1,10,0,0,0
+15/06/2017 17:24,1650,663,TRUE,Zenith Nutrition Green Tea Plus 500 mg - 120 Veg Capsules,1650,0,Zenith Nutrition Green Tea Plus 500 mg - 120 Veg Capsules,1,4,[1],80,1,9,0,0,0
+15/06/2017 17:27,3150,664,TRUE,Zenith Nutrition Green Tea Plus 500 mg - 240 veg Capsules,3150,0,Zenith Nutrition Green Tea Plus 500 mg - 240 veg Capsules,1,4,[1],100,1,9,0,0,0
+15/06/2017 17:45,534,665,TRUE,Zenith Nutrition Grape Seed Extract 50mg - 60 Capsules,534,0,Zenith Nutrition Grape Seed Extract 50mg - 60 Capsules,1,4,[1],80,1,16,0,0,0
+15/06/2017 17:53,1800,666,TRUE,Zenith Nutritions Horny Goat Weed Complex 1150mg 120 Capsules,1800,0,Zenith Nutritions Horny Goat Weed Complex 1150mg 120 Capsules,1,4,[1],60,1,21,0,0,0
+15/06/2017 19:44,239,667,TRUE,Rose chamomile ( gulab karpura pushpa chai ) 50gms,239,0,Rose chamomile ( gulab karpura pushpa chai ) 50gms,1,4,[1],80,1,23,0,0,0
+15/06/2017 19:48,1320,668,TRUE,Zenith Nutrition L-Arginine 1000mg 240 Capsules,1320,0,Zenith Nutrition L-Arginine 1000mg 240 Capsules,1,4,[1],60,1,9,0,0,0
+16/06/2017 11:33,900,669,TRUE,Add Veda ADDRYL -60 capsules,900,0,Add Veda ADDRYL -60 capsules,1,4,[1],100,1,8,0,0,0
+16/06/2017 11:39,900,670,TRUE,Add Veda DIABETES HEALTH -60 capsules,900,0,Add Veda DIABETES HEALTH -60 capsules,1,4,[1],60,1,23,0,0,0
+16/06/2017 11:43,1200,671,TRUE,Add Veda ADD MEMORY -60 capsules,1200,0,Add Veda ADD MEMORY -60 capsules,1,4,[1],60,1,14,0,0,0
+16/06/2017 11:46,1220,672,TRUE,Zenith Nutrition L-Carnitine 500mg 60 Capsules,1220,0,Zenith Nutrition L-Carnitine 500mg 60 Capsules,1,4,[1],100,1,31,0,0,0
+16/06/2017 11:50,1500,673,TRUE,Add Veda THYROID HEALTH -60 capsules,1500,0,Add Veda THYROID HEALTH -60 capsules,1,4,[1],80,1,24,0,0,0
+16/06/2017 12:06,1500,674,TRUE,Add Veda ADD AIR -60 capsules,1500,0,Add Veda ADD AIR -60 capsules,1,4,[1],80,1,18,0,0,0
+16/06/2017 12:16,1020,675,TRUE,Zenith Nutrition Lycopene -10000,1020,0,Zenith Nutrition Lycopene -10000,1,4,[1],60,1,15,0,0,0
+16/06/2017 12:24,1200,678,TRUE,Add Veda ADD HAIR -60 capsules,1200,0,Add Veda ADD HAIR -60 capsules,1,4,[1],60,1,16,0,0,0
+16/06/2017 12:28,1800,679,TRUE,Add Veda ADD PLATELETS -60 capsules,1800,0,Add Veda ADD PLATELETS -60 capsules,1,4,[1],80,1,28,0,0,0
+16/06/2017 12:30,620,680,TRUE,Zenith Nutrition Lycopene With Calcium,620,0,Zenith Nutrition Lycopene With Calcium,1,4,[1],60,1,17,0,0,0
+16/06/2017 12:32,900,684,TRUE,Add Veda ADD ENERGY -60 capsules,900,0,Add Veda ADD ENERGY -60 capsules,1,4,[1],80,1,14,0,0,0
+16/06/2017 12:37,900,685,TRUE,Add Veda BIO ORTHO -60 capsules,900,0,Add Veda BIO ORTHO -60 capsules,1,4,[1],100,1,22,0,0,0
+16/06/2017 12:42,1200,686,TRUE,Add Veda FRESH LIV -60 capsules,1200,0,Add Veda FRESH LIV -60 capsules,1,4,[1],60,1,20,0,0,0
+16/06/2017 12:46,1200,687,TRUE,Add Veda ADD DIGEST -60 capsules,1200,0,Add Veda ADD DIGEST -60 capsules,1,4,[1],60,1,29,0,0,0
+16/06/2017 12:50,1200,688,TRUE,Add Veda SHE HEALTH -60 capsules,1200,0,Add Veda SHE HEALTH -60 capsules,1,4,[1],80,1,25,0,0,0
+16/06/2017 12:53,3000,689,TRUE,Add Veda ADD SPERM -60 capsules,3000,0,Add Veda ADD SPERM -60 capsules,1,4,[1],60,1,21,0,0,0
+16/06/2017 12:56,1500,690,TRUE,Add Veda STEMNO -60 capsules,1500,0,Add Veda STEMNO -60 capsules,1,4,[1],60,1,25,0,0,0
+16/06/2017 13:04,720,691,TRUE,Add Veda NO FEVER - 60 capsules,720,0,Add Veda NO FEVER - 60 capsules,1,4,[1],60,1,17,0,0,0
+16/06/2017 13:05,550,692,TRUE,Zenith Nutrition Methylcobalamin-300 Capsules,550,0,Zenith Nutrition Methylcobalamin-300 Capsules,1,4,[1],100,1,15,0,0,0
+16/06/2017 13:06,650,696,TRUE,Zenith-Nutrition-Mucuna-Pruriens-Plus-200-mg,650,0,Zenith-Nutrition-Mucuna-Pruriens-Plus-200-mg,1,4,[1],80,2,26,0,0,0
+16/06/2017 13:32,1220,700,TRUE,Zenith-Nutritions-Grape-Seed-Extract-250mg,1220,0,Zenith-Nutritions-Grape-Seed-Extract-250mg,1,4,[1],100,1,12,0,0,0
+16/06/2017 13:44,1220,704,TRUE,Zenith Nutrition Grape Seed Extract 500mg,1220,0,Zenith Nutrition Grape Seed Extract 500mg,1,4,[1],60,1,11,0,0,0
+16/06/2017 13:46,1500,708,TRUE,Add Veda PURE HEAM -60 capsules,1500,0,Add Veda PURE HEAM -60 capsules,1,4,[1],100,1,19,0,0,0
+16/06/2017 13:53,900,709,TRUE,Add Veda ADD HB -60 capsules,900,0,Add Veda ADD HB -60 capsules,1,4,[1],80,1,24,0,0,0
+16/06/2017 13:57,900,710,TRUE,Add Veda ADD JOY -60 capsules,900,0,Add Veda ADD JOY -60 capsules,1,4,[1],60,1,22,0,0,0
+16/06/2017 14:00,1220,711,TRUE,Zenith Nutrition Green Coffee bean extract-400 mg,1220,0,Zenith Nutrition Green Coffee bean extract-400 mg,1,4,[1],80,1,7,0,0,0
+16/06/2017 14:10,3600,715,TRUE,Add Veda ADD IMMUNE -60 capsules,3600,0,Add Veda ADD IMMUNE -60 capsules,1,4,[1],100,1,11,0,0,0
+16/06/2017 14:14,480,716,TRUE,Zenith Nutrition Green Tea Extract 250mg,480,0,Zenith Nutrition Green Tea Extract 250mg,1,4,[1],100,1,11,0,0,0
+16/06/2017 14:15,900,721,TRUE,Add Veda ADD GOLD -60 capsules,900,0,Add Veda ADD GOLD -60 capsules,1,4,[1],100,1,26,0,0,0
+16/06/2017 14:18,1200,722,TRUE,Add Veda ADD GROWTH -60 capsules,1200,0,Add Veda ADD GROWTH -60 capsules,1,4,[1],80,1,14,0,0,0
+16/06/2017 14:20,1420,723,TRUE,Zenith Nutrition Nettle Root Extract 300 mg -90 Veg Capsules,1420,0,Zenith Nutrition Nettle Root Extract 300 mg -90 Veg Capsules,1,4,[1],100,1,15,0,0,0
+16/06/2017 14:28,800,724,TRUE,Zenith Nutrition Niacin,800,0,Zenith Nutrition Niacin,1,4,[1],80,1,12,0,0,0
+16/06/2017 14:32,720,727,TRUE,Zenith Nutrition Green Tea Extract 400mg-60 Capsules,720,0,Zenith Nutrition Green Tea Extract 400mg-60 Capsules,1,4,[1],100,1,10,0,0,0
+16/06/2017 14:46,1230,732,TRUE,Zenith Nutritions Gymnema Plus-450mg-60 Capsules,1230,0,Zenith Nutritions Gymnema Plus-450mg-60 Capsules,1,4,[1],87,3,3,0,0,0
+16/06/2017 14:47,940,735,TRUE,Zenith Nutrition Omega-3 EFA-120 Capsules,940,0,Zenith Nutrition Omega-3 EFA-120 Capsules,1,4,[1],60,1,12,0,0,0
+16/06/2017 14:58,1080,738,TRUE,Zenith Nutrition Hair Fab-30 Capsules,1080,0,Zenith Nutrition Hair Fab-30 Capsules,1,4,[1],60,1,10,0,0,0
+16/06/2017 15:05,1420,741,TRUE,Zenith Nutrition Pine Bark Ext -100mg-60 Capsules,1420,0,Zenith Nutrition Pine Bark Ext -100mg-60 Capsules,1,4,[1],100,1,21,0,0,0
+16/06/2017 15:14,960,744,TRUE,Zenith Nutrition Hawthorn 140 mg -120 capsules,960,0,Zenith Nutrition Hawthorn 140 mg -120 capsules,1,4,[1],80,1,20,0,0,0
+16/06/2017 15:40,820,745,TRUE,Zenith Nutrition Heart Shield-30 Capsules,820,0,Zenith Nutrition Heart Shield-30 Capsules,1,4,[1],80,3,17,0,0,0
+16/06/2017 15:52,740,748,TRUE,Zenith Nutrition Pine Bark Ext With Calcium-60 Capsules,740,0,Zenith Nutrition Pine Bark Ext With Calcium-60 Capsules,1,4,[1],60,1,8,0,0,0
+16/06/2017 16:10,1740,752,TRUE,Zenith Nutrition Probiotic Blend -240 Capsules,1740,0,Zenith Nutrition Probiotic Blend -240 Capsules,1,4,[1],60,1,7,0,0,0
+16/06/2017 16:16,120,753,TRUE,Trifala Ras 500ml,120,0,Trifala Ras 500ml,1,4,[1],100,1,2,0,0,0
+16/06/2017 16:46,910,755,TRUE,Zenith Nutrition Resveratrol Plus-60 Capsules,910,0,Zenith Nutrition Resveratrol Plus-60 Capsules,1,4,[1],80,1,21,0,0,0
+16/06/2017 18:36,1060,759,TRUE,Zenith Nutrition Lycopene With MultiVitamins-200 Capsules,1060,0,Zenith Nutrition Lycopene With MultiVitamins-200 Capsules,1,4,[1],80,1,8,0,0,0
+16/06/2017 18:49,1200,762,TRUE,Zenith Nutrition Lycopene With Saw Palmetto-60 Capsules,1200,0,Zenith Nutrition Lycopene With Saw Palmetto-60 Capsules,1,4,[1],100,1,23,0,0,0
+16/06/2017 20:09,760,765,TRUE,Zenith Nutrition Selenium 200 mcg-60 Capsules,760,0,Zenith Nutrition Selenium 200 mcg-60 Capsules,1,4,[1],80,1,17,0,0,0
+17/06/2017 10:32,580,769,TRUE,Zenith Nutrition Super Calcium 600-180 Capsules,580,0,Zenith Nutrition Super Calcium 600-180 Capsules,1,4,[1],60,2,11,0,0,0
+17/06/2017 11:07,600,772,TRUE,Zenith Nutrition Turmeric Curcumin Ext 300mg,600,0,Zenith Nutrition Turmeric Curcumin Ext 300mg,1,4,[1],60,1,22,0,0,0
+17/06/2017 11:21,1500,776,TRUE,Zenith Nutrition Turmeric Root Ext 500mg,1500,0,Zenith Nutrition Turmeric Root Ext 500mg,1,4,[1],80,1,24,0,0,0
+17/06/2017 11:32,2350,779,TRUE,Ancient Living Set of 12 Essential oils,2350,0,Ancient Living Set of 12 Essential oils,1,4,[1],80,1,31,0,0,0
+17/06/2017 11:33,840,780,TRUE,Zenith Nutrition Vitamin-D  Calcium-180 Capsules,840,0,Zenith Nutrition Vitamin-D  Calcium-180 Capsules,1,4,[1],60,1,20,0,0,0
+17/06/2017 11:44,1220,784,TRUE,Zenith Nutrition StressFly - 60 Capsules,1220,0,Zenith Nutrition StressFly - 60 Capsules,1,4,[1],60,1,26,0,0,0
+17/06/2017 11:44,400,785,TRUE,Ancient Living Almond baby massage oil 100ml,400,0,Ancient Living Almond baby massage oil 100ml,1,4,[1],100,1,22,9,0,40.90909091
+17/06/2017 11:55,500,788,TRUE,Zenith Nutrition Vitamin B2,500,0,Zenith Nutrition Vitamin B2,1,4,[1],100,1,5,0,0,0
+17/06/2017 12:09,175,791,TRUE,Ancient Living Organic Anti Pimple Face Pack 40gm,175,0,Ancient Living Organic Anti Pimple Face Pack 40gm,1,4,[1],100,1,16,0,0,0
+17/06/2017 12:20,225,792,TRUE,Ancient Living Organic Ashta Dasa Hair Oil,225,0,Ancient Living Organic Ashta Dasa Hair Oil,1,4,[1],100,1,20,1,0,5
+17/06/2017 12:26,6000,796,TRUE,Zenith Nutrition Vitamin B6 - 300 Capsules,6000,0,Zenith Nutrition Vitamin B6 - 300 Capsules,1,4,[1],80,1,6,0,0,0
+17/06/2017 12:26,95,797,TRUE,Ancient Living Avocado & Basil Luxury Handmade Soap 100gm,95,0,Ancient Living Avocado & Basil Luxury Handmade Soap 100gm,1,4,[1],80,2,24,0,0,0
+17/06/2017 12:35,250,798,TRUE,Ancient Living Baby Bath powder 100gm,250,0,Ancient Living Baby Bath powder 100gm,1,4,[1],80,1,17,0,0,0
+17/06/2017 12:37,550,799,TRUE,Zenith Nutrition Vitamin B-100 Complex-100 Capsules,550,0,Zenith Nutrition Vitamin B-100 Complex-100 Capsules,1,4,[1],100,1,6,0,0,0
+17/06/2017 12:41,125,803,TRUE,Ancient Living Basil & Mint Body Wash,125,0,Ancient Living Basil & Mint Body Wash,1,4,[1],60,1,26,0,0,0
+17/06/2017 12:44,800,806,TRUE,Zenith Nutrition Vitamin B-Complex-180 Capsules,800,0,Zenith Nutrition Vitamin B-Complex-180 Capsules,1,4,[1],80,1,4,0,0,0
+17/06/2017 12:45,150,809,TRUE,Ancient Living Organic Basil Essential Oil 10ml,150,0,Ancient Living Organic Basil Essential Oil 10ml,1,4,[1],60,1,21,0,0,0
+17/06/2017 13:03,412,810,TRUE,Zenith Nutrition Vitamin-D3-120 Capsules,412,0,Zenith Nutrition Vitamin-D3-120 Capsules,1,4,[1],80,1,10,0,0,0
+17/06/2017 13:12,450,813,TRUE,Zenith Nutrition Vitamin-E 200mg-100 Capsules,450,0,Zenith Nutrition Vitamin-E 200mg-100 Capsules,1,4,[1],60,1,7,0,0,0
+17/06/2017 13:32,175,817,TRUE,Ancient Living Bergamot Essential Oil 10ml,175,0,Ancient Living Bergamot Essential Oil 10ml,1,4,[1],80,1,16,0,0,0
+17/06/2017 14:29,1250,818,TRUE,Zenith Nutrition Zenith Protein Blend - 500 gms,1250,0,Zenith Nutrition Zenith Protein Blend - 500 gms,1,4,[1],80,1,10,0,0,0
+17/06/2017 14:30,100,822,TRUE,Ancient Living Organic Brahmi & Amla Hair oil,100,0,Ancient Living Organic Brahmi & Amla Hair oil,1,4,[1],60,1,12,0,0,0
+17/06/2017 14:41,250,826,TRUE,Ancient Living Calm Blended Oil 10ml,250,0,Ancient Living Calm Blended Oil 10ml,1,4,[1],80,1,24,0,0,0
+17/06/2017 14:46,1150,827,TRUE,Zenith Nutrition Zenith Protein Nutritional Shake -500 gm,1150,0,Zenith Nutrition Zenith Protein Nutritional Shake -500 gm,1,4,[1],60,1,7,0,0,0
+17/06/2017 14:55,150,830,TRUE,Ancient Living Citronella Essential Oil 10ml,150,0,Ancient Living Citronella Essential Oil 10ml,1,4,[1],60,1,9,0,0,0
+17/06/2017 14:59,300,831,TRUE,Ancient Living Organic Clove Essential Oil 10ml,300,0,Ancient Living Organic Clove Essential Oil 10ml,1,4,[1],60,2,13,0,0,0
+17/06/2017 15:01,980,832,TRUE,Zenith Nutrition Zenith Protein Pure Whey - 300 gms,980,0,Zenith Nutrition Zenith Protein Pure Whey - 300 gms,1,4,[1],80,1,10,0,0,0
+17/06/2017 15:10,400,835,TRUE,Zenith Nutrition Zenith Protein Daily Protein -300gms,400,0,Zenith Nutrition Zenith Protein Daily Protein -300gms,1,4,[1],80,1,11,0,0,0
+17/06/2017 15:16,150,838,TRUE,Ancient Living Organic Eucalyptus Essential Oil 10ml,150,0,Ancient Living Organic Eucalyptus Essential Oil 10ml,1,4,[1],60,1,11,0,0,0
+17/06/2017 15:23,1020,839,TRUE,Zenith Nutrition Saw Palmetto 160mg-120 Capsules,1020,0,Zenith Nutrition Saw Palmetto 160mg-120 Capsules,1,4,[1],80,1,16,0,0,0
+17/06/2017 15:29,2760,840,TRUE,Zenith Nutrition Saw Palmetto 320mg -300 Capsules,2760,0,Zenith Nutrition Saw Palmetto 320mg -300 Capsules,1,4,[1],80,1,19,0,0,0
+17/06/2017 16:13,295,841,TRUE,Ancient Living Manjistha Face Wash 100ML,295,0,Ancient Living Manjistha Face Wash 100ML,1,4,[1],80,1,23,0,0,0
+17/06/2017 16:16,150,842,TRUE,Ancient Living Manjistha Face Wash 50ml,150,0,Ancient Living Manjistha Face Wash 50ml,1,4,[1],60,1,18,3,0,16.66666667
+17/06/2017 16:21,125,843,TRUE,Ancient Living Rose & Orange face pack 40gm,125,0,Ancient Living Rose & Orange face pack 40gm,1,4,[1],60,1,18,0,0,0
+17/06/2017 16:23,980,844,TRUE,Zenith Nutrition Silymarin Milk Thistle Standardized-400mg,980,0,Zenith Nutrition Silymarin Milk Thistle Standardized-400mg,1,4,[1],60,1,10,0,0,0
+17/06/2017 16:23,175,847,TRUE,Ancient Living Organic Grapefruit Essential Oil -10ml,175,0,Ancient Living Organic Grapefruit Essential Oil -10ml,1,4,[1],80,1,11,1,0,9.090909091
+17/06/2017 16:24,225,848,TRUE,Ancient Living Rosemary Essential Oil  10ml,225,0,Ancient Living Rosemary Essential Oil  10ml,1,4,[1],87,3,22,4,0,18.18181818
+17/06/2017 16:27,300,849,TRUE,Ancient Living Organic Sensual Blended Oil 10ml,300,0,Ancient Living Organic Sensual Blended Oil 10ml,1,4,[1],100,1,23,3,0,13.04347826
+17/06/2017 16:31,150,850,TRUE,Ancient Living Sesame baby massage oil,150,0,Ancient Living Sesame baby massage oil,1,4,[1],80,2,56,8,0,14.28571429
+17/06/2017 16:32,760,853,TRUE,Zenith Nutrition Zenith Protein Pure Soy - 500 gms,760,0,Zenith Nutrition Zenith Protein Pure Soy - 500 gms,1,4,[1],100,1,26,0,0,0
+17/06/2017 16:33,150,854,TRUE,Ancient Living Organic Shikakai Hair cleanser 100gm,150,0,Ancient Living Organic Shikakai Hair cleanser 100gm,1,4,[1],100,1,21,0,0,0
+17/06/2017 16:33,195,855,TRUE,Ancient Living Organic Hibiscus & Bhringraj Hair oil -100ml,195,0,Ancient Living Organic Hibiscus & Bhringraj Hair oil -100ml,1,4,[1],100,1,8,0,0,0
+17/06/2017 16:33,125,856,TRUE,Ancient Living Multani Mitti 100gms,125,0,Ancient Living Multani Mitti 100gms,1,4,[1],80,1,21,0,0,0
+17/06/2017 16:34,125,857,TRUE,Organic Soapnut Powder 100gm,125,0,Organic Soapnut Powder 100gm,1,4,[1],60,1,25,0,0,0
+17/06/2017 16:36,100,858,TRUE,Ancient Living Organic Hibiscus & Bhringraj Hair oil -50ml,100,0,Ancient Living Organic Hibiscus & Bhringraj Hair oil -50ml,1,4,[1],100,1,11,0,0,0
+17/06/2017 16:37,250,859,TRUE,Ancient Living Natural Hair Protein pack 100gms,250,0,Ancient Living Natural Hair Protein pack 100gms,1,4,[1],60,1,14,1,0,7.142857143
+17/06/2017 16:39,375,860,TRUE,Ancient Living Organic Hibiscus & Bhringraj Hair oil -200ml,375,0,Ancient Living Organic Hibiscus & Bhringraj Hair oil -200ml,1,4,[1],60,1,10,0,0,0
+17/06/2017 16:40,95,861,TRUE,Ancient Living Neem & Lemon Luxury Handmade Soap 100gms,95,0,Ancient Living Neem & Lemon Luxury Handmade Soap 100gms,1,4,[1],80,2,15,0,0,0
+17/06/2017 16:41,300,862,TRUE,Ancient Living Tea Tree Essential Oil 10ml,300,0,Ancient Living Tea Tree Essential Oil 10ml,1,4,[1],80,1,19,0,0,0
+17/06/2017 16:43,940,863,TRUE,Zenith Nutrition Vigo and Vita Men's-30 Capsules,940,0,Zenith Nutrition Vigo and Vita Men's-30 Capsules,1,4,[1],100,1,12,0,0,0
+17/06/2017 16:44,100,866,TRUE,Ancient Living Neem Wood pocket Comb,100,0,Ancient Living Neem Wood pocket Comb,1,4,[1],100,1,11,0,0,0
+17/06/2017 16:47,95,867,TRUE,Ancient Living Neroli & Vetiver Luxury Handmade Soap 100gms,95,0,Ancient Living Neroli & Vetiver Luxury Handmade Soap 100gms,1,4,[1],60,1,11,0,0,0
+17/06/2017 16:48,125,868,TRUE,Ancient Living Tea tree Luxury Handmade Soap 100gm,125,0,Ancient Living Tea tree Luxury Handmade Soap 100gm,1,4,[1],100,1,8,0,0,0
+17/06/2017 16:49,150,869,TRUE,Ancient Living Lemongrass Essential Oil -10ml,150,0,Ancient Living Lemongrass Essential Oil -10ml,1,4,[1],70,2,16,0,0,0
+17/06/2017 16:49,175,870,TRUE,Ancient Living Organic Thyme Essential Oil 10ml,175,0,Ancient Living Organic Thyme Essential Oil 10ml,1,4,[1],60,1,13,0,0,0
+17/06/2017 16:52,1300,871,TRUE,Zenith Nutrition Resveratrol Plus With Gymnema Sylvestre-60 Capsules,1300,0,871,1,4,[1],100,1,9,0,0,0
+17/06/2017 16:53,400,874,TRUE,Ancient Living Neroli Essential Oil 10ml,400,0,Ancient Living Neroli Essential Oil 10ml,1,4,[1],80,1,15,0,0,0
+17/06/2017 16:54,125,875,TRUE,Ancient Living Organic Tulasi & Neem face pack 40gm,125,0,Ancient Living Organic Tulasi & Neem face pack 40gm,1,4,[1],80,1,10,0,0,0
+17/06/2017 16:55,150,876,TRUE,Ancient Living Orange Essential Oil 10ml,150,0,Ancient Living Orange Essential Oil 10ml,1,4,[1],60,1,17,0,0,0
+17/06/2017 16:57,175,877,TRUE,Ancient Living Organic Rose Water 100ml,175,0,Ancient Living Organic Rose Water 100ml,1,4,[1],100,1,30,12,0,40
+17/06/2017 17:00,95,878,TRUE,Ancient Living Orange Luxury Handmade Soap 100gms,95,0,Ancient Living Orange Luxury Handmade Soap 100gms,1,4,[1],80,1,26,5,0,19.23076923
+17/06/2017 17:01,250,879,TRUE,Ancient Living Focus Blended Oil,250,0,Ancient Living Focus Blended Oil,1,4,[1],80,2,15,0,0,0
+17/06/2017 17:02,125,880,TRUE,Ancient Living Turmeric Lemon Body Wash,125,0,Ancient Living Turmeric Lemon Body Wash,1,4,[1],80,1,13,0,0,0
+17/06/2017 17:04,250,883,TRUE,Ancient Living Organic Ylang Ylang Essential Oil 10ml,250,0,Ancient Living Organic Ylang Ylang Essential Oil 10ml,1,4,[1],60,1,21,0,0,0
+17/06/2017 17:04,250,884,TRUE,Ancient Living Organic Anti Dandruff Pack -100gm,250,0,Ancient Living Organic Anti Dandruff Pack -100gm,1,4,[1],100,1,31,0,0,0
+17/06/2017 17:05,200,885,TRUE,Ancient Living Palmarosa Essential Oil 10ml,200,0,Ancient Living Palmarosa Essential Oil 10ml,1,4,[1],80,1,25,0,0,0
+17/06/2017 17:08,150,886,TRUE,Ancient Living Organic Henna Mix -100gm,150,0,Ancient Living Organic Henna Mix -100gm,1,4,[1],100,1,29,0,0,0
+17/06/2017 17:09,300,887,TRUE,Ancient Living Pachouli Essential Oil 10ml,300,0,Ancient Living Pachouli Essential Oil 10ml,1,4,[1],100,1,14,0,0,0
+17/06/2017 17:11,1075,888,TRUE,Zenith Nutrition Slim Shake-500 gm,1075,0,Zenith Nutrition Slim Shake-500 gm,1,4,[1],60,1,21,0,0,0
+17/06/2017 17:12,175,893,TRUE,Ancient Living Organic Luxury Bath Powder -100gm,175,0,Ancient Living Organic Luxury Bath Powder -100gm,1,4,[1],60,1,18,1,0,5.555555556
+17/06/2017 17:12,250,894,TRUE,Ancient Living Peppermint Essential Oil 10ml,250,0,Ancient Living Peppermint Essential Oil 10ml,1,4,[1],60,1,22,0,0,0
+17/06/2017 17:14,300,895,TRUE,Ancient Living Radiance face pack 40g,300,0,Ancient Living Radiance face pack 40g,1,4,[1],80,1,23,1,0,4.347826087
+17/06/2017 17:15,150,896,TRUE,Ancient Living Organic Lemon & papaya face pack-40gm,150,0,Ancient Living Organic Lemon & papaya face pack-40gm,1,4,[1],92,5,22,1,0,4.545454545
+17/06/2017 17:17,200,897,TRUE,Ancient living Rejuvenative pace pack 40g,200,0,Ancient living Rejuvenative pace pack 40g,1,4,[1],80,1,28,0,0,0
+17/06/2017 17:18,175,898,TRUE,Ancient Living Organic Kasthuri Turmeric Pack -100gm,175,0,Ancient Living Organic Kasthuri Turmeric Pack -100gm,1,4,[1],80,1,21,0,0,0
+17/06/2017 17:24,95,899,TRUE,Ancient Living Rejuvenative Shampoo 50ml,95,0,Ancient Living Rejuvenative Shampoo 50ml,1,4,[1],80,1,17,0,0,0
+17/06/2017 17:29,150,902,TRUE,Ancient Living Revitalizing face scrub,150,0,Ancient Living Revitalizing face scrub,1,4,[1],60,1,23,0,0,0
+17/06/2017 17:29,325,903,TRUE,Ancient Living Hydrating Shampoo -200ml,325,0,Ancient Living Hydrating Shampoo -200ml,1,4,[1],93,3,30,4,0,13.33333333
+17/06/2017 17:30,1120,904,TRUE,Zenith Nutrition Vitamin K2  as MK7 - 100mcg-60 Capsules,1120,0,Zenith Nutrition Vitamin K2  as MK7 - 100mcg-60 Capsules,1,4,[1],80,1,15,0,0,0
+17/06/2017 17:31,95,907,TRUE,Ancient Living Hydrating Shampoo -50ml,95,0,Ancient Living Hydrating Shampoo -50ml,1,4,[1],80,1,29,1,0,3.448275862
+17/06/2017 17:38,125,908,TRUE,Ancient Living Grapefruit & Neroli Luxury Handmade Soap -100gm,125,0,Ancient Living Grapefruit & Neroli Luxury Handmade Soap -100gm,1,4,[1],100,1,23,0,0,0
+17/06/2017 17:45,225,909,TRUE,Ancient Living De-stress Blended Oil -10ml,250,0,Ancient Living De-stress Blended Oil -10ml,1,4,[1],80,1,34,0,10,0
+17/06/2017 17:49,100,910,TRUE,Ancient Living Organic Insect Repellent Blended Oil -10ml,100,0,Ancient Living Organic Insect Repellent Blended Oil -10ml,1,4,[1],100,1,20,0,0,0
+17/06/2017 17:54,900,911,TRUE,Ancient Living Set of 6 Organic Essential oils,900,0,Ancient Living Set of 6 Organic Essential oils,1,4,[1],100,2,20,0,0,0
+17/06/2017 17:58,840,912,TRUE,Zenith Nutrition Super Garlic 1000-90 Capsules,840,0,Zenith Nutrition Super Garlic 1000-90 Capsules,1,4,[1],80,1,12,0,0,0
+19/06/2017 11:50,560,916,TRUE,Zenith Nutrition Vegan Omega-3 DHA-30 Capsules,560,0,Zenith Nutrition Vegan Omega-3 DHA-30 Capsules,1,4,[1],80,1,12,0,0,0
+19/06/2017 12:06,3640,920,TRUE,Zenith Nutrition Ubiquinol  200 mg  - 30 Veg Capsules,3640,0,Zenith Nutrition Ubiquinol  200 mg  - 30 Veg Capsules,1,4,[1],100,1,16,0,0,0
+19/06/2017 12:12,3960,921,TRUE,Zenith Nutrition Ubiquinol 100 mg  - 60 Veg Capsules,3960,0,Zenith Nutrition Ubiquinol 100 mg  - 60 Veg Capsules,1,4,[1],93,3,12,0,0,0
+19/06/2017 12:19,2240,922,TRUE,Zenith Nutrition Ubiquinol  50 mg-60 Capsules,2240,0,Zenith Nutrition Ubiquinol  50 mg-60 Capsules,1,4,[1],100,1,8,1,0,12.5
+19/06/2017 12:35,650,925,TRUE,Zenith Nutrition Tribulus 400mg -60 Veg Capsules,650,0,Zenith Nutrition Tribulus 400mg -60 Veg Capsules,1,4,[1],80,1,19,0,0,0
+19/06/2017 12:42,1220,926,TRUE,Zenith Nutrition Tribulus 800mg-120 Capsules,1220,0,Zenith Nutrition Tribulus 800mg-120 Capsules,1,4,[1],100,1,15,1,0,6.666666667
+19/06/2017 12:47,740,929,TRUE,Zenith Nutrition ResveratrolGrapeseed Ext  Redwine Extract - 60 Capsules,740,0,929,1,4,[1],100,1,8,0,0,0
+19/06/2017 14:53,1200,930,TRUE,Zenith-Nutrition-Resveratrol-60mg -60 capsules,1200,0,Zenith-Nutrition-Resveratrol-60mg -60 capsules,1,4,[1],100,1,26,0,0,0
+19/06/2017 15:07,1960,931,TRUE,Zenith Nutrition Resveratrol-100mg -120 capsules,1960,0,Zenith Nutrition Resveratrol-100mg -120 capsules,1,4,[1],80,1,26,1,0,3.846153846
+19/06/2017 15:16,4800,932,TRUE,Zenith-Nutrition-Resveratrol-500mg-60 Capsules,4800,0,Zenith-Nutrition-Resveratrol-500mg-60 Capsules,1,4,[1],60,1,15,0,0,0
+19/06/2017 15:34,670,935,TRUE,Zenith Nutrition Boswellia Plus-250-mg-60 Capsules,670,0,Zenith Nutrition Boswellia Plus-250-mg-60 Capsules,1,4,[1],60,1,17,0,0,0
+19/06/2017 15:42,2000,939,TRUE,Zenith Nutrition Curcumin 475 mg-120 Capsules,2000,0,Zenith Nutrition Curcumin 475 mg-120 Capsules,1,4,[1],60,1,10,0,0,0
+19/06/2017 15:53,1120,942,TRUE,Zenith Nutrition Curcumin Plus-500mg-60 Capsules,1120,0,Zenith Nutrition Curcumin Plus-500mg-60 Capsules,1,4,[1],60,1,22,0,0,0
+19/06/2017 15:59,1980,946,TRUE,Zenith Nutrition Curcumin with Piperine-60 Capsules,1980,0,Zenith Nutrition Curcumin with Piperine-60 Capsules,1,4,[1],80,1,13,0,0,0
+19/06/2017 16:49,640,949,TRUE,Zenith Nutrition Ginkgo Biloba 60mg-90 Capsules,640,0,Zenith Nutrition Ginkgo Biloba 60mg-90 Capsules,1,4,[1],60,1,18,0,0,0
+19/06/2017 16:58,1300,952,TRUE,Zenith Nutrition Ginkgo Biloba-120mg-120 Capsules,1300,0,Zenith Nutrition Ginkgo Biloba-120mg-120 Capsules,1,4,[1],90,2,11,1,0,9.090909091
+19/06/2017 17:06,1220,955,TRUE,Zenith Nutrition Ginkgo Biloba-180mg-90 Capsules,1220,0,Zenith Nutrition Ginkgo Biloba-180mg-90 Capsules,1,4,[1],100,1,15,0,0,0
+19/06/2017 17:13,1500,958,TRUE,Zenith Nutrition Ginseng-300mg -300 capsules,1500,0,Zenith Nutrition Ginseng-300mg -300 capsules,1,4,[1],60,1,21,0,0,0
+19/06/2017 17:18,650,959,TRUE,Zenith Nutrition Ginseng-500mg -100 capsules,650,0,Zenith Nutrition Ginseng-500mg -100 capsules,1,4,[1],60,1,19,0,0,0
+19/06/2017 17:22,1560,960,TRUE,Zenith Nutrition Ginseng With Ashwagandha -240 capsules,1560,0,Zenith Nutrition Ginseng With Ashwagandha -240 capsules,1,4,[1],100,1,9,0,0,0
+19/06/2017 17:31,670,961,TRUE,Zenith Nutrition Fenugreek Plus-500mg-180 Capsules,670,0,Zenith Nutrition Fenugreek Plus-500mg-180 Capsules,1,4,[1],80,1,16,0,0,0
+19/06/2017 17:38,720,964,TRUE,Zenith Nutrition Fenugreek Seed-1020Mg-180 Capsules,720,0,Zenith Nutrition Fenugreek Seed-1020Mg-180 Capsules,1,4,[1],100,1,15,0,0,0
+19/06/2017 17:48,1680,967,TRUE,Zenith Nutrition Probiotic Fiber -240 capsules,1680,0,Zenith Nutrition Probiotic Fiber -240 capsules,1,4,[1],100,1,17,0,0,0
+19/06/2017 17:59,730,968,TRUE,Zenith Nutrition Probiotic Immune-90 Capsules,730,0,Zenith Nutrition Probiotic Immune-90 Capsules,1,4,[1],80,1,24,0,0,0
+19/06/2017 18:13,1280,972,TRUE,Zenith Nutrition Astaxanthin-6mg-60 Capsules,1280,0,Zenith Nutrition Astaxanthin-6mg-60 Capsules,1,4,[1],60,1,13,0,0,0
+19/06/2017 18:26,1680,975,TRUE,Zenith Nutrition Fertil Edge For Men -60 capsules,1680,0,Zenith Nutrition Fertil Edge For Men -60 capsules,1,4,[1],100,2,20,0,0,0
+19/06/2017 18:34,400,976,TRUE,Zenith Nutrition Folic Acid-2mg-100 capsules,400,0,Zenith Nutrition Folic Acid-2mg-100 capsules,1,4,[1],100,1,8,0,0,0
+19/06/2017 18:47,600,979,TRUE,zenith nutritions 5-spirulina-500mg-100 Capsules,600,0,zenith nutritions 5-spirulina-500mg-100 Capsules,1,4,[1],100,1,7,0,0,0
+19/06/2017 19:26,1080,983,TRUE,Zenith nutritions 6-spirulina-500mg-200 Capsules,1080,0,Zenith nutritions 6-spirulina-500mg-200 Capsules,1,4,[1],80,1,14,0,0,0
+19/06/2017 19:39,820,986,TRUE,Zenith Nutrition Biotin-10000mcg-60 Capsules,820,0,Zenith Nutrition Biotin-10000mcg-60 Capsules,1,4,[1],100,1,7,0,0,0
+19/06/2017 19:47,720,989,TRUE,Zenith Nutrition-CoQ10-30mg-60 Capsules,720,0,Zenith Nutrition-CoQ10-30mg-60 Capsules,1,4,[1],60,1,19,0,0,0
+19/06/2017 19:54,1250,992,TRUE,Zenith Nutrition-CoQ10-60mg-60 Capsules,1250,0,Zenith Nutrition-CoQ10-60mg-60 Capsules,1,4,[1],80,1,18,0,0,0
+19/06/2017 20:09,1650,996,TRUE,Zenith Nutrition-CoQ10-100mg-60 Capsules,1650,0,Zenith Nutrition-CoQ10-100mg-60 Capsules,1,4,[1],100,1,30,0,0,0
+19/06/2017 20:14,2440,1000,TRUE,Zenith Nutrition CoQ10 Plus - 240 Capsules,2440,0,Zenith Nutrition CoQ10 Plus - 240 Capsules,1,4,[1],100,1,23,0,0,0
+19/06/2017 20:26,1120,1001,TRUE,Zenith Nutrition Garlic With Lecithin-200 capsules,1120,0,Zenith Nutrition Garlic With Lecithin-200 capsules,1,4,[1],60,1,15,0,0,0
+19/06/2017 20:36,534,1004,TRUE,Zenith Nutrition Grape Seed Extract-50mg -60 capsules,534,0,Zenith Nutrition Grape Seed Extract-50mg -60 capsules,1,4,[1],80,1,16,0,0,0
+19/06/2017 20:43,830,1005,TRUE,Grape Seed Extract 100mg -60 capsules,830,0,Grape Seed Extract 100mg -60 capsules,1,4,[1],60,1,18,0,0,0
+19/06/2017 20:46,1050,1006,TRUE,Grape Seed Extract 150mg -60 capsules,1050,0,Grape Seed Extract 150mg -60 capsules,1,4,[1],80,1,18,0,0,0
+20/06/2017 11:22,825,1007,TRUE,Zenith Nutrition Colostrum-350mg -60 capsules,825,0,Zenith Nutrition Colostrum-350mg -60 capsules,1,4,[1],60,1,26,0,0,0
+20/06/2017 11:33,782,1008,TRUE,Zenith Nutrition Colostrum-300mg-60 Capsules,782,0,Zenith Nutrition Colostrum-300mg-60 Capsules,1,4,[1],60,1,14,0,0,0
+20/06/2017 11:43,870,1012,TRUE,Zenith Nutrition Colostrum-400mg-60 capsules,870,0,Zenith Nutrition Colostrum-400mg-60 capsules,1,4,[1],80,1,20,0,0,0
+20/06/2017 11:51,980,1016,TRUE,Zenith Nutrition Chaste berry-200mg-60 Capsules,980,0,Zenith Nutrition Chaste berry-200mg-60 Capsules,1,4,[1],60,2,10,0,0,0
+20/06/2017 11:59,780,1019,TRUE,Zenith Nutrition Ashwagandha-225mg-120 Capsules,780,0,Zenith Nutrition Ashwagandha-225mg-120 Capsules,1,4,[1],80,1,19,0,0,0
+20/06/2017 12:05,650,1022,TRUE,Zenith Nutrition Ashwagandha-450mg-60 Capsules,650,0,Zenith Nutrition Ashwagandha-450mg-60 Capsules,1,4,[1],60,1,18,0,0,0
+20/06/2017 12:24,1080,1026,TRUE,Zenith Nutrition Cranberry  800 mg-60 Capsules,1080,0,Zenith Nutrition Cranberry  800 mg-60 Capsules,1,4,[1],100,1,40,0,0,0
+20/06/2017 12:46,1120,1029,TRUE,Zenith Nutrition AcaiFab - 250mg-120 Capsules,1120,0,Zenith Nutrition AcaiFab - 250mg-120 Capsules,1,4,[1],100,1,23,1,0,4.347826087
+20/06/2017 13:01,850,1032,TRUE,Zenith Nutrition Garcinia Plus - 500mg-60capsules,850,0,Zenith Nutrition Garcinia Plus - 500mg-60capsules,1,4,[1],60,1,21,0,0,0
+22/06/2017 19:24,174,1036,TRUE,Organic India Tulsi Green Tea Lemon Ginger 18 TB,174,0,Organic India Tulsi Green Tea Lemon Ginger 18 TB,1,4,[1],100,1,15,0,0,0
+22/06/2017 19:33,174,1037,TRUE,Organic India Tulsi Green Tea Earl Grey 18 TB,174,0,Organic India Tulsi Green Tea Earl Grey 18 TB,1,4,[1],90,2,10,1,0,10
+22/06/2017 19:47,174,1038,TRUE,Organic India Tulsi Green Tea Jasmine 18 TB,174,0,Organic India Tulsi Green Tea Jasmine 18 TB,1,4,[1],100,1,12,1,0,8.333333333
+23/06/2017 12:32,125,1039,TRUE,Organic India Triphala Powder 100 Gm,125,0,Organic India Triphala Powder 100 Gm,1,4,[1],80,2,21,0,0,0
+23/06/2017 12:58,169,1040,TRUE,Organic India Dehydrated Mango Slices 200 grm,199,0,Organic India Dehydrated Mango Slices 200 grm,1,4,[1],100,2,21,0,15.07537688,0
+23/06/2017 13:06,595,1041,TRUE,Organic India Organic Desi Ghee 450 ML,595,0,Organic India Organic Desi Ghee 450 ML,1,4,[1],90,2,128,8,0,6.25
+23/06/2017 13:14,725,1042,TRUE,Organic India Coconut Oil Extra Virgin 500 Ml,725,0,Organic India Coconut Oil Extra Virgin 500 Ml,1,4,[1],93,3,39,4,0,10.25641026
+23/06/2017 13:18,195,1043,TRUE,Organic India Organic Honey wild Forest 250 Grm,195,0,Organic India Organic Honey wild Forest 250 Grm,1,4,[1],60,1,23,8,0,34.7826087
+23/06/2017 13:23,70,1044,TRUE,Organic India Flax Seed 100 Grm,70,0,Organic India Flax Seed 100 Grm,1,4,[1],100,1,9,1,0,11.11111111
+23/06/2017 17:00,174,1045,TRUE,Organic India Tulsi Ginger Turmeric 25 TB,174,0,Organic India Tulsi Ginger Turmeric 25 TB,1,4,[1],100,1,9,0,0,0
+23/06/2017 17:06,895,1046,TRUE,Organic India Executive Deluxe Wooden Gift,895,0,Organic India Executive Deluxe Wooden Gift,1,4,[1],100,1,8,0,0,0
+23/06/2017 17:15,1195,1047,TRUE,Organic India Super Deluxe Wooden Gift Box,1195,0,Organic India Super Deluxe Wooden Gift Box,1,4,[1],100,1,13,0,0,0
+23/06/2017 17:20,250,1048,TRUE,Organic India Darjeeling Tea 100 Gram Tin,250,0,Organic India Darjeeling Tea 100 Gram Tin,1,4,[1],80,1,9,0,0,0
+23/06/2017 17:22,175,1049,TRUE,Organic India Darjeeling Tea 18 TB,175,0,Organic India Darjeeling Tea 18 TB,1,4,[1],80,1,7,0,0,0
+23/06/2017 17:54,154,1050,TRUE,Organic India Tulsi Lax 18 TB,154,0,Organic India Tulsi Lax 18 TB,1,4,[1],100,1,9,0,0,0
+23/06/2017 17:56,154,1051,TRUE,Organic India Tulsi Tummy 18 TB,154,0,Organic India Tulsi Tummy 18 TB,1,4,[1],100,1,8,0,0,0
+23/06/2017 17:58,154,1052,TRUE,Tulsi Cleanse 18 TB,154,0,Tulsi Cleanse 18 TB,1,4,[1],60,1,6,0,0,0
+23/06/2017 18:00,154,1053,TRUE,Organic India Tulsi Sleep 18 TB,154,0,Organic India Tulsi Sleep 18 TB,1,4,[1],80,1,4,0,0,0
+23/06/2017 18:07,148,1054,TRUE,Organic India Tulsi Honey Chamomile 18 TB,148,0,Organic India Tulsi Honey Chamomile 18 TB,1,4,[1],80,1,6,0,0,0
+23/06/2017 18:12,230,1055,TRUE,Organic India Tulsi Masala Chai 100 GM Tin,230,0,Organic India Tulsi Masala Chai 100 GM Tin,1,4,[1],60,1,22,0,0,0
+23/06/2017 18:27,148,1056,TRUE,Organic India Tulsi Original 25 TB,148,0,Organic India Tulsi Original 25 TB,1,4,[1],80,1,5,0,0,0
+23/06/2017 18:33,148,1057,TRUE,Organic India Tulsi Ginger 25 TB,148,0,Organic India Tulsi Ginger 25 TB,1,4,[1],80,1,33,0,0,0
+23/06/2017 18:36,190,1058,TRUE,Organic India Tulsi Original 100 GM Tin,190,0,Organic India Tulsi Original 100 GM Tin,1,4,[1],80,1,8,0,0,0
+23/06/2017 18:40,190,1059,TRUE,Organic India Tulsi Ginger 100 GM Tin,190,0,Organic India Tulsi Ginger 100 GM Tin,1,4,[1],60,1,17,0,0,0
+23/06/2017 18:47,230,1060,TRUE,Organic India The Tulsi Green 100 GM Tin,230,0,Organic India The Tulsi Green 100 GM Tin,1,4,[1],80,1,16,0,0,0
+23/06/2017 18:49,174,1061,TRUE,Organic India Tulsi Ginger Turmeric 25 Tea Bags,174,0,Organic India Tulsi Ginger Turmeric 25 Tea Bags,1,4,[1],100,1,15,1,0,6.666666667
+23/06/2017 18:52,174,1062,TRUE,Organic India Tulsi Green Tea Pomeogranate 18 TB,174,0,Organic India Tulsi Green Tea Pomeogranate 18 TB,1,4,[1],90,2,10,0,0,0
+28/06/2017 13:37,174,1063,TRUE,Organic India Tulsi Masala Chai 25 TB,174,0,Organic India Tulsi Masala Chai 25 TB,1,4,[1],80,1,11,0,0,0
+28/06/2017 14:00,154,1064,TRUE,Organic India Tulsi Brahmi Tea 25 TB,154,0,Organic India Tulsi Brahmi Tea 25 TB,1,4,[1],100,1,7,0,0,0
+28/06/2017 14:03,148,1065,TRUE,Organic India Tulsi Sweet Rose 18 TB-32.4gm,148,0,Organic India Tulsi Sweet Rose 18 TB-32.4gm,1,4,[1],60,1,13,0,0,0
+28/06/2017 14:14,148,1066,TRUE,Organic India Tulsi Mulethi 18 TB,148,0,Organic India Tulsi Mulethi 18 TB,1,4,[1],100,1,14,0,0,0
+28/06/2017 14:26,154,1067,TRUE,Organic India Tulsi Sweet Lemon 18 TB,154,0,Organic India Tulsi Sweet Lemon 18 TB,1,4,[1],70,2,17,0,0,0
+03/07/2017 12:27,40,1068,TRUE,Arogyarahasya Prana shakthi 15ml,40,0,Arogyarahasya Prana shakthi 15ml,1,4,[1],84,5,168,15,0,8.928571429
+05/07/2017 11:40,70,1069,TRUE,Arogya rahasya gomutra ark 500ml,70,0,Arogya rahasya gomutra ark 500ml,1,4,[1],80,1,67,1,0,1.492537313
+05/07/2017 11:43,30,1070,TRUE,Arogya rahasya gomutra ark 200ml,30,0,Arogya rahasya gomutra ark 200ml,1,4,[1],80,1,88,0,0,0
+05/07/2017 11:49,140,1071,TRUE,Arogya rahasya karela juice 500ml,140,0,Arogya rahasya karela juice 500ml-1,1,4,[1],70,2,20,0,0,0
+05/07/2017 12:05,60,1072,TRUE,Banjara's black henna(Natural black) -50gm,60,0,Banjara's black henna(Natural black) -50gm,1,4,[1],100,1,25,4,0,16
+05/07/2017 12:10,40,1073,TRUE,Banjara's Mulanti mitti face pack 100gms,40,0,Banjara's Mulanti mitti face pack 100gms,1,4,[1],80,2,16,2,0,12.5
+05/07/2017 12:15,40,1074,TRUE,Banjara's papaya face wash 50ml,40,0,Banjara's papaya face wash 50ml,1,4,[1],80,2,27,21,0,77.77777778
+05/07/2017 12:20,200,1075,TRUE,Banjara's saffron facial kit 60gm,200,0,Banjara's saffron facial kit 60gm,1,4,[1],100,1,27,1,0,3.703703704
+05/07/2017 12:27,200,1076,TRUE,Banjara's Samvridhi hair oil -125ml,200,0,Banjara's Samvridhi hair oil -125ml,1,4,[1],100,1,24,2,0,8.333333333
+05/07/2017 12:33,60,1077,TRUE,Banjara's shikakai hair care powder 100gm(20g*5),60,0,Banjara's shikakai hair care powder 100gm(20g*5),1,4,[1],60,1,17,3,0,17.64705882
+05/07/2017 12:39,225,1078,TRUE,Being Desi Cold pressed black sesame oil 500ml,225,0,Being Desi Cold pressed black sesame oil 500ml,1,4,[1],90,2,26,5,0,19.23076923
+05/07/2017 12:44,180,1079,TRUE,Being Desi honey bael candy 250gms,180,0,Being Desi honey bael candy 250gms,1,4,[1],100,1,29,4,0,13.79310345
+05/07/2017 12:47,300,1080,TRUE,Being desi Honey gulkand 400gms,300,0,Being desi Honey gulkand 400gms,1,4,[1],80,1,22,0,0,0
+05/07/2017 13:01,60,1081,TRUE,Gau naturals castor oil 100ml,60,0,Gau naturals castor oil 100ml,1,4,[1],60,1,26,1,0,3.846153846
+05/07/2017 13:08,60,1082,TRUE,Gau naturals Neem oil 100ml,60,0,Gau naturals Neem oil 100ml,1,4,[1],80,1,25,0,0,0
+05/07/2017 13:14,90,1083,TRUE,Gau naturals Rasam powder -100gms,90,0,Gau naturals Rasam powder -100gms,1,4,[1],60,1,27,0,0,0
+05/07/2017 13:38,45,1084,TRUE,Gita trifala vati 50gm,45,0,Gita trifala vati 50gm,1,4,[1],80,1,8,0,0,0
+05/07/2017 13:46,110,1085,TRUE,Gita lal dantmanjan 200gm,110,0,Gita lal dantmanjan 200gm,1,4,[1],100,1,28,0,0,0
+05/07/2017 13:52,45,1086,TRUE,Goratna Nikhar cream 50gms,45,0,Goratna Nikhar cream 50gms,1,4,[1],80,2,36,0,0,0
+05/07/2017 13:57,50,1087,TRUE,Goratna Panchagavya with sandal bath soap -75gms,50,0,Goratna Panchagavya with sandal bath soap -75gms,1,4,[1],90,2,92,10,0,10.86956522
+05/07/2017 14:13,30,1088,TRUE,Goseva Pachanamrit 60gm,50,0,Goseva Pachanamrit 60gm,1,4,[1],100,1,20,0,40,0
+05/07/2017 14:18,10,1089,TRUE,Sanatan Gomutra ark 50ml,10,0,Sanatan Gomutra ark 50ml,1,4,[1],55,4,88,0,0,0
+05/07/2017 14:21,25,1090,TRUE,Sanatan Trifala churna,25,0,Sanatan Trifala churna,1,4,[1],100,1,1,0,0,0
+05/07/2017 14:24,45,1091,TRUE,Sanatan Tooth powder 80gms,45,0,Sanatan Tooth powder 80gms,1,4,[1],80,1,17,0,0,0
+05/07/2017 14:28,15,1092,TRUE,Sanatan Jasmine(Mogra) Incense sticks 25gms,15,0,Sanatan Jasmine(Mogra) Incense sticks 25gms,1,4,[1],60,3,36,5,0,13.88888889
+05/07/2017 15:38,60,1093,TRUE,Dentone tooth powder,60,0,Dentone tooth powder,1,4,[1],100,1,4,0,0,0
+05/07/2017 15:42,60,1094,TRUE,Khadi Strawberry handmade soap -125 gm,60,0,Khadi Strawberry handmade soap -125 gm,1,4,[1],80,2,29,0,0,0
+05/07/2017 15:52,65,1095,TRUE,Goratna Mehodari tablets 100gm,65,0,Goratna Mehodari tablets 100gm,1,4,[1],60,1,25,0,0,0
+05/07/2017 16:00,150,1096,TRUE,Amrita's kumkumadi lepam 25gms,150,0,Amrita's kumkumadi lepam 25gms,1,4,[1],100,1,18,0,0,0
+05/07/2017 17:02,30,1097,TRUE,Gau Naturals Sujala gomaya bhasma -35 gms,30,0,Gau Naturals Sujala gomaya bhasma -35 gms,1,4,[1],70,2,8,0,0,0
+05/07/2017 17:23,96,1098,TRUE,Akshaya's Gousuddhi floor cleaner 1lit,96,0,Akshaya's Gousuddhi floor cleaner 1lit,1,4,[1],80,2,29,8,0,27.5862069
+05/07/2017 17:26,75,1099,TRUE,Arogya rahasya herbal floor cleaner 1 lit,75,0,Arogya rahasya herbal floor cleaner 1 lit,1,4,[1],80,2,20,2,0,10
+05/07/2017 17:47,255,1100,TRUE,Arogya Rahasya Swasa kalpa 180ML,255,0,Arogya Rahasya Swasa kalpa 180ML,1,4,[1],60,1,15,0,0,0
+05/07/2017 18:03,45,1101,TRUE,Kushal kanthil,45,0,Kushal kanthil,1,4,[1],80,1,9,0,0,0
+05/07/2017 18:07,110,1102,TRUE,Prakruthi vanam traditional shampoo 200ml,110,0,Prakruthi vanam traditional shampoo 200ml,1,4,[1],90,2,24,2,0,8.333333333
+06/07/2017 15:44,550,1103,TRUE,Kairali Kairtis - Ayurvedic oil for Rheumatism & Arthritis (110 ml),550,0,1103,1,4,[1],100,2,20,1,0,5
+08/07/2017 13:43,700,1104,TRUE,Deha organic tulsi green tea 50gms jar,700,0,Deha organic tulsi green tea 50gms jar,1,4,[1],60,1,17,0,0,0
+08/07/2017 13:47,700,1105,TRUE,Deha Organic mint green tea 50gm jar,700,0,Deha Organic mint green tea 50gm jar,1,4,[1],60,1,15,0,0,0
+08/07/2017 16:57,210,1106,TRUE,Organic India Bowelcare 60 capsules bottle 200gm,210,0,Organic India Bowelcare 60 capsules bottle 200gm,1,4,[1],100,1,4,0,0,0
+08/07/2017 17:01,210,1107,TRUE,Organic India Breathe free 60 capsules bottle 200gm,210,0,Organic India Breathe free 60 capsules bottle 200gm,1,4,[1],100,1,9,0,0,0
+08/07/2017 17:05,210,1108,TRUE,Organic India Flexibility 60 capsules bottle 200ms,210,0,Organic India Flexibility 60 capsules bottle 200ms,1,4,[1],60,1,5,0,0,0
+08/07/2017 17:09,495,1109,TRUE,Organic India Organic Neem 60 capsules bottle 200gms,495,0,Organic India Organic Neem 60 capsules bottle 200gms,1,4,[1],80,1,5,0,0,0
+08/07/2017 17:13,175,1110,TRUE,Organic India Immunity 60 capsules bottle 200gms,175,0,Organic India Immunity 60 capsules bottle 200gms,1,4,[1],100,1,13,0,0,0
+08/07/2017 17:17,210,1111,TRUE,Organic India Lipid care 60 capsules bottle 200gms,210,0,Organic India Lipid care 60 capsules bottle 200gms,1,4,[1],80,1,5,0,0,0
+08/07/2017 17:19,210,1112,TRUE,Organic India LKC care 60 capsules bottle 200gms,210,0,Organic India LKC care 60 capsules bottle 200gms,1,4,[1],60,1,7,0,0,0
+08/07/2017 17:23,210,1113,TRUE,Organic India Osteoseal 60 capsules bottle 200gms,210,0,Organic India Osteoseal 60 capsules bottle 200gms,1,4,[1],80,1,13,0,0,0
+08/07/2017 17:27,210,1114,TRUE,Organic India Sugar balance 60 capsules bottle 200gms,210,0,Organic India Sugar balance 60 capsules bottle 200gms,1,4,[1],60,1,5,1,0,20
+08/07/2017 17:31,210,1115,TRUE,Organic India Vitality 60 capsules bottle 200gms,210,0,Organic India Vitality 60 capsules bottle 200gms,1,4,[1],60,1,12,1,0,8.333333333
+08/07/2017 17:48,195,1116,TRUE,Organic India WT balance 60 capsules bottle 200gms,195,0,Organic India WT balance 60 capsules bottle 200gms,1,4,[1],100,1,7,0,0,0
+08/07/2017 17:51,210,1117,TRUE,Organic India WWB 60 capsules bottle 200gms,210,0,Organic India WWB 60 capsules bottle 200gms,1,4,[1],60,1,10,0,0,0
+08/07/2017 17:54,210,1118,TRUE,Organic India Heart care 60 capsules bottle 200gms,210,0,Organic India Heart care 60 capsules bottle 200gms,1,4,[1],80,1,6,0,0,0
+08/07/2017 17:59,225,1119,TRUE,Organic India Prostate care capsules bottle 200gms,225,0,Organic India Prostate care capsules bottle 200gms,1,4,[1],100,1,3,0,0,0
+08/07/2017 18:02,225,1120,TRUE,Organic India Amalaki 60capsules bottle 200gms,225,0,Organic India Amalaki 60capsules bottle 200gms,1,4,[1],80,1,10,0,0,0
+08/07/2017 18:06,175,1121,TRUE,Organic India Ashwagandha 60 capsules bottle 200gms,175,0,Organic India Ashwagandha 60 capsules bottle 200gms,1,4,[1],60,1,4,1,0,25
+08/07/2017 18:09,175,1122,TRUE,Organic India Brahmi 60 capsules bottle 200gms,175,0,Organic India Brahmi 60 capsules bottle 200gms,1,4,[1],80,1,4,0,0,0
+08/07/2017 18:12,175,1123,TRUE,Organic India Moringa 60 capsules bottle 200gms,175,0,Organic India Moringa 60 capsules bottle 200gms,1,4,[1],80,1,11,0,0,0
+08/07/2017 18:14,175,1124,TRUE,Organic India Shatavari 60 capsules bottle 200gms,175,0,Organic India Shatavari 60 capsules bottle 200gms,1,4,[1],80,1,5,0,0,0
+08/07/2017 18:18,175,1125,TRUE,Organic India Triphala 60 capsules bottle 180gms,175,0,Organic India Triphala 60 capsules bottle 180gms,1,4,[1],100,1,10,0,0,0
+08/07/2017 20:26,175,1126,TRUE,Organic India Tulsi 60 capsules bottle 200gms,175,0,Organic India Tulsi 60 capsules bottle 200gms,1,4,[1],80,1,9,0,0,0
+08/07/2017 22:33,175,1127,TRUE,Organic India Turmeric formula 60 capsules bottle 200gms,175,0,Organic India Turmeric formula 60 capsules bottle 200gms,1,4,[1],60,1,6,0,0,0
+08/07/2017 22:38,295,1128,TRUE,Organic India OH Boy 30 capsules bottle 180gms,295,0,Organic India OH Boy 30 capsules bottle 180gms,1,4,[1],80,1,6,0,0,0
+08/07/2017 22:42,499,1129,TRUE,Organic India Amla Yummies 100gms,499,0,Organic India Amla Yummies 100gms,1,4,[1],100,1,10,0,0,0
+08/07/2017 22:45,95,1130,TRUE,Organic India Beautiful Skin 60 capsules bottle 200gms,95,0,Organic India Beautiful Skin 60 capsules bottle 200gms,1,4,[1],60,1,11,0,0,0
+08/07/2017 22:49,225,1131,TRUE,Organic India Trikatu's 60 capsules bottle 200gms,225,0,Organic India Trikatu's 60 capsules bottle 200gms,1,4,[1],60,1,6,0,0,0
+08/07/2017 22:52,175,1132,TRUE,Organic India Cinnamon 60 capsules bottle 200gms,175,0,Organic India Cinnamon 60 capsules bottle 200gms,1,4,[1],80,1,8,0,0,0
+08/07/2017 22:58,175,1133,TRUE,Organic India Flax seed oil 60 capsules bottles 200gms,175,0,Organic India Flax seed oil 60 capsules bottles 200gms,1,4,[1],60,1,13,0,0,0
+08/07/2017 23:01,715,1134,TRUE,Organic India Bowelcare 250 Capsules bottle 700gms,715,0,Organic India Bowelcare 250 Capsules bottle 700gms,1,4,[1],60,1,14,0,0,0
+08/07/2017 23:05,715,1135,TRUE,Organic India Breathe free 250 capsules bottle 700gms,715,0,Organic India Breathe free 250 capsules bottle 700gms,1,4,[1],80,1,13,0,0,0
+08/07/2017 23:08,715,1136,TRUE,Organic India Flexibility 250 capsules bottle 700gms,715,0,Organic India Flexibility 250 capsules bottle 700gms,1,4,[1],100,1,14,0,0,0
+08/07/2017 23:11,715,1137,TRUE,Organic India Herbal Antibiotic 250 capsules bottle 700gms,715,0,Organic India Herbal Antibiotic 250 capsules bottle 700gms,1,4,[1],100,1,12,0,0,0
+08/07/2017 23:16,715,1138,TRUE,Organic India Immunity 250 capsules bottle 700gms,715,0,Organic India Immunity 250 capsules bottle 700gms,1,4,[1],100,1,12,0,0,0
+08/07/2017 23:47,715,1139,TRUE,Organic India LKC 250 capsules bottle 700gms,715,0,Organic India LKC 250 capsules bottle 700gms,1,4,[1],80,1,16,0,0,0
+08/07/2017 23:52,715,1140,TRUE,Organic India Osteoseal 250 capsules bottle 700gms,715,0,Organic India Osteoseal 250 capsules bottle 700gms,1,4,[1],60,1,15,0,0,0
+08/07/2017 23:55,715,1141,TRUE,Organic India Sugar balance 250 capsules bottle 700gms,715,0,Organic India Sugar balance 250 capsules bottle 700gms,1,4,[1],60,1,25,2,0,8
+08/07/2017 23:58,715,1142,TRUE,Organic India Vitality 250 capsules bottle 700gms,715,0,Organic India Vitality 250 capsules bottle 700gms,1,4,[1],60,1,7,0,0,0
+09/07/2017 00:01,695,1143,TRUE,Organic India WT Bal 250 capsules bottle 700gms,695,0,Organic India WT Bal 250 capsules bottle 700gms,1,4,[1],60,1,12,0,0,0
+09/07/2017 00:04,715,1144,TRUE,Organic India WWB 250 capsules bottle 700gms,715,0,Organic India WWB 250 capsules bottle 700gms,1,4,[1],60,1,8,0,0,0
+09/07/2017 00:08,695,1145,TRUE,Organic India Amalaki 250 capsules bottle 700gms,695,0,Organic India Amalaki 250 capsules bottle 700gms,1,4,[1],60,1,15,0,0,0
+09/07/2017 00:11,695,1146,TRUE,Organic India Brahmi 250 capsules bottle 700gms,695,0,Organic India Brahmi 250 capsules bottle 700gms,1,4,[1],80,1,15,0,0,0
+09/07/2017 00:14,695,1147,TRUE,Organic India Shatavari 250 capsules bottle 700gms,695,0,Organic India Shatavari 250 capsules bottle 700gms,1,4,[1],80,1,9,0,0,0
+09/07/2017 00:16,695,1148,TRUE,Organic India Triphala 250 capsules bottle 700gms,695,0,Organic India Triphala 250 capsules bottle 700gms,1,4,[1],100,1,18,0,0,0
+09/07/2017 00:19,695,1149,TRUE,Organic India Tulsi 250 capsules bottle 700gms,695,0,Organic India Tulsi 250 capsules bottle 700gms,1,4,[1],80,1,13,0,0,0
+09/07/2017 00:24,335,1150,TRUE,Organic India Wheatgrass 100 Gram,395,0,Organic India Wheatgrass 100 Gram,1,4,[1],60,1,11,0,15.18987342,0
+09/07/2017 00:28,500,1151,TRUE,Organic India Organic Turmeric Powder 500 Gram,500,0,Organic India Organic Turmeric Powder 500 Gram,1,4,[1],90,2,26,0,0,0
+09/07/2017 00:33,175,1152,TRUE,Organic India Moringa Powder 100 Gram,175,0,Organic India Moringa Powder 100 Gram,1,4,[1],60,1,65,0,0,0
+10/07/2017 16:07,900,1153,TRUE,"INLIFE Glucosamine Sulphate, MSM, Calcium Vitamin D3, 60 Tablets For Knee Care",900,0,1153,1,4,[1],60,1,15,0,0,0
+10/07/2017 16:12,900,1154,TRUE,"INLIFE Evening Primrose Extra Virgin Cold Pressed Oil, 60 Capsules, Female care",900,0,1154,1,4,[1],80,1,13,0,0,0
+10/07/2017 16:16,199,1155,TRUE,"INLIFE Natural Neem Face Wash 200 ml, Soap & Paraben Free For Acne & Black Spots",199,0,1155,1,4,[1],100,2,10,1,0,10
+10/07/2017 16:21,499,1156,TRUE,"INLIFE Wheat Germ Oil 500 mg, 60 Capsules",499,0,"INLIFE Wheat Germ Oil 500 mg, 60 Capsules",1,4,[1],87,3,15,0,0,0
+10/07/2017 16:25,600,1157,TRUE,"INLIFE Multivitamin and Multiminerals, 60 Tablets With Biotin For Men and Women",600,0,1157,1,4,[1],90,4,15,0,0,0
+10/07/2017 16:29,540,1158,TRUE,"INLIFE Flaxseed Oil - Extra Virgin Cold Pressed Oil, 60 Capsules",540,0,"INLIFE Flaxseed Oil - Extra Virgin Cold Pressed Oil, 60 Capsules",1,4,[1],100,1,17,0,0,0
+10/07/2017 16:34,699,1159,TRUE,INLIFE FLAXSEED OIL VEGETARIAN CAPSULE 500mg 60 capsules,699,0,INLIFE FLAXSEED OIL VEGETARIAN CAPSULE 500mg 60 capsules,1,4,[1],100,1,17,0,0,0
+10/07/2017 17:36,700,1160,TRUE,Deha's organic rose green tea 50gms jar,700,0,Deha's organic rose green tea 50gms jar,1,4,[1],60,1,14,0,0,0
+10/07/2017 17:45,580,1161,TRUE,Deha's masala chai 100gms jar,580,0,Deha's masala chai 100gms jar,1,4,[1],80,1,16,0,0,0
+10/07/2017 17:50,850,1162,TRUE,Deha's Oolong tea 50gms jar,850,0,Deha's Oolong tea 50gms jar,1,4,[1],80,1,19,0,0,0
+11/07/2017 13:51,400,1163,TRUE,Lemon Body  Mist 100Ml,400,0,Lemon Body  Mist 100Ml,1,4,[1],80,1,17,0,0,0
+11/07/2017 14:01,350,1166,TRUE,Sandalwood Body Mist 100ml,350,0,Sandalwood Body Mist 100ml,1,4,[1],80,1,15,0,0,0
+11/07/2017 14:09,289,1168,TRUE,Organic moringa and curry leaves hair pack ( kesh lepana ) 75gms,289,0,Organic moringa and curry leaves hair pack ( kesh lepana ) 75gms,1,4,[1],90,2,13,0,0,0
+11/07/2017 14:16,180,1169,TRUE,Himalayan orange peel powder 40gms,180,0,Himalayan orange peel powder 40gms,1,4,[1],60,1,25,0,0,0
+11/07/2017 15:13,525,1170,TRUE,Real charcoal lemon hand crafted soap Set of 3-130 gms,525,0,Real charcoal lemon hand crafted soap Set of 3-130 gms,1,4,[1],100,2,17,0,0,0
+11/07/2017 15:23,525,1171,TRUE,Country honey coconut natural  hand crafted soap set of 3,525,0,Country honey coconut natural  hand crafted soap set of 3,1,4,[1],100,2,15,0,0,0
+11/07/2017 15:29,500,1172,TRUE,Stress Relief body oil 100ml,525,0,Stress Relief body oil 100ml,1,4,[1],80,6,33,2,4.761904762,6.060606061
+11/07/2017 16:06,525,1173,TRUE,Orange Body massage oil 100ml,525,0,Orange Body massage oil 100ml,1,4,[1],90,2,29,0,0,0
+11/07/2017 16:43,525,1174,TRUE,Lemongrass Body massage oil 100Ml,525,0,Lemongrass Body massage oil 100Ml,1,4,[1],100,1,28,0,0,0
+11/07/2017 16:55,525,1175,TRUE,Basil Body Massage oil 100ML,525,0,Basil Body Massage oil 100ML,1,4,[1],80,1,19,0,0,0
+11/07/2017 16:59,525,1176,TRUE,Herbal Body massage oil 100ml,525,0,Herbal Body massage oil 100ml,1,4,[1],100,1,32,0,0,0
+11/07/2017 17:07,650,1177,TRUE,Herbal Hair Oil 100ml,650,0,Herbal Hair Oil 100ml,1,4,[1],70,2,46,1,0,2.173913043
+11/07/2017 17:15,3552,1178,TRUE,Zenith Nutrition CoQ10 60mg - 240 Capsules,4440,0,Zenith Nutrition CoQ10 60mg - 240 Capsules,1,4,[1],70,2,5,0,20,0
+11/07/2017 17:41,150,1179,TRUE,Ancient Living Tea Tree Face Wash,150,0,Ancient Living Tea Tree Face Wash,1,4,[1],88,5,39,0,0,0
+11/07/2017 19:00,149,1182,TRUE,Indus Valley Amla Powder,149,0,Indus Valley Amla Powder,1,4,[1],85,4,15,0,0,0
+11/07/2017 19:04,149,1183,TRUE,Indus Valley Bio organic argan Oil Shampoo -100ml,149,0,Indus Valley Bio organic argan Oil Shampoo -100ml,1,4,[1],80,1,18,0,0,0
+11/07/2017 19:07,575,1184,TRUE,Indus Valley Gel Hair colour,575,0,Indus Valley Gel Hair colour,1,4,[1],100,1,15,0,0,0
+11/07/2017 19:11,199,1185,TRUE,Indus Valley Brahmi Powder,199,0,Indus Valley Brahmi Powder,1,4,[1],80,1,11,0,0,0
+11/07/2017 19:17,199,1186,TRUE,Indus Valley Brown Henna Hair Colour,199,0,Indus Valley Brown Henna Hair Colour,1,4,[1],60,1,18,1,0,5.555555556
+12/07/2017 10:16,149,1187,TRUE,Indus Valley Bio organic Colour Protective Shampoo -100ml,149,0,Indus Valley Bio organic Colour Protective Shampoo -100ml,1,4,[1],100,1,25,1,0,4
+12/07/2017 10:22,499,1188,TRUE,Indus Valley Moroccan Argan Hair Care Oil,499,0,Indus Valley Moroccan Argan Hair Care Oil,1,4,[1],100,1,30,2,0,6.666666667
+12/07/2017 10:27,199,1189,TRUE,Indus Valley Bio Organic Cold Pressed Almond Oil -100ml,199,0,Indus Valley Bio Organic Cold Pressed Almond Oil -100ml,1,4,[1],80,1,30,2,0,6.666666667
+12/07/2017 10:30,199,1190,TRUE,Indus Valley Bio Organic Grow Out Hair Oil -100ml,199,0,Indus Valley Bio Organic Grow Out Hair Oil -100ml,1,4,[1],80,4,23,2,0,8.695652174
+12/07/2017 10:36,199,1191,TRUE,Indus Valley Extra Virgin Olive Oil -100ml,199,0,Indus Valley Extra Virgin Olive Oil -100ml,1,4,[1],70,2,14,4,0,28.57142857
+12/07/2017 10:43,199,1192,TRUE,Indus Valley Organic Indigo Powder For Hair -100gms,199,0,Indus Valley Organic Indigo Powder For Hair -100gms,1,4,[1],76,5,20,0,0,0
+12/07/2017 10:47,199,1193,TRUE,Indus Valley Bio organic Soft Black Henna Hair Color,199,0,Indus Valley Bio organic Soft Black Henna Hair Color,1,4,[1],60,1,21,0,0,0
+12/07/2017 10:53,179,1194,TRUE,Indus Valley Bio Organic Orange Peel Powder,179,0,Indus Valley Bio Organic Orange Peel Powder,1,4,[1],60,1,22,3,0,13.63636364
+12/07/2017 10:57,149,1195,TRUE,Indus Valley Bio Organic Reetha Powder,149,0,Indus Valley Bio Organic Reetha Powder,1,4,[1],80,1,23,0,0,0
+12/07/2017 11:04,149,1196,TRUE,Indus Valley Multani Mitti Powder,149,0,Indus Valley Multani Mitti Powder,1,4,[1],80,1,25,1,0,4
+12/07/2017 11:07,149,1197,TRUE,Indus Valley Sandalwood Face Pack,149,0,Indus Valley Sandalwood Face Pack,1,4,[1],100,1,26,1,0,3.846153846
+12/07/2017 11:10,149,1198,TRUE,Indus Valley Bio Organic Shikakai Powder,149,0,Indus Valley Bio Organic Shikakai Powder,1,4,[1],100,1,18,0,0,0
+12/07/2017 11:14,99,1199,TRUE,Indus Valley Herbal Henna Powder,99,0,Indus Valley Herbal Henna Powder,1,4,[1],80,2,24,0,0,0
+12/07/2017 11:35,575,1200,TRUE,Indus Valley Gel Hair Colour Burgundy 3.6,575,0,Indus Valley Gel Hair Colour Burgundy 3.6,1,4,[1],80,1,20,0,0,0
+12/07/2017 11:38,575,1201,TRUE,Indus Valley Gel Hair Colour Dark Brown 3.00,575,0,Indus Valley Gel Hair Colour Dark Brown 3.00,1,4,[1],60,1,24,0,0,0
+12/07/2017 11:42,575,1202,TRUE,Indus Valley Gel Hair Colour Light Brown 5.0,575,0,Indus Valley Gel Hair Colour Light Brown 5.0,1,4,[1],80,1,17,1,0,5.882352941
+12/07/2017 11:44,575,1203,TRUE,Indus Valley Gel Hair Colour Medium Brown 4.00,575,0,Indus Valley Gel Hair Colour Medium Brown 4.00,1,4,[1],100,1,29,0,0,0
+12/07/2017 11:46,575,1204,TRUE,Indus Valley Gel Hair Colour Copper Mahogany 5.40,575,0,Indus Valley Gel Hair Colour Copper Mahogany 5.40,1,4,[1],70,2,28,0,0,0
+12/07/2017 19:32,450,1205,TRUE,Apple Cider Vinegar with Mother of Vinegar (UNFILTERED ACV) 500ml,450,0,1205,1,4,[1],100,1,7,0,0,0
+12/07/2017 19:49,250,1206,TRUE,True elements Spearmint Infusion Tea 100gm,250,0,True elements Spearmint Infusion Tea 100gm,1,4,[1],70,2,13,0,0,0
+12/07/2017 19:55,300,1207,TRUE,True elements Spearmint Green Tea 100gm,300,0,True elements Spearmint Green Tea 100gm,1,4,[1],80,1,12,1,0,8.333333333
+12/07/2017 20:01,250,1208,TRUE,True elements Strawberry Muesli 400gm,250,0,True elements Strawberry Muesli 400gm,1,4,[1],100,1,15,0,0,0
+12/07/2017 20:07,250,1209,TRUE,True elements Fruit and Nut Muesli 400gm,250,0,True elements Fruit and Nut Muesli 400gm,1,4,[1],100,1,10,0,0,0
+12/07/2017 20:11,900,1210,TRUE,Apple Cider Vinegar (ACV) with Lemon  Honey and Garlic 500ml,900,0,Apple Cider Vinegar (ACV) with Lemon  Honey and Garlic 500ml,1,4,[1],100,1,11,0,0,0
+12/07/2017 20:16,330,1211,TRUE,True elements Neem Honey 350gm,330,0,True elements Neem Honey 350gm,1,4,[1],80,1,23,0,0,0
+12/07/2017 21:32,300,1212,TRUE,True elements Ginger Honey,300,0,True elements Ginger Honey,1,4,[1],100,1,12,0,0,0
+12/07/2017 21:37,315,1213,TRUE,True elements Raw Acacia Honey 350gm,315,0,True elements Raw Acacia Honey 350gm,1,4,[1],80,1,22,0,0,0
+12/07/2017 21:55,120,1214,TRUE,True elements Roasted Watermelon Seeds 125gm,120,0,True elements Roasted Watermelon Seeds 125gm,1,4,[1],100,1,19,0,0,0
+12/07/2017 21:58,120,1215,TRUE,True elements Roasted Flax and Watermelon Seed Blend 125gm,120,0,True elements Roasted Flax and Watermelon Seed Blend 125gm,1,4,[1],60,1,20,0,0,0
+12/07/2017 22:02,125,1216,TRUE,True elements Raw Sunflower Seeds 150gm,125,0,True elements Raw Sunflower Seeds 150gm,1,4,[1],80,1,29,0,0,0
+12/07/2017 22:06,200,1217,TRUE,True elements Raw Chia Seeds 150gm,200,0,True elements Raw Chia Seeds 150gm,1,4,[1],100,1,23,1,0,4.347826087
+12/07/2017 22:09,260,1218,TRUE,True elements Raw Pumpkin Seeds 150gm,260,0,True elements Raw Pumpkin Seeds 150gm,1,4,[1],80,1,28,0,0,0
+12/07/2017 22:13,145,1219,TRUE,True elements Raw Watermelon Seeds 150gm,145,0,True elements Raw Watermelon Seeds 150gm,1,4,[1],80,1,24,1,0,4.166666667
+12/07/2017 22:16,175,1220,TRUE,True elements Roasted Flax Seeds 125gm,175,0,True elements Roasted Flax Seeds 125gm,1,4,[1],60,1,22,0,0,0
+12/07/2017 22:32,175,1221,TRUE,True elements Roasted Sunflower Seeds 125gm,175,0,True elements Roasted Sunflower Seeds 125gm,1,4,[1],60,1,20,0,0,0
+12/07/2017 22:35,180,1222,TRUE,True elements Darjeeling Black Tea 100gm,180,0,True elements Darjeeling Black Tea 100gm,1,4,[1],60,1,27,0,0,0
+12/07/2017 22:40,270,1223,TRUE,True elements Oolong Tea 50gm,270,0,True elements Oolong Tea 50gm,1,4,[1],100,1,4,0,0,0
+12/07/2017 22:44,200,1224,TRUE,True elements Green Tea with Tulsi 100gm,200,0,True elements Green Tea with Tulsi 100gm,1,4,[1],80,1,15,0,0,0
+12/07/2017 22:50,270,1225,TRUE,True elements Yellow Saffron Tea 50gm (Safflower Tea),270,0,True elements Yellow Saffron Tea 50gm (Safflower Tea),1,4,[1],100,1,4,0,0,0
+12/07/2017 23:00,320,1226,TRUE,True elements Cranberry and Blueberry Muesli 400gm,320,0,True elements Cranberry and Blueberry Muesli 400gm,1,4,[1],80,1,15,0,0,0
+13/07/2017 10:36,300,1227,TRUE,True elements Seeds and Nuts Muesli 350gm,300,0,True elements Seeds and Nuts Muesli 350gm,1,4,[1],100,1,23,0,0,0
+13/07/2017 10:40,220,1228,TRUE,True elements Honey Shots 160gm,220,0,True elements Honey Shots 160gm,1,4,[1],100,1,24,0,0,0
+13/07/2017 10:44,450,1229,TRUE,Nutritional Grains - Manipur origin/Chak-Hao/Black Rice (Vitamins and Minerals rich)-1Kg,450,0,1229,1,4,[1],60,1,17,1,0,5.882352941
+13/07/2017 10:55,350,1230,TRUE,True elements Nutritional Grains - Bamboo Rice (Strength and Vitality) 1kg,350,0,1230,1,4,[1],60,1,13,0,0,0
+13/07/2017 10:58,1000,1231,TRUE,True elements Cane Sorghum - Alternative for Unsulphured Molasses 650gm,1000,0,1231,1,4,[1],80,2,11,0,0,0
+13/07/2017 11:03,250,1232,TRUE,True elements Butterscotch Muesli 400gm,250,0,True elements Butterscotch Muesli 400gm,1,4,[1],60,1,19,1,0,5.263157895
+13/07/2017 11:07,220,1233,TRUE,True elements Chamomile Tea 100gm,220,0,True elements Chamomile Tea 100gm,1,4,[1],80,1,24,0,0,0
+13/07/2017 11:11,600,1234,TRUE,Apple Cider Vinegar with Cinnamon and Honey 500ml,600,0,Apple Cider Vinegar with Cinnamon and Honey 500ml,1,4,[1],80,1,10,0,0,0
+13/07/2017 11:15,550,1235,TRUE,True elements Apple Cider Vinegar With Honey 500ml,550,0,True elements Apple Cider Vinegar With Honey 500ml,1,4,[1],80,1,15,0,0,0
+13/07/2017 15:21,500,1236,TRUE,True elements Apple Cider Vinegar with Seabuckthorn 500ml,500,0,True elements Apple Cider Vinegar with Seabuckthorn 500ml,1,4,[1],80,1,63,0,0,0
+13/07/2017 15:28,380,1237,TRUE,True elements Goji berries 100gm,380,0,True elements Goji berries 100gm,1,4,[1],90,2,27,0,0,0
+13/07/2017 15:46,230,1238,TRUE,True elements Pitted Prunes 200gms,230,0,True elements Pitted Prunes 200gms,1,4,[1],80,2,69,0,0,0
+13/07/2017 15:57,460,1239,TRUE,True elements Hazelnuts 150gm,460,0,True elements Hazelnuts 150gm,1,4,[1],90,2,22,0,0,0
+13/07/2017 16:03,580,1240,TRUE,True elements Brazil Nuts 150gms,580,0,True elements Brazil Nuts 150gms,1,4,[1],100,1,21,0,0,0
+13/07/2017 16:10,220,1241,TRUE,True elements Dried Cranberries 150gm,220,0,True elements Dried Cranberries 150gm,1,4,[1],100,1,17,2,0,11.76470588
+13/07/2017 16:19,580,1242,TRUE,True elements Dried Blueberries 150gm,580,0,True elements Dried Blueberries 150gm,1,4,[1],80,2,24,7,0,29.16666667
+13/07/2017 16:25,310,1243,TRUE,True elements Raw Organic Honey 350gms,315,0,True elements Raw Organic Honey 350gms,1,4,[1],60,1,27,4,1.587301587,14.81481481
+13/07/2017 16:29,300,1244,TRUE,True elements Gluten Free Steel Cut Oats 500gm,300,0,True elements Gluten Free Steel Cut Oats 500gm,1,4,[1],60,1,14,0,0,0
+13/07/2017 16:35,300,1245,TRUE,True elements Seeds and Nuts Muesli 400gm,300,0,True elements Seeds and Nuts Muesli 400gm,1,4,[1],80,1,16,1,0,6.25
+13/07/2017 16:40,320,1246,TRUE,True elements Gluten Free Rolled Oats 1kg,320,0,True elements Gluten Free Rolled Oats 1kg,1,4,[1],90,2,23,0,0,0
+13/07/2017 16:50,99,1247,TRUE,"Harippa Watermelon Seeds Roasted, Tangy Oregano 100gm",99,0,"Harippa Watermelon Seeds Roasted, Tangy Oregano 100gm",1,4,[1],60,1,19,0,0,0
+13/07/2017 16:57,99,1248,TRUE,True elements Harippa Spicy Sunflower seeds Roasted -100 gm,99,0,True elements Harippa Spicy Sunflower seeds Roasted -100 gm,1,4,[1],60,2,11,0,0,0
+13/07/2017 17:04,149,1249,TRUE,"True elements Harippa Pumpkin Seeds Roasted, Cheesy Onion 100gm",149,0,"True elements Harippa Pumpkin Seeds Roasted, Cheesy Onion 100gm",1,4,[1],90,2,19,0,0,0
+13/07/2017 17:09,300,1250,TRUE,True elements Roasted Darjeeling Tea 100gm,300,0,True elements Roasted Darjeeling Tea 100gm,1,4,[1],80,1,19,0,0,0
+13/07/2017 17:14,300,1251,TRUE,True elements Raw Chia Seeds 250gm,300,0,True elements Raw Chia Seeds 250gm,1,4,[1],60,1,20,0,0,0
+13/07/2017 17:20,375,1252,TRUE,True elements Raw Pumpkin Seeds 250gm,375,0,True elements Raw Pumpkin Seeds 250gm,1,4,[1],47,3,13,0,0,0
+13/07/2017 17:26,199,1253,TRUE,Harippa Roasted Pumpkin Seeds Snack Salted Crunch 125gm,199,0,Harippa Roasted Pumpkin Seeds Snack Salted Crunch 125gm,1,4,[1],100,1,17,0,0,0
+13/07/2017 17:39,90,1254,TRUE,Harippa Roasted Flax Seeds Salted Snack Crunch 125gm,90,0,Harippa Roasted Flax Seeds Salted Snack Crunch 125gm,1,4,[1],60,1,16,0,0,0
+13/07/2017 17:50,175,1255,TRUE,"Harippa Roasted Sunflower, Pumpkin & Flax Seeds Snack Salted Crunch 125gm",175,0,1255,1,4,[1],100,1,9,1,0,11.11111111
+13/07/2017 17:56,475,1256,TRUE,True elements Quinoa 500gm,475,0,True elements Quinoa 500gm,1,4,[1],60,2,11,0,0,0
+14/07/2017 17:35,295,1257,TRUE,IMC Sugar Away Ras -500ml,295,0,IMC Sugar Away Ras -500ml,1,4,[1],90,2,9,0,0,0
+14/07/2017 17:41,125,1258,TRUE,IMC Pain Away Cream -30 gms,125,0,IMC Pain Away Cream -30 gms,1,4,[1],70,2,10,2,0,20
+14/07/2017 17:45,175,1259,TRUE,Terra greens black pepper 100gms,175,0,Terra greens black pepper 100gms,1,4,[1],60,1,19,0,0,0
+14/07/2017 17:46,360,1260,TRUE,IMC Sugar Away Tablets -30 tablets,360,0,IMC Sugar Away Tablets -30 tablets,1,4,[1],100,1,4,0,0,0
+14/07/2017 17:48,70,1261,TRUE,Terra greens chana dal 500gms,70,0,Terra greens chana dal 500gms,1,4,[1],90,2,34,13,0,38.23529412
+14/07/2017 17:50,139,1262,TRUE,Terra greens chana dal 1kg,139,0,Terra greens chana dal 1kg,1,4,[1],60,1,24,1,0,4.166666667
+14/07/2017 17:51,360,1263,TRUE,IMC Fat Away Tablets -30 tablets,360,0,IMC Fat Away Tablets -30 tablets,1,4,[1],80,2,29,0,0,0
+14/07/2017 17:53,34,1264,TRUE,Terra greens coriander whole 100gms,34,0,Terra greens coriander whole 100gms,1,4,[1],100,1,24,0,0,0
+14/07/2017 17:54,360,1265,TRUE,IMC Fresh Morning Tablets -30 tablets,360,0,IMC Fresh Morning Tablets -30 tablets,1,4,[1],60,1,6,0,0,0
+14/07/2017 17:55,35,1266,TRUE,Terra greens coriander powder 100gms,35,0,Terra greens coriander powder 100gms,1,4,[1],60,1,18,0,0,0
+14/07/2017 17:59,56,1267,TRUE,Terra greens cumin 100gms,56,0,Terra greens cumin 100gms,1,4,[1],100,1,11,0,0,0
+14/07/2017 18:01,35,1268,TRUE,Terra greens Fenugreek (Menthulu) 100gms,35,0,Terra greens Fenugreek (Menthulu) 100gms,1,4,[1],100,1,24,3,0,12.5
+14/07/2017 18:03,360,1269,TRUE,IMC Piles Away Tablets -30 tablets,360,0,IMC Piles Away Tablets -30 tablets,1,4,[1],60,1,6,0,0,0
+14/07/2017 18:04,80,1270,TRUE,Terra greens Garam Masala Powder 100gms,80,0,Terra greens Garam Masala Powder 100gms,1,4,[1],100,1,19,0,0,0
+14/07/2017 18:07,235,1271,TRUE,Terra Green moong 1kg,235,0,Terra Green moong 1kg,1,4,[1],80,1,11,1,0,9.090909091
+14/07/2017 18:07,360,1272,TRUE,IMC Pain Away Tablets -30 tablets,360,0,IMC Pain Away Tablets -30 tablets,1,4,[1],80,1,11,0,0,0
+14/07/2017 18:09,119,1273,TRUE,Terra greens Green Moong 500gms,119,0,Terra greens Green Moong 500gms,1,4,[1],80,1,10,1,0,10
+14/07/2017 18:14,217,1274,TRUE,Terra greens yellow moong dal 1kg,217,0,Terra greens yellow moong dal 1kg,1,4,[1],80,1,15,1,0,6.666666667
+14/07/2017 18:17,95,1275,TRUE,Terra greens Sonamasuri Brown Rice 1kg,95,0,Terra greens Sonamasuri Brown Rice 1kg,1,4,[1],100,1,11,1,0,9.090909091
+14/07/2017 18:19,450,1276,TRUE,Terra greens Sonamasuri Brown Rice 5kgs,450,0,Terra greens Sonamasuri Brown Rice 5kgs,1,4,[1],60,1,29,5,0,17.24137931
+14/07/2017 18:23,95,1277,TRUE,Terra greens Sonamasuri Hand Pound Rice 1kg,95,0,Terra greens Sonamasuri Hand Pound Rice 1kg,1,4,[1],60,1,14,2,0,14.28571429
+14/07/2017 18:25,95,1278,TRUE,Terra greens Polished Rice 1kg,95,0,Terra greens Polished Rice 1kg,1,4,[1],60,1,22,3,0,13.63636364
+14/07/2017 18:29,220,1279,TRUE,Terra greens tur dal 1kg,220,0,Terra greens tur dal 1kg,1,4,[1],60,1,18,6,0,33.33333333
+14/07/2017 18:31,115,1280,TRUE,Terra greens tur dal 500gms,115,0,Terra greens tur dal 500gms,1,4,[1],100,1,20,0,0,0
+14/07/2017 18:34,39,1281,TRUE,Terra greens turmeric powder 100gms,39,0,Terra greens turmeric powder 100gms,1,4,[1],80,2,25,1,0,4
+14/07/2017 18:37,225,1282,TRUE,Terra greens Urad Dal Whole White 1kg,225,0,Terra greens Urad Dal Whole White 1kg,1,4,[1],60,1,24,1,0,4.166666667
+14/07/2017 18:38,80,1283,TRUE,Banjara's Skin Positive Beauty Lotion -100ml,80,0,Banjara's Skin Positive Beauty Lotion -100ml,1,4,[1],100,2,16,3,0,18.75
+14/07/2017 18:47,148,1284,TRUE,Vitro Mosquito Repellent Aloe Gel -100gm,148,0,Vitro Mosquito Repellent Aloe Gel -100gm,1,4,[1],100,1,26,2,0,7.692307692
+14/07/2017 18:52,40,1285,TRUE,Arogya Rahasya Cow dung Cakes,40,0,Arogya Rahasya Cow dung Cakes,1,4,[1],88,5,134,14,0,10.44776119
+14/07/2017 18:55,999,1286,TRUE,Lamp,999,0,Lamp,1,4,[1],60,2,16,0,0,0
+14/07/2017 19:04,295,1287,TRUE,IMC Herbal Honey -350gm,295,0,IMC Herbal Honey -350gm,1,4,[1],100,1,11,0,0,0
+14/07/2017 19:13,110,1288,TRUE,Dhampur Green Organic Jaggery Powder 700gms,110,0,Dhampure Green Organic Jaggery Powder 700gms,1,4,[1],100,1,21,1,0,4.761904762
+14/07/2017 19:24,70,1289,TRUE,Gau Naturals Organic Aswagandha Chutney Powder -90gms,70,0,Gau Naturals Organic Aswagandha Chutney Powder -90gms,1,4,[1],100,1,21,0,0,0
+14/07/2017 19:42,135,1290,TRUE,Gau Naturals Organic Curryleaf Chutney Powder -200gms,135,0,Gau Naturals Organic Curryleaf Chutney Powder -200gms,1,4,[1],80,2,21,0,0,0
+15/07/2017 12:37,116,1291,TRUE,Terra greens Urad Dal Whole White 500gms,116,0,Terra greens Urad Dal Whole White 500gms,1,4,[1],80,1,17,1,0,5.882352941
+15/07/2017 12:39,199,1292,TRUE,Terra greens Urad Dal White Split 1kg,199,0,Terra greens Urad Dal White Split 1kg,1,4,[1],100,1,27,1,0,3.703703704
+15/07/2017 12:41,99,1293,TRUE,Terra greens Urad Dal White Split 500gms,99,0,Terra greens Urad Dal White Split 500gms,1,4,[1],100,1,22,1,0,4.545454545
+15/07/2017 12:46,78,1294,TRUE,Terra greens kismis 100gms,78,0,Terra greens kismis 100gms,1,4,[1],60,1,28,22,0,78.57142857
+15/07/2017 12:50,179,1295,TRUE,Terra greens Kabuli Chana 1 kg,179,0,Terra greens Kabuli Chana 1 kg,1,4,[1],80,1,12,0,0,0
+15/07/2017 13:00,95,1296,TRUE,Terra greens Kabuli Chana 500gms,95,0,Terra greens Kabuli Chana 500gms,1,4,[1],60,1,47,12,0,25.53191489
+15/07/2017 13:03,199,1297,TRUE,Terra greens Raw Pea Nuts 1kg,250,0,Terra greens Raw Pea Nuts 1kg,1,4,[1],66,7,42,11,20.4,26.19047619
+15/07/2017 13:05,130,1298,TRUE,Terra greens Raw Pea Nuts 500gms,130,0,Terra greens Raw Pea Nuts 500gms,1,4,[1],100,4,84,24,0,28.57142857
+15/07/2017 14:18,60,1299,TRUE,Terra greens Wheat Whole 1kg,60,0,Terra greens Wheat Whole 1kg,1,4,[1],80,2,25,1,0,4
+15/07/2017 14:21,145,1300,TRUE,Terra greens cloves 50gms,145,0,Terra greens cloves 50gms,1,4,[1],60,1,14,0,0,0
+15/07/2017 14:23,75,1301,TRUE,Terra greens cinnamon 100gms,75,0,Terra greens cinnamon 100gms,1,4,[1],100,2,13,1,0,7.692307692
+15/07/2017 14:25,65,1302,TRUE,Terra greens Jaggery powder 500gms,65,0,Terra greens Jaggery powder 500gms,1,4,[1],60,1,31,1,0,3.225806452
+15/07/2017 14:28,97,1303,TRUE,Terra greens Masoor dal red 500gms,97,0,Terra greens Masoor dal red 500gms,1,4,[1],100,2,27,1,0,3.703703704
+15/07/2017 14:34,49,1304,TRUE,Terra greens White poha 500gms,49,0,Terra greens White poha 500gms,1,4,[1],80,1,18,3,0,16.66666667
+15/07/2017 14:42,40,1305,TRUE,Terra greens Red Chilly Whole 100gms,45,0,Terra greens Red Chilly Whole 100gms,1,4,[1],60,1,25,2,11.11111111,8
+15/07/2017 14:50,30,1306,TRUE,Terra greens Flax Seeds 200gms,59,0,Terra greens Flax Seeds 200gms,1,4,[1],100,1,33,0,49.15254237,0
+17/07/2017 11:56,80,1307,TRUE,IMC Aloe Cumin Cookies -150gms,80,0,IMC Aloe Cumin Cookies -150gms,1,4,[1],80,1,17,5,0,29.41176471
+17/07/2017 12:05,475,1308,TRUE,IMC Protiwon -75gms,475,0,IMC Protiwon -75gms,1,4,[1],100,1,5,0,0,0
+17/07/2017 12:16,85,1309,TRUE,IMC Herbal Skin Toner Cake -75gms,85,0,IMC Herbal Skin Toner Cake -75gms,1,4,[1],80,1,27,1,0,3.703703704
+17/07/2017 12:21,60,1310,TRUE,IMC Ayurvedic Skin Care Soap -100gms,60,0,IMC Ayurvedic Skin Care Soap -100gms,1,4,[1],90,2,17,8,0,47.05882353
+17/07/2017 12:40,195,1311,TRUE,IMC Shri Tulsi -10ml,195,0,IMC Shri Tulsi -10ml,1,4,[1],80,2,22,0,0,0
+17/07/2017 12:44,150,1312,TRUE,IMC Pain Away Oil -100ml,175,0,IMC Pain Away Oil -100ml,1,4,[1],85,4,17,2,14.28571429,11.76470588
+17/07/2017 12:54,40,1313,TRUE,Health Sutra Millet Rawa 400gms,40,0,Health Sutra Millet Rawa 400gms,1,4,[1],90,2,30,3,0,10
+17/07/2017 15:12,135,1314,TRUE,Khadi facewash Neem and Turmeric 200ml,135,0,Khadi facewash Neem and Turmeric 200ml,1,4,[1],90,2,22,6,0,27.27272727
+17/07/2017 15:18,150,1315,TRUE,IMC Anti-oxidant Tea -250gms,150,0,IMC Anti-oxidant Tea -250gms,1,4,[1],80,4,16,3,0,18.75
+17/07/2017 15:23,224,1316,TRUE,Being Desi Neem Honey 300gms,225,0,Being Desi Neem Honey 300gms,1,4,[1],60,1,19,0,0.444444444,0
+17/07/2017 15:38,70,1317,TRUE,Dhampure Sugar cubes rough cut (350gm),70,0,Dhampure Sugar cubes rough cut (350gm),1,4,[1],80,1,30,0,0,0
+18/07/2017 18:41,130,1318,TRUE,Amrita Drugs Brahmi Power Memory Booster,130,0,Amrita Drugs Brahmi Power Memory Booster,1,4,[1],80,3,41,1,0,2.43902439
+19/07/2017 15:04,180,1322,TRUE,Chamong Organic Darjeeling Regular Tea Bag ( 25 X 2 Box = 50 Tea Bags ),180,0,1322,1,4,[1],80,1,17,0,0,0
+19/07/2017 15:08,360,1323,TRUE,Chamong Organic Darjeeling Regular Tea Bag Combo  ( 25 X 4 Box = 100 Tea Bags),360,0,1323,1,4,[1],80,1,12,0,0,0
+19/07/2017 15:14,360,1324,TRUE,Chamong Organic Lemon Green Regular Tea Bag Combo ( 25 X 4 Box = 100 Tea Bags),360,0,1,1,4,[1],0,0,0,0,0,0
+19/07/2017 15:32,170,1325,TRUE,Chamong Organic Darjeeling Green Tea Loose Leaf ( 100g X 1 Box = 100 gms),170,0,1325,1,4,[1],100,1,19,0,0,0
+19/07/2017 15:35,170,1326,TRUE,Chamong Organic Darjeeling Envelope Tea Bag ( 25 X 1 Box = 25 Tea Bags ),170,0,1326,1,4,[1],70,2,16,0,0,0
+24/07/2017 15:49,500,1327,TRUE,AR Special Pack,500,0,AR Special Pack,1,4,[1],60,1,1,0,0,0
+26/07/2017 13:38,160,1328,TRUE,Arogya Rahasya Iron Tawa round for dosa making  9 Inches,160,0,Arogya Rahasya Iron Tawa round for dosa making 9 Inches,1,4,[1],100,1,20,16,0,80
+26/07/2017 13:58,210,1329,TRUE,Arogya Rahasya Iron roti maker for home use,210,0,Arogya Rahasya Iron roti maker for home use,1,4,[1],60,1,20,3,0,15
+26/07/2017 15:32,160,1330,TRUE,Arogya Rahasya Iron tawa round for Roti making,160,0,Arogya Rahasya Iron tawa round for Roti making,1,4,[1],93,3,26,2,0,7.692307692
+26/07/2017 15:54,130,1331,TRUE,Arogya Rahasya Iron Kadai with wooden handle 7 Inches,130,0,Arogya Rahasya Iron Kadai with wooden handle 7 Inches,1,4,[1],60,1,20,4,0,20
+28/07/2017 15:33,840,1332,TRUE,Natural Veda Ideal family combo,840,0,Natural Veda Ideal family combo,1,4,[1],93,3,38,3,0,7.894736842
+03/08/2017 12:12,0,1334,TRUE,Bath Special,0,0,Bath Special,1,4,[1],70,2,0,2,0,inf
+03/08/2017 15:26,789,1336,TRUE,Arogya Rahasya Digital Copper Bottle,789,0,Arogya Rahasya Digital Copper Bottle,1,4,[1],87,3,26,6,0,23.07692308
+03/08/2017 15:30,789,1337,TRUE,Arogya Rahasya Digital Copper Bottle,789,0,Arogya Rahasya Digital Copper Bottle-1,1,4,[1],96,5,127,4,0,3.149606299
+03/08/2017 15:32,789,1338,TRUE,Arogya Rahasya Digital Copper Bottle(Green Design),789,0,Arogya Rahasya Digital Copper Bottle(Green Design),1,4,[1],100,2,28,6,0,21.42857143
+03/08/2017 15:34,689,1339,TRUE,H2O Copper Water Bottle,689,0,H2O Copper Water Bottle,1,4,[1],93,3,37,7,0,18.91891892
+06/08/2017 17:13,140,1344,TRUE,Arogya Rahasya Iron Kadai with wooden handle 8 Inches,140,0,Arogya Rahasya Iron Kadai with wooden handle 8 Inches,1,4,[1],100,2,26,5,0,19.23076923
+06/08/2017 17:15,170,1345,TRUE,Arogya Rahasya Iron kadai with wooden handle 10 Inches,170,0,Arogya Rahasya Iron kadai with wooden handle 10 Inches,1,4,[1],60,1,20,5,0,25
+06/08/2017 17:31,140,1346,TRUE,Arogya Rahasya Iron Induction 9 Inches,170,0,Arogya Rahasya Iron tadka pan 9 Inches,1,4,[1],80,2,34,15,17.64705882,44.11764706
+06/08/2017 17:33,210,1347,TRUE,Arogya Rahasya Iron tadka pan 10 Inches,210,0,Arogya Rahasya Iron tadka pan 10 Inches,1,4,[1],87,3,36,10,0,27.77777778
+06/08/2017 18:35,30,1348,TRUE,Arogya Rahasya Rock Salt (1 Kg),30,0,Arogya Rahasya Rock Salt (1 Kg),1,4,[1],87,6,88,22,0,25
+06/08/2017 18:44,515,1349,TRUE,Spices and Masalas,515,0,Spices and Masalas,1,4,[1],87,3,0,1,0,inf
+06/08/2017 19:01,25,1350,TRUE,Moringa peat nut chikki -80 gm,25,0,Moringa peat nut chikki -80 gm,1,4,[1],80,2,30,17,0,56.66666667
+06/08/2017 19:11,540,1352,TRUE,Amla Special,540,0,Amla Special,1,4,[1],73,3,0,3,0,inf
+09/08/2017 12:51,1800,1353,TRUE,Zenith Nutrition AcaiFab 120 capsules- 500mg,1800,0,Zenith Nutrition AcaiFab 120 capsules- 500mg,1,4,[1],100,1,27,0,0,0
+09/08/2017 12:54,3200,1354,TRUE,Zenith Nutrition AcaiFab 240 capsules- 500mg,3200,0,Zenith Nutrition AcaiFab 240 capsules- 500mg,1,4,[1],100,1,26,0,0,0
+18/08/2017 12:27,70,1355,TRUE,Organic Honey Sachet (10 Sachets) 80gms,70,0,Organic Honey Sachet (10 Sachets) 80gms,1,4,[1],60,1,18,2,0,11.11111111
+21/08/2017 15:00,120,1356,TRUE,Organic Honey Sachet (20 Sachets) 160gms,120,0,Organic Honey Sachet (20 Sachets) 160gms,1,4,[1],40,2,19,0,0,0
+21/08/2017 15:06,160,1357,TRUE,Organic Green Tea Bags (25 Tea Bags) 50gms,160,0,Organic Green Tea Bags (25 Tea Bags) 50gms,1,4,[1],100,1,18,0,0,0
+21/08/2017 15:10,70,1358,TRUE,Organic Green Tea Bags (10 Tea Bags) 20gms,70,0,Organic Green Tea Bags (10 Tea Bags) 20gms,1,4,[1],80,1,7,1,0,14.28571429
+21/08/2017 15:25,2000,1359,TRUE,Organicana Organic Basket,2000,0,Organicana Organic Basket,1,4,[1],60,1,9,0,0,0
+21/08/2017 15:31,400,1360,TRUE,Naturoday Pudina Makhana Pack of 20-360gms,400,0,Naturoday Pudina Makhana Pack of 20-360gms,1,4,[1],80,2,27,0,0,0
+21/08/2017 15:35,400,1361,TRUE,Naturoday Tomato Makhana Pack of 20-360gms,400,0,Naturoday Tomato Makhana Pack of 20-360gms,1,4,[1],80,1,12,0,0,0
+21/08/2017 16:02,550,1362,TRUE,Dr. Patkar's Apple Cider Vinegar with Mother-500ml,550,0,Dr. Patkar's Apple Cider Vinegar with Mother-500ml,1,4,[1],80,1,17,0,0,0
+21/08/2017 16:05,600,1363,TRUE,Dr. Patkar's Apple Cider Vinegar with Honey-500ml,600,0,Dr. Patkar's Apple Cider Vinegar with Honey-500ml,1,4,[1],80,1,17,1,0,5.882352941
+21/08/2017 16:10,675,1364,TRUE,Dr. Patkar's Apple Cider Vinegar with Garlic and Honey-500ml,675,0,Dr. Patkar's Apple Cider Vinegar with Garlic and Honey-500ml,1,4,[1],100,1,18,0,0,0
+21/08/2017 16:13,950,1365,TRUE,"Dr. Patkar's Apple Cider Vinegar with Garlic, Ginger, Lemon and Honey-500ml",950,0,1365,1,4,[1],60,1,15,0,0,0
+21/08/2017 16:16,700,1366,TRUE,Dr. Patkar's Apple Cider Vinegar with Cinnamon and Fenugreek-500ml,700,0,1366,1,4,[1],100,1,22,0,0,0
+21/08/2017 16:19,165,1367,TRUE,Dr. Patkar's Natural Apple Cider Vinegar Refined-500ml,165,0,Dr. Patkar's Natural Apple Cider Vinegar Refined-500ml,1,4,[1],100,1,20,0,0,0
+21/08/2017 16:22,925,1368,TRUE,"Dr. Patkar's Apple Cider Vinegar with Ginger, Turmeric and Fenugreek-500ml",925,0,1368,1,4,[1],60,1,19,1,0,5.263157895
+21/08/2017 16:25,500,1369,TRUE,Dr. Patkar's Turmeric Vinegar with Mother-500ml,500,0,Dr. Patkar's Turmeric Vinegar with Mother-500ml,1,4,[1],100,1,24,0,0,0
+21/08/2017 16:31,400,1370,TRUE,Dr. Patkar's Spirulina-100 Capsules,400,0,Dr. Patkar's Spirulina-100 Capsules,1,4,[1],80,1,70,0,0,0
+22/08/2017 15:23,249,1371,TRUE,OW' Real Masala Chai 100gms,249,0,OW' Real Masala Chai 100gms,1,4,[1],80,1,15,0,0,0
+22/08/2017 15:31,299,1372,TRUE,OW'Heal Acne - Never 90 capsules,299,0,OW'Heal Acne - Never 90 capsules,1,4,[1],80,1,26,0,0,0
+22/08/2017 15:43,299,1373,TRUE,OW'Heal Amla - C Plus 90 capsules,299,0,OW'Heal Amla - C Plus 90 capsules,1,4,[1],100,1,70,1,0,1.428571429
+22/08/2017 15:57,299,1374,TRUE,OW'Heal Ashwagandha - W Plus 90 capsules,299,0,OW'Heal Ashwagandha - W Plus 90 capsules,1,4,[1],60,1,14,0,0,0
+22/08/2017 16:17,299,1375,TRUE,OW'Heal Bowel - Move 90 capsules,299,0,OW'Heal Bowel - Move 90 capsules,1,4,[1],80,1,17,0,0,0
+22/08/2017 16:23,299,1376,TRUE,OW'Heal Brahmi Plus 90capsules,299,0,OW'Heal Brahmi Plus 90capsules,1,4,[1],80,1,17,1,0,5.882352941
+22/08/2017 16:29,299,1377,TRUE,OW'Heal Breathe Well 90 capsules,299,0,OW'Heal Breathe Well 90 capsules,1,4,[1],60,1,6,0,0,0
+22/08/2017 16:57,299,1378,TRUE,OW'Heal Diabo - Fit  90 capsules,299,0,OW'Heal Diabo - Fit  90 capsules,1,4,[1],100,1,14,0,0,0
+22/08/2017 17:04,299,1379,TRUE,OW'Heal Fat -Fit 90 capsules,299,0,OW'Heal Fat -Fit 90 capsules,1,4,[1],60,1,6,0,0,0
+22/08/2017 17:09,299,1380,TRUE,OW'Heal Heart - Fit  90 capsules,299,0,OW'Heal Heart - Fit  90 capsules,1,4,[1],60,1,8,0,0,0
+22/08/2017 17:14,299,1381,TRUE,OW'Heal Herbo - Cal 90 capsules,299,0,OW'Heal Herbo - Cal 90 capsules,1,4,[1],100,1,8,0,0,0
+22/08/2017 17:20,299,1382,TRUE,OW'Heal Immuno - U 90 capsules,299,0,OW'Heal Immuno - U 90 capsules,1,4,[1],60,1,12,0,0,0
+22/08/2017 17:24,299,1383,TRUE,OW'Heal Shatavari - A Plus 90 capsules,299,0,OW'Heal Shatavari - A Plus 90 capsules,1,4,[1],80,1,7,0,0,0
+22/08/2017 17:35,299,1384,TRUE,OW'Heal Triphala  90 capsules,299,0,OW'Heal Triphala  90 capsules,1,4,[1],80,1,8,0,0,0
+22/08/2017 17:39,299,1385,TRUE,OW'Heal Tulsi Plus 90 capsules,299,0,OW'Heal Tulsi Plus 90 capsules,1,4,[1],100,1,23,0,0,0
+22/08/2017 17:47,399,1386,TRUE,OW'Heal Turmeric - C Plus 90 capsules,399,0,OW'Heal Turmeric - C Plus 90 capsules,1,4,[1],60,1,15,0,0,0
+22/08/2017 17:52,299,1387,TRUE,OW'Heal Joint - Fit 90 capsules,299,0,OW'Heal Joint - Fit 90 capsules,1,4,[1],80,1,26,0,0,0
+22/08/2017 18:04,299,1388,TRUE,OW'Heal Lipid - Fit 90 capsules,299,0,OW'Heal Lipid - Fit 90 capsules,1,4,[1],80,1,14,0,0,0
+22/08/2017 18:09,299,1389,TRUE,OW'Heal Women Tone 90 capsules,299,0,OW'Heal Women Tone 90 capsules,1,4,[1],60,1,22,0,0,0
+22/08/2017 18:16,299,1390,TRUE,OW'Heal Om Shanti 90 capsules,299,0,OW'Heal Om Shanti 90 capsules,1,4,[1],60,1,10,0,0,0
+22/08/2017 18:21,299,1391,TRUE,OW'Heal Moringa 90 capsules,299,0,OW'Heal Moringa 90 capsules,1,4,[1],80,1,11,0,0,0
+02/09/2017 16:14,139,1392,TRUE,OW' Real Tulsi Moringa - 25 Bags,139,0,OW' Real Tulsi Moringa - 25 Bags,1,4,[1],100,1,13,0,0,0
+02/09/2017 17:06,299,1393,TRUE,OW'Heal Prostate Fit-90 capsules,299,0,OW'Heal Prostate Fit-90 capsules,1,4,[1],100,1,30,0,0,0
+02/09/2017 17:18,299,1394,TRUE,OW'Heal Skin Tone -90 capsules,299,0,OW'Heal Skin Tone -90 capsules,1,4,[1],80,1,18,0,0,0
+02/09/2017 17:24,299,1395,TRUE,OW'Heal Trikatu -90 capsules,299,0,OW'Heal Trikatu -90 capsules,1,4,[1],80,1,10,0,0,0
+02/09/2017 17:39,199,1396,TRUE,OW' Real Ginger Chai-100 gm Tin,199,0,OW' Real Ginger Chai-100 gm Tin,1,4,[1],100,1,18,1,0,5.555555556
+04/09/2017 12:00,219,1397,TRUE,OW' Real Masala Chai -100 gm pouch,219,0,OW' Real Masala Chai -100 gm pouch,1,4,[1],100,1,12,0,0,0
+04/09/2017 12:05,175,1398,TRUE,OW' Real Masala Chai -25 bags,175,0,OW' Real Masala Chai -25 bags,1,4,[1],80,1,17,0,0,0
+04/09/2017 12:08,199,1399,TRUE,OW' Real Mashalla Green Tea Classic -100gm tin,199,0,OW' Real Mashalla Green Tea Classic -100gm tin,1,4,[1],80,1,19,0,0,0
+04/09/2017 12:12,149,1400,TRUE,OW' Real Mashalla Green Tea Classic - 100gm pouch,149,0,OW' Real Mashalla Green Tea Classic - 100gm pouch,1,4,[1],100,1,59,1,0,1.694915254
+04/09/2017 12:15,149,1401,TRUE,OW' Real Mashalla Green Tea Classic -25 bags,149,0,OW' Real Mashalla Green Tea Classic -25 bags,1,4,[1],80,1,14,1,0,7.142857143
+04/09/2017 12:19,199,1402,TRUE,OW' Real Om Shanti -100gm tin,199,0,OW' Real Om Shanti -100gm tin,1,4,[1],100,1,10,0,0,0
+04/09/2017 12:32,149,1403,TRUE,OW' Real Om Shanti -100gm pouch,149,0,OW' Real Om Shanti -100gm pouch,1,4,[1],80,1,14,0,0,0
+04/09/2017 12:36,149,1404,TRUE,OW' Real Om Shanti -25 bags,149,0,OW' Real Om Shanti -25 bags,1,4,[1],80,1,8,0,0,0
+04/09/2017 12:42,199,1405,TRUE,OW' Real The Original Tulsi -100 gms tin,199,0,OW' Real The Original Tulsi -100 gms tin,1,4,[1],80,1,17,0,0,0
+04/09/2017 12:58,99,1406,TRUE,OW' Real The Original Tulsi -25 bags,99,0,OW' Real The Original Tulsi -25 bags,1,4,[1],60,1,16,0,0,0
+04/09/2017 13:01,129,1407,TRUE,OW' Real The Original Tulsi-100gm pouch,129,0,OW' Real The Original Tulsi-100gm pouch,1,4,[1],60,2,19,0,0,0
+07/09/2017 16:36,499,1408,TRUE,OW' Real Tulsi Green Tea + Saffron -25bags,499,0,OW' Real Tulsi Green Tea + Saffron -25bags,1,4,[1],60,1,9,0,0,0
+07/09/2017 16:39,599,1409,TRUE,OW' Real Tulsi Green Tea + Saffron -100gm tin,599,0,OW' Real Tulsi Green Tea + Saffron -100gm tin,1,4,[1],80,1,11,0,0,0
+07/09/2017 16:43,199,1410,TRUE,OW' Real Tulsi Indian Rose -100 gm Tin,199,0,OW' Real Tulsi Indian Rose -100 gm Tin,1,4,[1],80,1,15,0,0,0
+07/09/2017 16:49,139,1411,TRUE,OW' Real Tulsi Brahmi -25 Tea bags,139,0,OW' Real Tulsi Brahmi -25 Tea bags,1,4,[1],60,1,17,0,0,0
+07/09/2017 16:52,179,1412,TRUE,OW' Real Tulsi Brahmi -100gm Tin,179,0,OW' Real Tulsi Brahmi -100gm Tin,1,4,[1],80,1,18,0,0,0
+07/09/2017 16:54,139,1413,TRUE,OW' Real Tulsi Brahmi -100gm Pouch,139,0,OW' Real Tulsi Brahmi -100gm Pouch,1,4,[1],100,1,13,0,0,0
+07/09/2017 17:03,139,1414,TRUE,OW' Real Tulsi Ginger -25 Tea bags,139,0,OW' Real Tulsi Ginger -25 Tea bags,1,4,[1],80,1,25,0,0,0
+07/09/2017 17:07,199,1415,TRUE,OW' Real Tulsi Ginger -100gm Tin,199,0,OW' Real Tulsi Ginger -100gm Tin,1,4,[1],60,1,32,0,0,0
+07/09/2017 17:10,139,1416,TRUE,OW' Real Tulsi Ginger -100gm pouch,139,0,OW' Real Tulsi Ginger -100gm pouch,1,4,[1],70,2,11,1,0,9.090909091
+07/09/2017 17:40,139,1417,TRUE,OW' Real Tulsi Moringa -100gm pouch,139,0,OW' Real Tulsi Moringa -100gm pouch,1,4,[1],80,1,16,0,0,0
+07/09/2017 17:44,179,1418,TRUE,OW' Real Tulsi Moringa -100gm Tin,179,0,OW' Real Tulsi Moringa -100gm Tin,1,4,[1],80,1,10,0,0,0
+07/09/2017 17:51,199,1419,TRUE,OW'Zeal Moringa Powder -100gm,199,0,OW'Zeal Moringa Powder -100gm,1,4,[1],100,1,13,0,0,0
+07/09/2017 18:02,199,1420,TRUE,OW'Zeal Quiona -500gm,199,0,OW'Zeal Quiona -500gm,1,4,[1],80,1,12,0,0,0
+08/09/2017 15:07,129,1421,TRUE,OW' Real Tulsi Green Tea Classic -25 bags,129,0,OW' Real Tulsi Green Tea Classic -25 bags,1,4,[1],100,1,16,0,0,0
+08/09/2017 15:09,199,1422,TRUE,OW' Real Tulsi Green Tea Classic -100gm Tin,199,0,OW' Real Tulsi Green Tea Classic -100gm Tin,1,4,[1],60,1,12,0,0,0
+08/09/2017 15:11,149,1423,TRUE,OW Real Tulsi Green Tea Classic -100gm Pouch,149,0,OW Real Tulsi Green Tea Classic -100gm Pouch,1,4,[1],80,1,11,0,0,0
+08/09/2017 15:16,199,1424,TRUE,OW' Real Tulsi Green Tea Premium - 25 Tea bags,199,0,OW' Real Tulsi Green Tea Premium - 25 Tea bags,1,4,[1],80,1,20,0,0,0
+08/09/2017 15:19,249,1425,TRUE,OW' Real Tulsi Green Tea Premium - 100gm Tin,249,0,OW' Real Tulsi Green Tea Premium - 100gm Tin,1,4,[1],80,1,22,0,0,0
+08/09/2017 15:22,199,1426,TRUE,OW' Real Tulsi Green Tea Premium - 100gm Pouch,199,0,OW' Real Tulsi Green Tea Premium - 100gm Pouch,1,4,[1],100,1,20,0,0,0
+08/09/2017 15:27,199,1427,TRUE,OW' Real Tulsi Lemon -100gm Tin,199,0,OW' Real Tulsi Lemon -100gm Tin,1,4,[1],100,1,22,0,0,0
+08/09/2017 15:29,149,1428,TRUE,OW' Real Tulsi Lemon -100gm Pouch,149,0,OW' Real Tulsi Lemon -100gm Pouch,1,4,[1],100,1,21,0,0,0
+08/09/2017 15:35,139,1429,TRUE,OW' Real Sweet Neem -25 Tea bags,139,0,OW' Real Sweet Neem -25 Tea bags,1,4,[1],80,1,20,0,0,0
+08/09/2017 15:38,179,1430,TRUE,OW' Real Sweet Neem -100gm Tin,179,0,OW' Real Sweet Neem -100gm Tin,1,4,[1],100,1,24,0,0,0
+08/09/2017 15:40,139,1431,TRUE,Organic Wellness OW' Real Sweet Neem -100gm Pouch,139,0,Organic Wellness OW' Real Sweet Neem -100gm Pouch,1,4,[1],100,1,61,1,0,1.639344262
+08/09/2017 15:48,99,1432,TRUE,Organic Wellness OW'Zeal Basil Seeds -100gm,99,0,Organic Wellness OW'Zeal Basil Seeds -100gm,1,4,[1],80,1,22,0,0,0
+08/09/2017 15:52,599,1433,TRUE,Organic Wellness OW'Zeal Cow Ghee - 400ml,599,0,Organic Wellness OW'Zeal Cow Ghee - 400ml,1,4,[1],96,5,57,6,0,10.52631579
+08/09/2017 16:04,999,1434,TRUE,Organic Wellness OW'Heal Man - X -60 capsules,999,0,Organic Wellness OW'Heal Man - X -60 capsules,1,4,[1],60,1,29,4,0,13.79310345
+08/09/2017 16:09,149,1435,TRUE,Organic Wellness OW'Zeal Turmeric Powder - 5% Curcumin - 100gm,149,0,Organic Wellness OW'Zeal Turmeric Powder - 5% Curcumin - 100gm,1,4,[1],60,1,60,1,0,1.666666667
+08/09/2017 16:11,299,1436,TRUE,Organic Wellness OW'Zeal Wheat Grass Powder - 100gm,299,0,Organic Wellness OW'Zeal Wheat Grass Powder - 100gm,1,4,[1],80,3,86,6,0,6.976744186
+14/09/2017 13:27,240,1437,TRUE,Grenera Organics Moringa Capsule Bottle - 120 nos 60gm,240,0,Grenera Organics Moringa Capsule Bottle - 120 nos 60gm,1,4,[1],100,1,3,0,0,0
+14/09/2017 13:34,145,1438,TRUE,Grenera Organics "Moringa Original Tea 20 Tea bags / box"40gm,145,0,Grenera Organics "Moringa Original Tea 20 Tea bags / box"40gm,1,4,[1],100,1,70,2,0,2.857142857
+14/09/2017 13:41,145,1439,TRUE,Grenera Organics "Moringa Ginger Tea 20 Tea bags / box"40gm,145,0,Grenera Organics "Moringa Ginger Tea 20 Tea bags / box"40gm,1,4,[1],80,1,15,0,0,0
+14/09/2017 13:45,145,1440,TRUE,Grenera Organics "Moringa Lemon Ginger Tea 20 Tea bags / box" 40gm,145,0,1440,1,4,[1],80,1,25,2,0,8
+14/09/2017 14:27,145,1441,TRUE,Grenera Organics "Moringa Mint Tea 20 Tea bags / box" 40gm,145,0,Grenera Organics "Moringa Mint Tea 20 Tea bags / box" 40gm,1,4,[1],100,1,26,1,0,3.846153846
+14/09/2017 14:33,145,1442,TRUE,Grenera Organics "Moringa Pomegranate Tea 20 Tea bags / box" 40gm,145,0,1442,1,4,[1],60,1,73,2,0,2.739726027
+14/09/2017 14:43,145,1443,TRUE,Grenera Organics "Moringa Strawberry Tea 20 Tea bags / box" 40gm,145,0,Grenera Organics "Moringa Strawberry Tea 20 Tea bags / box" 40gm,1,4,[1],100,1,51,0,0,0
+14/09/2017 14:48,145,1444,TRUE,Grenera Organics "Moringa Green Tea 20 Tea bags / box" 40gm,145,0,Grenera Organics "Moringa Green Tea 20 Tea bags / box" 40gm,1,4,[1],100,1,62,3,0,4.838709677
+14/09/2017 14:52,145,1445,TRUE,Grenera Organics "Moringa Apple Cinnamon Tea 20 Tea bags / box" 40gm,145,0,1445,1,4,[1],100,2,61,1,0,1.639344262
+14/09/2017 15:00,285,1446,TRUE,Grenera Organics "Organic Moringa Leaf powder  240 gram ",285,0,Grenera Organics "Organic Moringa Leaf powder  240 gram ",1,4,[1],80,1,9,0,0,0
+14/09/2017 15:06,540,1447,TRUE,Grenera Organics Moringa Oil 100ml bottle,540,0,Grenera Organics Moringa Oil 100ml bottle,1,4,[1],30,4,19,1,0,5.263157895
+14/09/2017 15:10,145,1448,TRUE,Grenera Organics "Amla Original Tea 20 Tea bags / box",145,0,Grenera Organics "Amla Original Tea 20 Tea bags / box",1,4,[1],80,1,72,0,0,0
+14/09/2017 15:13,145,1449,TRUE,Grenera Organics "Amla Pomegranate Tea 20 Tea bags / box",145,0,Grenera Organics "Amla Pomegranate Tea 20 Tea bags / box",1,4,[1],100,2,119,33,0,27.73109244
+14/09/2017 15:18,145,1450,TRUE,Grenera Organics "Amla Mint Tea 20 Tea bags / box",145,0,Grenera Organics "Amla Mint Tea 20 Tea bags / box",1,4,[1],60,1,60,0,0,0
+14/09/2017 15:25,500,1452,TRUE,Grenera Organics "ORGANIC MORINGA LEAF POWDER - 500 GRAMS ",500,0,Grenera Organics "ORGANIC MORINGA LEAF POWDER - 500 GRAMS ",1,4,[1],100,1,14,0,0,0
+14/09/2017 15:29,460,1453,TRUE,"""Grenera Organics Organic  Green Tea 500g""",460,0,"""Grenera Organics Organic  Green Tea 500g""",1,4,[1],80,2,79,1,0,1.265822785
+14/09/2017 15:35,270,1454,TRUE,"""Grenera Organics Organic  Wheatgrass Capsules - 90 Capsules / Bottle""",270,0,1454,1,4,[1],80,1,16,0,0,0
+14/09/2017 15:37,270,1455,TRUE,"""Grenera Organics Organic Spirulina  Capsules - 90 Capsules / Bottle""",270,0,1455,1,4,[1],80,1,18,0,0,0
+14/09/2017 15:40,240,1456,TRUE,"""Grenera Organics Triphala  Capsules - 90 Capsules / Bottle""",240,0,"""Grenera Organics Triphala  Capsules - 90 Capsules / Bottle""",1,4,[1],100,1,18,1,0,5.555555556
+14/09/2017 15:44,660,1457,TRUE,"""Grenera Organics Green Tea Extract  Capsules - 90 Capsules / Bottle""",660,0,1457,1,4,[1],80,1,11,0,0,0
+14/09/2017 15:49,1080,1458,TRUE,"""Grenera Organic Spirulina  Powder - 500 grams""",1080,0,"""Grenera Organic Spirulina  Powder - 500 grams""",1,4,[1],80,1,16,1,0,6.25
+14/09/2017 15:54,300,1459,TRUE,"""Grenera Organic Spirulina  Powder - 100 grams""",300,0,"""Grenera Organic Spirulina  Powder - 100 grams""",1,4,[1],60,1,11,1,0,9.090909091
+14/09/2017 15:58,1035,1460,TRUE,"""Grenera Organic Wheatgrass  Powder 500 grams""",1035,0,"""Grenera Organic Wheatgrass  Powder 500 grams""",1,4,[1],100,1,19,0,0,0
+14/09/2017 16:01,290,1461,TRUE,"""Grenera Organic Wheatgrass  Powder 100 grams""",290,0,"""Grenera Organic Wheatgrass  Powder 100 grams""",1,4,[1],100,1,12,1,0,8.333333333
+14/09/2017 16:03,320,1462,TRUE,Grenera Organics Moringa Almond Smoothie -240 gram,320,0,Grenera Organics Moringa Almond Smoothie -240 gram,1,4,[1],100,1,7,1,0,14.28571429
+14/09/2017 16:05,175,1463,TRUE,Grenera Organics Moringa Almond Smoothie -100 gram,175,0,Grenera Organics Moringa Almond Smoothie -100 gram,1,4,[1],60,1,16,1,0,6.25
+14/09/2017 16:09,175,1464,TRUE,Grenera Organics Moringa Choco Smmothie - 100 gram,175,0,Grenera Organics Moringa Choco Smmothie - 100 gram,1,4,[1],60,1,33,0,0,0
+14/09/2017 16:15,385,1465,TRUE,"""Grenera Pkm1 Moringa Seeds  - 100 Nos""",385,0,"""Grenera Pkm1 Moringa Seeds  - 100 Nos""",1,4,[1],60,1,10,0,0,0
+14/09/2017 16:25,470,1466,TRUE,Grenera Organics"Garcinia Cambogia Capsules -90 vegetarian capsules / Bottle",470,0,1466,1,4,[1],60,1,13,0,0,0
+14/09/2017 16:28,470,1467,TRUE,Grenera Organics "Apple Cider Vinegar capsules -90 Vegetarian Capsules / Bottle " 45gm,470,0,1467,1,4,[1],100,1,80,1,0,1.25
+14/09/2017 16:38,460,1468,TRUE,Grenera Organics GREEN TEA 200 GRAM -100 TEA BAGS / BOX,460,0,Grenera Organics GREEN TEA 200 GRAM -100 TEA BAGS / BOX,1,4,[1],87,14,171,54,0,31.57894737
+14/09/2017 16:44,900,1469,TRUE,Grenera Organics "Organic Moringa Leaf powder 1  Kg ",900,0,Grenera Organics "Organic Moringa Leaf powder 1  Kg ",1,4,[1],100,1,14,0,0,0
+14/09/2017 16:52,1030,1470,TRUE,Grenera Organics Whey protein - Chocolate -350 gm,1030,0,Grenera Organics Whey protein - Chocolate -350 gm,1,4,[1],90,2,88,3,0,3.409090909
+14/09/2017 16:54,1030,1471,TRUE,Grenera Organics Whey protein - Unflavored-350gm,1030,0,Grenera Organics Whey protein - Unflavored-350gm,1,4,[1],60,1,20,0,0,0
+14/09/2017 16:57,140,1472,TRUE,Grenera Organics HIBISCUS INFUSION - 20 TEA BAGS / BOX 40gm,140,0,Grenera Organics HIBISCUS INFUSION - 20 TEA BAGS / BOX 40gm,1,4,[1],86,7,214,96,0,44.85981308
+14/09/2017 17:00,1040,1473,TRUE,Grenera Organics Silymarin Milk Thistle (Standardized 80%) -120 Vegetarian Capsules 60gm/Bottle -500 mg per Capsule,1040,0,1473,1,4,[1],60,1,97,4,0,4.12371134
+14/09/2017 17:06,145,1474,TRUE,Grenera Organics "Tulsi Lemon Mint Infusion -20 Tea Bags / Box" 30gm,145,0,1474,1,4,[1],100,1,80,1,0,1.25
+14/09/2017 17:11,145,1475,TRUE,Grenera Organics "Tulsi Lemon Ginger Infusion -20  Tea bags / box " 40 gm,145,0,1475,1,4,[1],60,1,49,0,0,0
+19/09/2017 15:16,119,1476,TRUE,Amlamrut Amla honey 300gms,120,0,Amlamrut Amla honey 300gms,1,4,[1],100,7,211,116,0.833333333,54.97630332
+21/09/2017 17:04,500,1477,TRUE,Aum fresh Dry fruits combo,500,0,Aum fresh Dry fruits combo,1,4,[1],60,1,3,5,0,166.6666667
+04/01/2018 08:12,135,1486,TRUE,Gau Naturals Flax seeds powder 200gms,135,0,Gau Naturals Flax seeds powder 200gms,1,4,[1],0,0,101,5,0,4.95049505
+09/01/2018 06:05,1,1493,TRUE,beauty care te,1,0,beauty care te,1,4,[1],0,0,15,15,0,100
+09/01/2018 07:16,349,1495,TRUE,Forest honey 500gms,499,0,Forest honey 500gms,1,4,[1],100,3,160,19,30.06012024,11.875
+09/01/2018 07:24,625,1498,TRUE,C2K Desi cow ghee 500gms,725,0,C2K Desi cow ghee 500gms,1,4,[1],100,6,283,85,13.79310345,30.03533569
+24/01/2018 06:56,599,1502,TRUE,Arogya Rahasya Joint Less Copper Bottle,599,0,Arogya Rahasya Joint Less Copper Bottle,1,4,[1],96,16,577,473,0,81.97573657
+24/01/2018 11:29,220,1503,TRUE,24 Mantra Almonds,220,0,24 Mantra Almonds,1,4,[1],85,16,434,204,0,47.00460829
+25/01/2018 05:57,499,1507,TRUE,24 Mantra Almond and Moringa Chikki Combo,540,0,24 Mantra Almond and Moringa Chikki Combo,1,4,[1],96,5,251,164,7.592592593,65.33864542
+22/02/2018 10:41,56,1508,TRUE,ROCK SALT G,56,0,268,1,4,[1],95,4,58,50,0,86.20689655
+14/06/2018 09:29,50,1509,TRUE,Red chilly powder 100gms,50,10,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,50,1510,TRUE,Ajwain whole 100gms,50,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,75,1511,TRUE,Brown sugar 500gms,75,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,55,1512,TRUE,Wheat maida 500gms,55,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,130,1513,TRUE,Peanuts 500gms,130,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,100,1514,TRUE,Besan flour 500gms,100,3,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,80,1515,TRUE,Jaggery powder 500gms,80,3,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,80,1516,TRUE,Masoor dal whole 500gms,80,15,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,40,1517,TRUE,Turmeric powder 100gms,40,9,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,35,1518,TRUE,Flax seeds 100gms,35,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,60,1519,TRUE,Corn flour 500gms,60,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,95,1520,TRUE,Tur dal 500gms,95,10,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,45,1521,TRUE,Coriander powder 100gms,45,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,70,1522,TRUE,Ragi flour 500gms,70,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,60,1523,TRUE,Cumin whole 100gms,60,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,115,1524,TRUE,Sonamasuri rice,115,18,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,105,1525,TRUE,Urad dal  white split 500gms,105,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,105,1526,TRUE,Urad dal whole white 500gms,105,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+14/06/2018 09:29,90,1527,TRUE,Urad dal whole 500gms,90,5,8.90606E+12,1,4,[],0,0,0,0,0,0
+02/07/2018 13:02,40,1528,TRUE,Alo fruit Mango juice 300ml,40,56,8.90604E+12,1,4,[],0,0,0,0,0,0
+0,0,236,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,237,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,238,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,257,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,258,0,0,0,0,0,0,0,0,80,1,0,1,0,inf
+0,0,260,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,261,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,264,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,265,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,266,0,0,0,0,0,0,0,0,60,1,0,1,0,inf
+0,0,274,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,275,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,277,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,278,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,282,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,283,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,291,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,292,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,297,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,298,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,304,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,305,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,312,0,0,0,0,0,0,0,0,60,1,0,1,0,inf
+0,0,313,0,0,0,0,0,0,0,0,80,1,0,1,0,inf
+0,0,315,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,316,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,382,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,383,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,384,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,385,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,391,0,0,0,0,0,0,0,0,80,1,0,1,0,inf
+0,0,392,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,395,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,396,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,398,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,399,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,402,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,403,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,418,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,419,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,437,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,438,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,445,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,464,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,465,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,484,0,0,0,0,0,0,0,0,60,1,0,2,0,inf
+0,0,485,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,488,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,489,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,495,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,497,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,500,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,501,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,511,0,0,0,0,0,0,0,0,60,1,0,10,0,inf
+0,0,570,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,571,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,595,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,596,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,637,0,0,0,0,0,0,0,0,60,1,0,2,0,inf
+0,0,638,0,0,0,0,0,0,0,0,100,1,0,2,0,inf
+0,0,676,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,677,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,681,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,682,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,683,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,693,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,694,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,695,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,697,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,698,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,699,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,701,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,702,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,703,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,705,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,706,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,707,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,712,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,713,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,714,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,717,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,718,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,719,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,720,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,725,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,726,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,728,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,729,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,730,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,731,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,733,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,734,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,736,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,737,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,739,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,740,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,742,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,743,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,746,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,747,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,749,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,750,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,756,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,757,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,758,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,760,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,761,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,763,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,764,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,766,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,767,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,768,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,770,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,771,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,773,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,774,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,775,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,777,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,778,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,781,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,782,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,783,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,786,0,0,0,0,0,0,0,0,60,1,0,3,0,inf
+0,0,787,0,0,0,0,0,0,0,0,80,1,0,6,0,inf
+0,0,789,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,790,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,793,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,794,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,795,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,800,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,801,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,802,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,804,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,805,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,807,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,808,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,811,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,812,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,814,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,815,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,816,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,819,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,820,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,821,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,823,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,824,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,825,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,828,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,829,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,833,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,834,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,836,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,837,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,845,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,846,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,851,0,0,0,0,0,0,0,0,100,1,0,3,0,inf
+0,0,852,0,0,0,0,0,0,0,0,100,1,0,5,0,inf
+0,0,864,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,865,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,872,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,873,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,881,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,882,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,889,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,890,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,891,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,892,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,900,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,901,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,905,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,906,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,913,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,914,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,915,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,917,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,918,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,919,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,923,0,0,0,0,0,0,0,0,100,1,0,1,0,inf
+0,0,924,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,927,0,0,0,0,0,0,0,0,100,1,0,1,0,inf
+0,0,928,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,933,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,934,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,936,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,937,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,938,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,940,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,941,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,943,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,944,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,945,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,947,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,948,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,950,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,951,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,953,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,954,0,0,0,0,0,0,0,0,100,1,0,1,0,inf
+0,0,956,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,957,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,962,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,963,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,965,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,966,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,969,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,970,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,971,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,973,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,974,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,977,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,978,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,980,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,981,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,982,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,984,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,985,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,987,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,988,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,990,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,991,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,993,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,994,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,995,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,997,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,998,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,999,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,1002,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1003,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,1009,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,1010,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1011,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1013,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,1014,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1015,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1017,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,1018,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1020,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,1021,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,1023,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1024,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1025,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,1027,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,1028,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1030,0,0,0,0,0,0,0,0,60,1,0,1,0,inf
+0,0,1031,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1033,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,1034,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,1035,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,1180,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,1181,0,0,0,0,0,0,0,0,100,1,0,0,0,0
+0,0,1319,0,0,0,0,0,0,0,0,80,1,0,0,0,0
+0,0,1320,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1321,0,0,0,0,0,0,0,0,60,1,0,0,0,0
+0,0,1478,0,0,0,0,0,0,0,0,0,0,9,0,0,0
+0,0,1483,0,0,0,0,0,0,0,0,0,0,4,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,inf
+0,0,394,0,0,0,0,0,0,0,0,0,0,0,1,0,inf
+0,0,496,0,0,0,0,0,0,0,0,0,0,0,1,0,inf
+0,0,1340,0,0,0,0,0,0,0,0,0,0,0,5,0,inf
+0,0,1341,0,0,0,0,0,0,0,0,0,0,0,108,0,inf
+0,0,1342,0,0,0,0,0,0,0,0,0,0,0,27,0,inf
+0,0,1343,0,0,0,0,0,0,0,0,0,0,0,4,0,inf
+0,0,1451,0,0,0,0,0,0,0,0,0,0,0,1,0,inf
