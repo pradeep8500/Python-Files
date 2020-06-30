@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Resume Filtering</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+	  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+	</head>
+	<body>
+		<div class="container">
+            <h2><u>Layer-1:-</u></h2>
+            <h4><b><u>Resume filtering with keyword based:</u></b></h4>
+            <table border = 1 class="table table-bordered" style="margin-top: 50px;">
+                
+                 <tr><th>Resume Name</th>
+                     {% for key1,value1 in percentage %}   <th>{{key1}} </th>{% endfor %}
+                  </tr>
+                 <tr> <td>Matched Percentage</td>
+                    {% for key1,value1 in percentage %}   <td>{{value1}}  %</td>{% endfor %}
+                 </tr>
+                 
+            </table>
+
+           
+            <h2><u>Layer-2:-</u></h2>
+            <h4><b><u>Getting Technical Experiences :</u></b></h4>
+            <table border = 1 class="table table-bordered" style="margin-top: 50px;">
+                        
+                         <tr><th>Resume Name</th>
+                           {% for key in result8 %}  <th>{{key}} </th>{% endfor %}
+                         </tr>
+                         
+            
+                         {% for key1,value1 in final4.items() %}  <tr><td>{{key1}} </td>{% for key,value in value1.items() %}   {% if value is iterable and value[0] is not string %}
+                                 <td> {{value[0]}} Months</td>
+                                                                {% else %}
+                                                                <td> {{ value }}</td>
+                                                            {% endif %}{% endfor %}</tr>{% endfor %}
+                          
+                    </table>
+            <h4><b><u>For knowledge i gave 8 months as static :</u></b></h4>
+            <table border = 1 class="table table-bordered" style="margin-top: 50px;">
+                        
+                         <tr><th>Resume Name</th>
+                            {% for key in result %}  <th>{{key}} </th>{% endfor %}
+                          </tr>
+            
+                         {% for key1,value1 in final.items() %}  <tr><td>{{key1}} </td>{% for key,value in value1.items() %}   {% if value is iterable and value[0] is not string %}
+                                 <td> {{value[0]}} Months</td>
+                                                                {% else %}
+                                                                <td> {{ value }}</td>
+                                                            {% endif %}{% endfor %}</tr>{% endfor %}
+                          
+                    </table>
+          
+            
+            
+        
+            
+
+	    </div>
+	</body>
+</html>

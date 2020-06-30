@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Python Flask Multiple Files Upload Example</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  </head>
+ 
+  <body>
+    <div class="container" style="width:700px;margin-top: 50px;">
+      <center><b><h1>RESUME PARSING</h1></b></center>
+      <center><b><h2>Select  Files</h2></b></center>
+      <br>
+        <form method="post" action="/dropdown" enctype="dropdown">
+            <div class="form-group">
+                <h4><b><u>Please provide rating based on your needs:</u></b></h4>
+                <input type="radio" name="rating_radio" id="rating_radio" value='and' checked />And
+                <input type="radio" name="rating_radio" id="rating_radio" value ='or'  />Or
+                    <table border = 1 class="table table-bordered" style="margin-top: 50px;">
+                        {% for key,value in final.items() %}
+                         <tr><td>{{ key }}</td>
+                             <td> <select name={{key}}>{% for c in list1 %}<option value={{ c }} {% if c == value %}selected{% endif %}>{{ c }}</option>{% endfor %}</select></td>
+                     </tr>{% endfor %}
+                     </table>
+                    </div>
+            <div class="form-group">
+                <h4><b><u>Please provide experience based on your needs:</u></b></h4>
+                <input type="radio" name="exp_radio" id="exp_radio" value='and' checked />And
+                <input type="radio" name="exp_radio" id="exp_radio" value ='or'  />Or
+                    <table border = 1 class="table table-bordered" style="margin-top: 50px;">
+                        {% for key,value in exp.items() %}
+                         <tr><td>{{ key }}</td>
+                             <td> <select name='kk-{{key}}'>{% for c in list2 %}<option value={{ c }} {% if c == value %}selected{% endif %}>{{ c }}</option>{% endfor %}</select></td>
+                     </tr>{% endfor %}
+                     </table>
+                    </div>
+            
+            
+             <div class="form-group">
+             <h4><b><u>Please provide education qualifications:</u></b></h4>
+                 <select name='edu' multiple="multiple">{% for c in edu_abb
+                     %}<option value={{ c }} {% if c in edu %}selected{% endif %}>{{ c }}</option>{% endfor %}</select>
+                  </div>
+             
+             
+                    <div class="form-group">
+                      <h4><b><u>Please upload your resumes:</u></b></h4>
+                      <label for="selecttextfile"><b>Select Resume  Files</b></label>
+                      <input type="file" name="resume_files[]" multiple="true" autocomplete="on" required>
+                    </div>
+                  <div class="form-group">
+                    <button name="Submit" type="submit" class="btn btn-success">Submit</button>
+                  </div>
+                </form>
+    </div>
+  </body>
+</html>
