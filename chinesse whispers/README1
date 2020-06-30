@@ -1,0 +1,86 @@
+RECOMMENDATIONS:
+              
+         1.CONTENT_BASED RECOMMENDATIONS (product description)
+
+         2.COLLABARATIVE FILTERING RECOMMENDATIONS(user behaviour)
+   
+     !--->>price_based
+     !!--->>content_based
+     !!!--->>frequently_bought
+     !!!!--->>rating_based
+
+
+PRICE_BASED:
+       
+            Here we are using K-nearest neighbour(KNN) algorithm
+
+CONTENT_BASED:
+  
+           Here we are using TF-IDF vectorization and cosine similarity
+
+FREQUENTLY_BOUGHT:
+
+           Here we are using Normal Programming Logics
+ 
+RATING_BASED:
+ 
+          Here we are using Matrix-Factorization algorithm
+
+
+
+FACE_RECOGNISATION:
+
+1.FACE_DETECTION
+
+2.FACE_RECOGNISATION
+
+FACE_DETECTION:
+ 
+                 To detect the faces we are using
+                   
+		   1--->> Haar calssifide classifier(Paul Viola and Michael Jones)
+		   
+		   2--->> HOG (Dalal and Triggs)
+
+FACE_RECOGNISATION: 
+        
+                 To recognise faces first encodeing the faces,we are using 
+    
+                  1--->> face_recognizer = cv2.face.LBPHFaceRecognizer_create()
+                         face_recognizer.train(faces, np.array(labels))
+			 label, confidence = face_recognizer.predict(face1)
+
+		  2--->> encodings = face_recognition.face_encodings(rgb, boxes)
+			 matches = face_recognition.compare_faces(data["encodings"],encoding,tolerance=0.4)
+
+
+
+FACE_CLUSTERING:
+               
+                To grouping the images,,
+		 	
+		 1--->> DBSCAN(metric="euclidean",n_jobs=args["jobs"])
+		
+		 2--->> dlib.chinese_whispers_clustering(descriptors, 0.4)
+
+
+
+
+RECOMMENDATIONS:
+
+python -m CGIHTTPServer 9001
+
+
+
+FACE_RECOGNISATION:
+
+ python3 json_format.py
+
+ python3 recognize_faces_image.py --encodings faces1.pickle --image examples/aaa.JPEG
+
+ python3 recognize_faces_video.py --encodings faces1.pickle
+
+
+DBSCAN - Density-Based Spatial Clustering of Applications with Noise
+LBPH  - Local Binary Patterns Histograms
+HOG - histogram of oriented gradients

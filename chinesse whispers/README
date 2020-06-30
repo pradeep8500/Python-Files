@@ -1,0 +1,38 @@
+This folder(chinese_whispers) belongs to clustering face images and face recognisation. 
+
+face_clustering.py---------->This file contains 4 functions 1.cluster_images 
+	                                                    2.compare_folders
+                                                            3.rename_folders	
+                                                            4.training_images  
+
+1.cluster_images(faces_folder_path,output_folder_path,output_folder_path1,predictor_path,face_rec_model_path): This function takes images folder.
+ actually here grouping(clustering) the images and give separate folders(faces,group1) for unique persons.
+ 
+	In this function we using 2 
+		I.shape_predictor_5_face_landmarks.dat:a shape predictor to find face landmarks so we can precisely localize the face
+		
+		II.dlib_face_recognition_resnet_model_v1.dat: a face recognition model to compute 128D face descriptors for each face.
+
+
+2.compare_folders(pickle_name,output_folder_path,output_folder_path1): This function used for merging the folders, which folders have same person.
+
+3.rename_folders(output_folder_path,output_folder_path1): This function used for rename(label_name) the folders dynamically.if we give same name for 
+two folders then they merge as one folder.
+
+4.training_images(output_folder_path,pickle_name):This function used for traing the images for face recognisation.It takes grouping images as input 
+ and gives output as pickle file(faces.pickle).    
+
+
+file_format.py-----------------> This file is used for grouping the images as folders(faces,groups1) and .txt file formates in folder(files) also.
+
+
+json_format.py-----------------> This file is used for grouping the images as folders(faces,groups1) and .txt file formates in folder(files) and .json file(image.json) format also.
+
+
+recognize_faces_image.py--------->This file is used for take image as input and gives output as recognize the faces(image format) with labels based on pickle file.
+
+
+recognize_faces_video.py--------->This file is used for  take video(web_cam) as input and gives output as recognize the faces(video format) with labels based on pickle file.
+
+
+recognize_faces_video_file.py----->This file is used for  take video as input and gives output as recognize the faces(video format) with labels based on pickle file.
